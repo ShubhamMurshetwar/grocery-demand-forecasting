@@ -16,13 +16,15 @@ This project analyzes grocery store sales data to understand demand trends and i
 - Streamlit
 
 ## Project structure
+```
 grocery-demand-forecasting/
 ├── app.py
 ├── notebooks/
-│   └── demand_forecasting.ipynb
+│ └── demand_forecasting.ipynb
 ├── data/
-│   └── grocery_chain_data.csv
+│ └── grocery_chain_data.csv
 ├── requirements.txt
 └── README.md
+```
 
 
