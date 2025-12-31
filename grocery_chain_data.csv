@@ -1,0 +1,1981 @@
+customer_id,store_name,transaction_date,aisle,product_name,quantity,unit_price,total_amount,discount_amount,final_amount,loyalty_points
+2824,GreenGrocer Plaza,2023-08-26,Produce,Pasta,2,7.46,14.92,0.0,14.92,377
+5506,ValuePlus Market,2024-02-13,Dairy,Cheese,1,1.85,1.85,3.41,-1.56,111
+4657,ValuePlus Market,2023-11-23,Bakery,Onions,4,7.38,29.52,4.04,25.48,301
+2679,SuperSave Central,2025-01-13,Snacks & Candy,Cereal,3,5.5,16.5,1.37,15.13,490
+9935,GreenGrocer Plaza,2023-10-13,Canned Goods,Orange Juice,5,8.66,43.3,1.5,41.8,22
+7912,Corner Grocery,2023-08-31,Dairy,Onions,3,25.04,75.12,1.77,73.35,316
+1488,GreenGrocer Plaza,2023-10-18,Produce,Ground Beef,3,29.56,88.68,2.52,86.16,437
+4582,City Fresh Store,2024-02-03,Health & Wellness,Orange Juice,2,11.73,23.46,0.0,23.46,107
+9279,GreenGrocer Plaza,2024-11-16,Household Items,Apples,5,22.13,110.65,11.07,99.58,83
+1434,QuickStop Market,2024-10-15,Health & Wellness,Onions,2,20.84,41.68,8.34,33.34,431
+4257,FreshMart Downtown,2025-02-13,Canned Goods,Tomatoes,3,2.91,8.73,1.75,6.98,467
+9928,City Fresh Store,2024-06-27,Snacks & Candy,Salmon,2,8.67,17.34,0.0,17.34,126
+4611,Corner Grocery,2024-07-20,Household Items,Tomatoes,3,7.35,22.05,4.02,18.03,70
+5557,GreenGrocer Plaza,2025-04-26,Meat & Seafood,Apples,4,18.29,73.16,4.98,68.18,197
+1106,ValuePlus Market,2025-03-18,Frozen Foods,Onions,1,20.72,20.72,0.0,20.72,58
+3615,MegaMart Westside,2025-01-30,Dairy,Rice,4,5.58,22.32,4.05,18.27,1
+7924,ValuePlus Market,2024-04-27,Dairy,Rice,5,18.65,93.25,18.65,74.6,78
+5552,ValuePlus Market,2023-12-05,Personal Care,Bananas,5,10.39,51.95,7.79,44.16,9
+4527,QuickStop Market,2025-03-22,Bakery,Milk,2,26.45,52.9,3.93,48.97,484
+6514,GreenGrocer Plaza,2023-10-25,Personal Care,Eggs,2,20.12,40.24,6.04,34.2,484
+2519,ValuePlus Market,2024-05-28,Household Items,Cheese,2,27.93,55.86,0.0,55.86,386
+2584,QuickStop Market,2024-05-11,Snacks & Candy,Orange Juice,4,27.08,108.32,21.66,86.66,231
+6635,FamilyFood Express,2024-11-17,Dairy,Cereal,1,18.05,18.05,1.28,16.77,117
+5333,FreshMart Downtown,2025-04-24,Bakery,Bread,1,25.92,25.92,3.89,22.03,36
+1711,City Fresh Store,2025-02-23,Bakery,Onions,2,21.97,43.94,8.79,35.15,451
+8527,City Fresh Store,2024-09-26,Snacks & Candy,Yogurt,1,3.8,3.8,0.38,3.42,220
+3045,Corner Grocery,2025-07-23,Beverages,Milk,1,2.75,2.75,1.99,0.76,372
+7201,FamilyFood Express,2023-10-07,Personal Care,Salmon,2,13.22,26.44,5.29,21.15,142
+5803,GreenGrocer Plaza,2025-05-12,Beverages,Onions,1,2.46,2.46,4.71,-2.25,276
+6925,FamilyFood Express,2024-10-28,Meat & Seafood,Cheese,4,14.95,59.8,1.66,58.14,442
+4150,FreshMart Downtown,2025-02-04,Snacks & Candy,Pasta,4,9.26,37.04,7.41,29.63,356
+2139,FamilyFood Express,2023-09-11,Frozen Foods,Yogurt,1,17.79,17.79,0.0,17.79,277
+4733,MegaMart Westside,2025-03-29,Produce,Milk,5,14.82,74.1,4.84,69.26,470
+5741,GreenGrocer Plaza,2023-10-07,Meat & Seafood,Bread,5,2.96,14.8,1.48,13.32,441
+4814,GreenGrocer Plaza,2025-06-10,Household Items,Ground Beef,5,18.23,91.15,9.12,82.03,317
+2654,ValuePlus Market,2024-05-28,Canned Goods,Pasta,2,20.41,40.82,6.12,34.7,160
+5554,Corner Grocery,2024-07-24,Meat & Seafood,Rice,4,10.16,40.64,2.83,37.81,384
+6977,GreenGrocer Plaza,2023-12-11,Dairy,Onions,2,15.66,31.32,4.52,26.8,67
+7065,MegaMart Westside,2024-05-08,Frozen Foods,Apples,4,25.17,100.68,4.94,95.74,360
+4432,ValuePlus Market,2025-01-08,Produce,Onions,3,28.01,84.03,12.6,71.43,53
+5374,GreenGrocer Plaza,2025-02-02,Dairy,Onions,2,8.89,17.78,0.0,17.78,309
+2169,MegaMart Westside,2024-11-22,Bakery,Pasta,5,15.16,75.8,3.54,72.26,463
+3803,QuickStop Market,2024-09-24,Produce,Bananas,3,23.35,70.05,14.01,56.04,326
+5010,City Fresh Store,2023-12-11,Personal Care,Cheese,5,1.27,6.35,1.14,5.21,38
+8573,MegaMart Westside,2024-05-27,Household Items,Onions,2,13.45,26.9,4.03,22.87,21
+5422,FreshMart Downtown,2025-07-25,Canned Goods,Yogurt,2,20.33,40.66,4.0,36.66,181
+4598,FamilyFood Express,2025-01-19,Meat & Seafood,Apples,4,1.71,6.84,0.68,6.16,377
+6313,FamilyFood Express,2025-05-22,Frozen Foods,Apples,1,12.08,12.08,2.42,9.66,19
+1916,FamilyFood Express,2024-01-31,Beverages,Orange Juice,3,24.79,74.37,14.87,59.5,446
+1525,FreshMart Downtown,2025-04-23,Health & Wellness,Yogurt,4,10.51,42.04,6.31,35.73,442
+6168,MegaMart Westside,2024-06-13,Health & Wellness,Carrots,4,20.7,82.8,1.46,81.34,431
+5386,QuickStop Market,2023-09-27,Meat & Seafood,Pasta,1,4.13,4.13,0.0,4.13,222
+4456,MegaMart Westside,2025-07-16,Snacks & Candy,Carrots,1,12.16,12.16,1.82,10.34,295
+6155,FreshMart Downtown,2024-01-19,Snacks & Candy,Bananas,5,27.83,139.15,20.87,118.28,275
+9179,Corner Grocery,2024-06-09,Dairy,Cereal,5,10.09,50.45,0.0,50.45,434
+8517,QuickStop Market,2023-11-25,Personal Care,Rice,4,10.45,41.8,1.51,40.29,356
+5339,Corner Grocery,2023-11-23,Health & Wellness,Tomatoes,2,18.84,37.68,4.33,33.35,154
+5040,QuickStop Market,2025-03-07,Frozen Foods,Yogurt,4,23.78,95.12,9.51,85.61,310
+9830,City Fresh Store,2024-02-27,Beverages,Yogurt,5,14.71,73.55,0.0,73.55,461
+8019,GreenGrocer Plaza,2025-07-04,Frozen Foods,Carrots,5,10.71,53.55,0.0,53.55,419
+7543,QuickStop Market,2024-05-14,Bakery,Yogurt,2,1.7,3.4,4.4,-1.0,125
+4593,GreenGrocer Plaza,2023-11-22,Beverages,Cheese,5,6.63,33.15,3.31,29.84,356
+9348,Corner Grocery,2024-08-24,Bakery,Eggs,1,26.88,26.88,2.69,24.19,440
+2489,FamilyFood Express,2025-03-16,Meat & Seafood,Carrots,4,2.45,9.8,0.98,8.82,127
+1771,SuperSave Central,2025-06-05,Beverages,Carrots,5,18.26,91.3,4.26,87.04,486
+2796,ValuePlus Market,2023-12-03,Snacks & Candy,Onions,4,27.01,108.04,10.8,97.24,380
+3621,QuickStop Market,2025-04-13,Bakery,Pasta,5,15.04,75.2,7.52,67.68,122
+7916,GreenGrocer Plaza,2024-11-12,Frozen Foods,Ground Beef,3,10.73,32.19,6.44,25.75,457
+2040,SuperSave Central,2024-05-31,Bakery,Tomatoes,2,21.48,42.96,4.3,38.66,32
+7252,MegaMart Westside,2024-11-11,Personal Care,Salmon,4,2.8,11.2,1.12,10.08,426
+8668,FreshMart Downtown,2024-09-20,Household Items,Tomatoes,4,1.16,4.64,0.46,4.18,180
+5119,Corner Grocery,2024-10-09,Personal Care,Onions,5,27.03,135.15,20.27,114.88,249
+1188,Corner Grocery,2025-01-16,Beverages,Bananas,4,10.74,42.96,0.0,42.96,347
+2876,SuperSave Central,2025-01-17,Beverages,Eggs,5,16.48,82.4,3.26,79.14,464
+9797,FreshMart Downtown,2025-03-12,Dairy,Cheese,2,26.13,52.26,7.84,44.42,93
+5371,Corner Grocery,2025-03-25,Canned Goods,Yogurt,4,10.47,41.88,6.28,35.6,389
+6573,Corner Grocery,2023-11-01,Frozen Foods,Bread,4,1.55,6.2,0.93,5.27,276
+5808,FamilyFood Express,2024-07-09,Health & Wellness,Bread,1,22.86,22.86,4.57,18.29,486
+3591,FreshMart Downtown,2024-07-24,Household Items,Eggs,2,4.65,9.3,4.79,4.51,342
+1053,City Fresh Store,2025-02-17,Frozen Foods,Orange Juice,2,18.56,37.12,7.42,29.7,493
+5315,QuickStop Market,2024-08-29,Dairy,Bananas,3,17.69,53.07,5.31,47.76,464
+3927,FamilyFood Express,2024-09-04,Dairy,Ground Beef,1,21.21,21.21,4.13,17.08,154
+2743,MegaMart Westside,2025-06-13,Personal Care,Cheese,3,2.99,8.97,4.4,4.57,331
+5889,City Fresh Store,2025-05-21,Dairy,Cheese,3,19.42,58.26,0.0,58.26,424
+9317,SuperSave Central,2024-11-22,Snacks & Candy,Apples,5,28.99,144.95,14.49,130.46,138
+4258,Corner Grocery,2023-12-03,Household Items,Pasta,3,25.69,77.07,11.56,65.51,425
+7126,City Fresh Store,2025-03-21,Bakery,Salmon,5,18.69,93.45,2.98,90.47,194
+3646,MegaMart Westside,2024-09-28,Meat & Seafood,Potatoes,2,11.28,22.56,3.38,19.18,132
+9689,QuickStop Market,2025-07-20,Personal Care,Bananas,5,28.48,142.4,0.0,142.4,43
+1009,Corner Grocery,2024-11-14,Beverages,Onions,2,21.02,42.04,4.2,37.84,330
+6310,FreshMart Downtown,2024-08-20,Dairy,Rice,2,12.72,25.44,0.0,25.44,124
+1319,MegaMart Westside,2023-11-01,Beverages,Onions,5,10.96,54.8,8.22,46.58,381
+6947,City Fresh Store,2025-06-19,Frozen Foods,Rice,3,7.68,23.04,3.46,19.58,369
+6038,GreenGrocer Plaza,2024-02-08,Personal Care,Apples,2,7.27,14.54,0.0,14.54,247
+1949,ValuePlus Market,2024-02-10,Household Items,Rice,1,25.14,25.14,3.77,21.37,151
+2290,SuperSave Central,2023-10-12,Frozen Foods,Bananas,5,4.66,23.3,2.17,21.13,23
+8962,SuperSave Central,2025-05-01,Health & Wellness,Potatoes,1,26.3,26.3,2.63,23.67,293
+2133,City Fresh Store,2025-03-19,Beverages,Cereal,2,28.99,57.98,4.29,53.69,129
+9727,Corner Grocery,2025-03-23,Beverages,Bread,5,19.24,96.2,19.24,76.96,27
+3060,QuickStop Market,2023-11-14,Dairy,Ground Beef,1,17.17,17.17,2.52,14.65,213
+8787,City Fresh Store,2024-10-07,Frozen Foods,Cheese,3,17.48,52.44,10.49,41.95,30
+3705,FamilyFood Express,2024-02-28,Frozen Foods,Bread,2,7.95,15.9,3.18,12.72,282
+9645,FreshMart Downtown,2025-06-14,Snacks & Candy,Salmon,5,14.62,73.1,10.96,62.14,16
+7932,QuickStop Market,2024-01-18,Beverages,Bread,2,27.78,55.56,5.56,50.0,403
+9835,GreenGrocer Plaza,2025-03-15,Personal Care,Ground Beef,2.0,27.33,54.66,1.24,53.42,423
+4295,QuickStop Market,2025-02-10,Household Items,Rice,4,4.6,18.4,0.0,18.4,352
+6107,Corner Grocery,2024-06-11,Frozen Foods,Carrots,5,15.31,76.55,7.66,68.89,41
+7118,MegaMart Westside,2024-07-12,Household Items,Pasta,1,3.64,3.64,0.0,3.64,492
+9479,QuickStop Market,2024-07-22,Household Items,Milk,2,14.63,29.26,4.39,24.87,333
+2982,SuperSave Central,2024-02-15,Household Items,Cheese,4,29.09,116.36,11.64,104.72,240
+4681,MegaMart Westside,2023-09-25,Canned Goods,Chicken Breast,2,10.55,21.1,3.17,17.93,355
+6539,Corner Grocery,2023-08-23,Personal Care,Milk,4,3.54,14.16,4.88,9.28,129
+4770,Corner Grocery,2024-11-06,Personal Care,Bananas,5,14.39,71.95,2.45,69.5,27
+4608,City Fresh Store,2023-08-12,Health & Wellness,Salmon,1,6.89,6.89,1.03,5.86,281
+2163,City Fresh Store,2025-02-06,Beverages,Chicken Breast,1,29.21,29.21,0.0,29.21,311
+1964,SuperSave Central,2024-01-31,Frozen Foods,Onions,1,17.01,17.01,2.85,14.16,47
+2104,GreenGrocer Plaza,2025-07-10,Health & Wellness,Eggs,4,28.04,112.16,11.22,100.94,149
+1514,City Fresh Store,2025-06-04,Beverages,Ground Beef,4,16.98,67.92,3.03,64.89,196
+6413,SuperSave Central,2023-10-01,Dairy,Pasta,4,10.85,43.4,2.13,41.27,403
+9423,QuickStop Market,2024-02-07,Household Items,Potatoes,2,13.94,27.88,4.18,23.7,247
+5562,ValuePlus Market,2025-01-07,Personal Care,Tomatoes,4,28.04,112.16,0.0,112.16,445
+8953,FamilyFood Express,2024-01-20,Household Items,Tomatoes,2,25.81,51.62,7.74,43.88,210
+9834,City Fresh Store,2023-11-17,Snacks & Candy,Tomatoes,2,15.35,30.7,4.86,25.84,18
+8744,MegaMart Westside,2024-02-11,Dairy,Salmon,1,16.24,16.24,0.0,16.24,233
+8749,SuperSave Central,2025-04-25,Snacks & Candy,Eggs,1,14.61,14.61,2.19,12.42,496
+7669,Corner Grocery,2024-01-01,Health & Wellness,Bread,3,25.71,77.13,11.57,65.56,439
+2545,City Fresh Store,2023-10-21,Personal Care,Milk,5,2.97,14.85,2.97,11.88,323
+8062,GreenGrocer Plaza,2024-05-08,Snacks & Candy,Chicken Breast,1,13.86,13.86,1.18,12.68,355
+7939,FreshMart Downtown,2024-06-21,Frozen Foods,Orange Juice,3,13.48,40.44,3.73,36.71,125
+8651,SuperSave Central,2025-06-07,Meat & Seafood,Apples,1,18.67,18.67,1.87,16.8,195
+1887,SuperSave Central,2025-01-11,Bakery,Salmon,3,14.32,42.96,4.3,38.66,341
+2612,QuickStop Market,2023-09-23,Health & Wellness,Onions,2,3.13,6.26,2.2,4.06,483
+7596,Corner Grocery,2025-02-22,Frozen Foods,Salmon,3,6.77,20.31,1.95,18.36,196
+6559,MegaMart Westside,2025-04-19,Household Items,Rice,3,1.63,4.89,0.73,4.16,424
+2790,FreshMart Downtown,2024-02-16,Household Items,Milk,5,22.6,113.0,22.6,90.4,426
+4139,MegaMart Westside,2024-01-01,Bakery,Yogurt,5,8.26,41.3,0.0,41.3,386
+9786,GreenGrocer Plaza,2024-07-20,Health & Wellness,Milk,3,23.86,71.58,0.0,71.58,17
+3296,SuperSave Central,2024-06-29,Dairy,Rice,3,22.67,68.01,13.6,54.41,89
+4006,ValuePlus Market,2024-03-10,Canned Goods,Carrots,5,27.48,137.4,20.61,116.79,425
+8579,City Fresh Store,2024-02-17,Frozen Foods,Cereal,1,14.57,14.57,2.91,11.66,38
+2235,Corner Grocery,2024-07-16,Personal Care,Orange Juice,1,23.92,23.92,1.49,22.43,7
+2604,MegaMart Westside,2023-09-15,Health & Wellness,Pasta,5,12.04,60.2,3.7,56.5,326
+9856,City Fresh Store,2025-05-17,Produce,Onions,3,27.53,82.59,0.0,82.59,113
+1241,City Fresh Store,2023-10-18,Frozen Foods,Cheese,1,5.04,5.04,0.76,4.28,484
+4872,City Fresh Store,2023-12-14,Dairy,Chicken Breast,2,26.72,53.44,5.34,48.1,69
+7658,MegaMart Westside,2024-08-18,Health & Wellness,Onions,4,18.02,72.08,7.21,64.87,372
+8886,GreenGrocer Plaza,2024-01-20,Beverages,Cheese,3,1.94,5.82,0.58,5.24,189
+7570,City Fresh Store,2025-07-07,Bakery,Orange Juice,1,29.44,29.44,2.59,26.85,188
+1960,FamilyFood Express,2023-12-12,Dairy,Salmon,1,20.21,20.21,4.15,16.06,328
+7209,FamilyFood Express,2023-08-08,Meat & Seafood,Yogurt,1,25.05,25.05,1.86,23.19,283
+7396,FamilyFood Express,2024-02-28,Canned Goods,Eggs,5,1.07,5.35,1.07,4.28,439
+8454,ValuePlus Market,2024-03-15,Frozen Foods,Apples,1,20.16,20.16,2.43,17.73,13
+7930,FamilyFood Express,2025-01-29,Household Items,Cereal,1,6.04,6.04,0.0,6.04,26
+8973,Corner Grocery,2023-12-05,Personal Care,Chicken Breast,1,14.8,14.8,3.37,11.43,398
+4111,City Fresh Store,2024-03-24,Personal Care,Ground Beef,5,2.25,11.25,1.12,10.13,401
+4566,FreshMart Downtown,2023-09-21,Produce,Potatoes,4,13.35,53.4,0.0,53.4,55
+9883,City Fresh Store,2023-09-23,Dairy,Bread,3,18.63,55.89,8.38,47.51,33
+6138,ValuePlus Market,2023-09-20,Canned Goods,Tomatoes,5,16.38,81.9,4.17,77.73,232
+1821,GreenGrocer Plaza,2024-11-02,Health & Wellness,Onions,2,13.46,26.92,2.69,24.23,454
+8811,MegaMart Westside,2024-08-31,Beverages,Tomatoes,4,22.15,88.6,13.29,75.31,160
+9701,QuickStop Market,2023-12-07,Canned Goods,Eggs,4,2.94,11.76,2.73,9.03,425
+1931,MegaMart Westside,2024-09-04,Meat & Seafood,Onions,1,18.0,18.0,0.0,18.0,287
+2312,GreenGrocer Plaza,2025-05-29,Snacks & Candy,Orange Juice,4,26.16,104.64,15.7,88.94,369
+4044,QuickStop Market,2023-09-29,Canned Goods,Chicken Breast,5,15.7,78.5,15.7,62.8,79
+2113,GreenGrocer Plaza,2025-01-12,Canned Goods,Onions,3,4.32,12.96,1.3,11.66,142
+4853,ValuePlus Market,2024-06-15,Household Items,Onions,1,18.65,18.65,1.72,16.93,336
+2964,QuickStop Market,2025-06-28,Canned Goods,Orange Juice,1,6.25,6.25,1.57,4.68,73
+5033,FreshMart Downtown,2024-10-29,Dairy,Carrots,2,11.9,23.8,4.76,19.04,232
+1651,MegaMart Westside,2024-11-30,Frozen Foods,Cereal,5,18.28,91.4,18.28,73.12,452
+2343,SuperSave Central,2024-06-27,Household Items,Milk,1,8.88,8.88,0.89,7.99,338
+9565,City Fresh Store,2024-04-08,Snacks & Candy,Pasta,2,22.88,45.76,4.58,41.18,58
+5272,GreenGrocer Plaza,2024-01-12,Frozen Foods,Potatoes,5,20.34,101.7,10.17,91.53,23
+6147,FreshMart Downtown,2024-02-08,Produce,Yogurt,3,28.4,85.2,12.78,72.42,392
+5351,QuickStop Market,2024-06-09,Canned Goods,Chicken Breast,1,15.41,15.41,3.08,12.33,220
+3144,Corner Grocery,2025-01-09,Personal Care,Ground Beef,5,17.19,85.95,2.59,83.36,342
+5915,FreshMart Downtown,2024-07-27,Snacks & Candy,Bananas,4,27.7,110.8,2.72,108.08,441
+6180,Corner Grocery,2025-07-28,Health & Wellness,Cheese,3,4.33,12.99,2.6,10.39,10
+2188,City Fresh Store,2023-08-14,Canned Goods,Bread,4,25.48,101.92,2.6,99.32,124
+8508,GreenGrocer Plaza,2024-12-01,Snacks & Candy,Rice,3,7.42,22.26,3.04,19.22,398
+2638,GreenGrocer Plaza,2023-10-02,Personal Care,Carrots,2,27.26,54.52,0.0,54.52,178
+9808,SuperSave Central,2024-01-19,Bakery,Chicken Breast,2,8.41,16.82,0.0,16.82,88
+9288,GreenGrocer Plaza,2024-02-28,Meat & Seafood,Potatoes,4,22.87,91.48,0.0,91.48,389
+3170,MegaMart Westside,2025-07-31,Health & Wellness,Cereal,2,13.74,27.48,0.0,27.48,240
+6718,QuickStop Market,2025-06-21,Frozen Foods,Milk,3,15.7,47.1,4.71,42.39,158
+2127,FreshMart Downtown,2025-06-19,Produce,Orange Juice,3,3.22,9.66,3.38,6.28,442
+5002,Corner Grocery,2024-05-20,Beverages,Onions,1,14.03,14.03,2.1,11.93,414
+5669,City Fresh Store,2023-12-07,Personal Care,Eggs,1,14.06,14.06,0.0,14.06,415
+8179,GreenGrocer Plaza,2025-05-15,Personal Care,Apples,1,8.17,8.17,3.09,5.08,224
+9900,SuperSave Central,2025-02-03,Canned Goods,Orange Juice,3,12.23,36.69,0.0,36.69,396
+5956,FreshMart Downtown,2024-11-24,Health & Wellness,Cereal,1,10.55,10.55,1.58,8.97,285
+9666,QuickStop Market,2023-08-13,Health & Wellness,Eggs,3,3.35,10.05,1.51,8.54,339
+5905,QuickStop Market,2025-07-30,Health & Wellness,Tomatoes,2,18.25,36.5,5.47,31.03,480
+2697,ValuePlus Market,2025-08-05,Snacks & Candy,Cereal,2,20.42,40.84,0.0,40.84,424
+3200,Corner Grocery,2024-02-28,Personal Care,Orange Juice,1,11.51,11.51,1.73,9.78,92
+2891,City Fresh Store,2025-06-28,Bakery,Ground Beef,2,5.48,10.96,4.08,6.88,151
+2753,ValuePlus Market,2025-03-05,Produce,Cereal,5,4.79,23.95,4.79,19.16,192
+3546,SuperSave Central,2024-03-05,Household Items,Apples,4,2.26,9.04,0.9,8.14,186
+5616,QuickStop Market,2024-11-18,Beverages,Ground Beef,5,7.93,39.65,7.93,31.72,494
+4450,MegaMart Westside,2025-02-14,Health & Wellness,Salmon,4,23.3,93.2,3.11,90.09,398
+6617,SuperSave Central,2024-01-12,Bakery,Eggs,3,2.5,7.5,4.74,2.76,246
+5325,ValuePlus Market,2024-09-02,Dairy,Rice,1,23.12,23.12,1.59,21.53,139
+9004,Corner Grocery,2024-02-18,Dairy,Ground Beef,4,26.64,106.56,10.66,95.9,476
+1832,FreshMart Downtown,2023-10-17,Snacks & Candy,Carrots,3,7.83,23.49,4.7,18.79,41
+7939,FreshMart Downtown,2025-05-12,Canned Goods,Chicken Breast,3,23.94,71.82,10.77,61.05,70
+5533,City Fresh Store,2023-09-10,Meat & Seafood,Potatoes,4,18.84,75.36,2.02,73.34,463
+1058,SuperSave Central,2024-04-22,Personal Care,Carrots,4,4.21,16.84,2.53,14.31,147
+3143,GreenGrocer Plaza,2024-12-13,Produce,Ground Beef,4,19.52,78.08,1.44,76.64,318
+5291,City Fresh Store,2023-12-10,Household Items,Onions,1,19.32,19.32,0.0,19.32,294
+8239,SuperSave Central,2024-10-08,Frozen Foods,Cheese,1,18.82,18.82,3.76,15.06,123
+8007,GreenGrocer Plaza,2024-10-15,Personal Care,Orange Juice,1,28.64,28.64,2.86,25.78,278
+1158,City Fresh Store,2023-11-01,Produce,Tomatoes,3,8.35,25.05,2.38,22.67,8
+2232,GreenGrocer Plaza,2025-06-22,Household Items,Cereal,2,2.28,4.56,0.0,4.56,279
+3442,SuperSave Central,2024-10-03,Health & Wellness,Salmon,4,19.31,77.24,3.86,73.38,415
+1590,City Fresh Store,2025-05-16,Produce,Rice,2,2.26,4.52,0.68,3.84,102
+7049,QuickStop Market,2024-11-01,Personal Care,Tomatoes,5,14.72,73.6,11.04,62.56,18
+3426,MegaMart Westside,2024-07-05,Produce,Cereal,3,4.6,13.8,1.38,12.42,188
+3088,City Fresh Store,2023-09-08,Snacks & Candy,Cereal,2,15.38,30.76,2.07,28.69,254
+6050,GreenGrocer Plaza,2024-05-16,Snacks & Candy,Bread,4,18.46,73.84,2.18,71.66,421
+1653,GreenGrocer Plaza,2025-07-05,Dairy,Cereal,3,9.88,29.64,5.93,23.71,308
+6862,City Fresh Store,2024-01-17,Canned Goods,Salmon,1,22.07,22.07,4.99,17.08,466
+5088,QuickStop Market,2025-01-06,Health & Wellness,Milk,1,20.45,20.45,4.2,16.25,207
+2684,SuperSave Central,2024-05-07,Produce,Eggs,5,20.65,103.25,20.65,82.6,224
+7658,GreenGrocer Plaza,2024-12-01,Bakery,Orange Juice,3,12.09,36.27,1.61,34.66,290
+3532,City Fresh Store,2025-07-26,Canned Goods,Orange Juice,4,23.12,92.48,2.47,90.01,293
+4878,MegaMart Westside,2025-06-08,Health & Wellness,Pasta,2,28.85,57.7,5.77,51.93,13
+3662,ValuePlus Market,2025-04-19,Snacks & Candy,Onions,1,8.58,8.58,1.72,6.86,133
+3900,QuickStop Market,2025-06-21,Beverages,Yogurt,1,4.93,4.93,0.99,3.94,37
+7755,City Fresh Store,2023-08-26,Dairy,Cereal,3,21.57,64.71,9.71,55.0,281
+3938,SuperSave Central,2025-03-01,Health & Wellness,Apples,3,15.74,47.22,9.44,37.78,62
+6442,FamilyFood Express,2025-04-05,Beverages,Bananas,3,17.06,51.18,1.52,49.66,188
+7745,GreenGrocer Plaza,2025-04-21,Dairy,Rice,4,29.98,119.92,2.64,117.28,368
+5065,Corner Grocery,2024-03-01,Household Items,Bread,2,29.19,58.38,5.84,52.54,328
+3608,City Fresh Store,2025-04-09,Health & Wellness,Carrots,3,4.71,14.13,2.83,11.3,424
+2771,Corner Grocery,2024-05-30,Personal Care,Milk,1,16.01,16.01,3.2,12.81,155
+1634,MegaMart Westside,2025-06-03,Bakery,Orange Juice,5,26.94,134.7,20.2,114.5,433
+8711,FamilyFood Express,2024-01-26,Health & Wellness,Onions,3,4.62,13.86,3.56,10.3,155
+4269,SuperSave Central,2025-05-02,Meat & Seafood,Cereal,5,2.18,10.9,1.18,9.72,442
+8541,QuickStop Market,2024-05-04,Health & Wellness,Yogurt,5,13.07,65.35,6.54,58.81,327
+6000,ValuePlus Market,2025-05-05,Frozen Foods,Rice,4,8.09,32.36,4.85,27.51,413
+4728,City Fresh Store,2024-01-27,Dairy,Milk,2,13.74,27.48,5.5,21.98,247
+1387,MegaMart Westside,2024-12-31,Household Items,Eggs,3,25.97,77.91,7.79,70.12,163
+4164,SuperSave Central,2024-06-11,Canned Goods,Carrots,5,4.07,20.35,2.07,18.28,123
+6378,FamilyFood Express,2024-03-10,Meat & Seafood,Chicken Breast,1,9.41,9.41,1.88,7.53,196
+2137,SuperSave Central,2025-03-29,Canned Goods,Cereal,2,23.12,46.24,4.62,41.62,255
+5573,QuickStop Market,2024-05-05,Beverages,Bananas,1,28.4,28.4,5.68,22.72,258
+9346,FamilyFood Express,2024-06-12,Household Items,Orange Juice,1,2.46,2.46,0.37,2.09,253
+9785,ValuePlus Market,2024-04-20,Produce,Chicken Breast,4,4.87,19.48,1.95,17.53,135
+1452,MegaMart Westside,2023-11-04,Produce,Tomatoes,1,17.53,17.53,2.15,15.38,99
+5279,Corner Grocery,2023-12-23,Personal Care,Salmon,5,9.1,45.5,9.1,36.4,319
+5349,GreenGrocer Plaza,2023-09-05,Snacks & Candy,Orange Juice,3,17.17,51.51,10.3,41.21,187
+2776,ValuePlus Market,2024-11-12,Snacks & Candy,Carrots,1,2.3,2.3,0.23,2.07,70
+8119,ValuePlus Market,2024-05-01,Beverages,Eggs,5,26.89,134.45,2.27,132.18,71
+6139,Corner Grocery,2024-07-10,Household Items,Rice,5,10.74,53.7,0.0,53.7,424
+9379,QuickStop Market,2023-11-04,Beverages,Bananas,3,10.6,31.8,2.23,29.57,56
+7311,FreshMart Downtown,2025-07-05,Household Items,Potatoes,3,29.04,87.12,0.0,87.12,400
+4114,FreshMart Downtown,2024-02-20,Household Items,Potatoes,2,16.19,32.38,6.48,25.9,369
+1727,FamilyFood Express,2025-02-07,Produce,Chicken Breast,2,1.54,3.08,0.62,2.46,160
+8144,Corner Grocery,2023-08-08,Bakery,Cheese,5,23.46,117.3,0.0,117.3,471
+9518,FreshMart Downtown,2025-07-25,Meat & Seafood,Carrots,2,17.26,34.52,2.51,32.01,339
+9821,SuperSave Central,2025-01-21,Beverages,Onions,3,16.83,50.49,2.94,47.55,346
+4228,FamilyFood Express,2024-05-15,Frozen Foods,Onions,3,7.51,22.53,3.38,19.15,498
+8066,FamilyFood Express,2023-09-30,Beverages,Cereal,4,11.11,44.44,6.67,37.77,478
+6409,GreenGrocer Plaza,2024-12-03,Household Items,Onions,4,26.97,107.88,21.58,86.3,202
+6143,QuickStop Market,2025-01-03,Produce,Rice,1,11.03,11.03,0.0,11.03,226
+3041,City Fresh Store,2025-02-16,Bakery,Yogurt,5,8.85,44.25,8.85,35.4,287
+5920,GreenGrocer Plaza,2024-09-03,Household Items,Ground Beef,2,2.46,4.92,0.0,4.92,463
+6067,FamilyFood Express,2025-01-05,Produce,Chicken Breast,4,10.57,42.28,0.0,42.28,241
+7691,SuperSave Central,2024-04-16,Produce,Onions,2,12.79,25.58,2.56,23.02,478
+7592,FamilyFood Express,2025-01-29,Frozen Foods,Cereal,3,19.72,59.16,0.0,59.16,464
+5844,FamilyFood Express,2024-10-10,Personal Care,Milk,2,13.11,26.22,4.99,21.23,428
+3085,Corner Grocery,2024-01-03,Beverages,Apples,3,26.42,79.26,3.41,75.85,4
+7888,MegaMart Westside,2025-01-04,Frozen Foods,Salmon,5,16.2,81.0,2.87,78.13,455
+7211,FamilyFood Express,2025-01-14,Dairy,Cereal,2,22.19,44.38,0.0,44.38,331
+3851,SuperSave Central,2024-11-27,Produce,Cereal,3,17.46,52.38,10.48,41.9,387
+5930,Corner Grocery,2024-06-17,Snacks & Candy,Carrots,3,3.51,10.53,2.11,8.42,342
+9977,SuperSave Central,2025-05-15,Beverages,Cereal,2,1.19,2.38,0.24,2.14,196
+1006,QuickStop Market,2024-03-30,Canned Goods,Rice,5,21.95,109.75,0.0,109.75,5
+5700,MegaMart Westside,2024-01-17,Bakery,Milk,1,14.49,14.49,0.0,14.49,81
+8043,ValuePlus Market,2025-04-08,Frozen Foods,Chicken Breast,3,11.65,34.95,6.99,27.96,113
+6279,City Fresh Store,2024-08-02,Meat & Seafood,Salmon,5,11.83,59.15,4.21,54.94,359
+8238,FamilyFood Express,2024-07-15,Bakery,Bread,5,13.95,69.75,4.67,65.08,360
+4501,GreenGrocer Plaza,2024-09-07,Produce,Onions,5,6.85,34.25,6.85,27.4,274
+8752,MegaMart Westside,2025-04-14,Personal Care,Salmon,1,20.72,20.72,4.6,16.12,367
+3780,City Fresh Store,2024-12-30,Produce,Salmon,2,15.87,31.74,2.85,28.89,233
+2389,QuickStop Market,2024-03-14,Produce,Tomatoes,3,24.67,74.01,1.29,72.72,381
+9445,,2025-01-03,Canned Goods,Bread,5,29.82,149.1,14.91,134.19,478
+6491,FreshMart Downtown,2023-10-18,Frozen Foods,Cheese,2,23.29,46.58,6.99,39.59,392
+4848,Corner Grocery,2025-01-10,Beverages,Tomatoes,4,3.32,13.28,0.0,13.28,493
+6085,MegaMart Westside,2024-01-28,Dairy,Apples,5,12.39,61.95,4.02,57.93,65
+4262,QuickStop Market,2023-11-29,Beverages,Onions,4,16.42,65.68,13.14,52.54,421
+1400,City Fresh Store,2023-09-11,Canned Goods,Eggs,3,6.46,19.38,4.24,15.14,448
+5011,Corner Grocery,2024-08-10,Household Items,Bananas,2,6.97,13.94,1.39,12.55,51
+2193,FreshMart Downtown,2024-07-25,Bakery,Milk,4,13.72,54.88,1.56,53.32,276
+7790,QuickStop Market,2025-06-25,Bakery,Cereal,5,18.33,91.65,18.33,73.32,344
+4185,QuickStop Market,2025-02-14,Meat & Seafood,Carrots,2,12.98,25.96,4.79,21.17,140
+7291,SuperSave Central,2024-08-24,Health & Wellness,Cheese,5,15.36,76.8,0.0,76.8,497
+7547,Corner Grocery,2024-02-12,Personal Care,Cereal,4,12.83,51.32,10.26,41.06,153
+3417,ValuePlus Market,2024-12-28,Beverages,Ground Beef,2,9.71,19.42,1.94,17.48,362
+1090,FreshMart Downtown,2025-06-30,Personal Care,Cheese,4,17.15,68.6,13.72,54.88,68
+2746,QuickStop Market,2025-04-02,Bakery,Cereal,1,27.73,27.73,3.14,24.59,433
+7965,FamilyFood Express,2024-01-23,Produce,Pasta,4,20.53,82.12,1.75,80.37,308
+3881,ValuePlus Market,2025-04-22,Bakery,Potatoes,2,26.2,52.4,1.85,50.55,170
+9486,FamilyFood Express,2024-08-01,Dairy,Potatoes,2,21.16,42.32,4.23,38.09,360
+1822,FamilyFood Express,2024-10-12,Personal Care,Cereal,3,12.03,36.09,5.41,30.68,273
+5082,QuickStop Market,2025-07-19,Canned Goods,Carrots,4,14.5,58.0,8.7,49.3,411
+2988,FamilyFood Express,2024-07-26,Canned Goods,Cereal,4,2.32,9.28,0.0,9.28,442
+3184,SuperSave Central,2025-04-20,Produce,Pasta,5,28.1,140.5,21.07,119.43,296
+8612,SuperSave Central,2025-01-06,Bakery,Cereal,2,12.01,24.02,2.4,21.62,426
+9702,ValuePlus Market,2024-10-14,Health & Wellness,Cereal,3,23.13,69.39,6.94,62.45,250
+6198,SuperSave Central,2025-03-15,Canned Goods,Apples,2,21.88,43.76,4.96,38.8,250
+8251,FreshMart Downtown,2024-11-24,Personal Care,Milk,1,28.4,28.4,2.65,25.75,342
+9270,FamilyFood Express,2024-07-03,Dairy,Eggs,1,7.33,7.33,3.47,3.86,233
+9976,City Fresh Store,2024-07-18,Health & Wellness,Potatoes,1,1.18,1.18,1.07,0.11,282
+3607,QuickStop Market,2025-03-06,Personal Care,Rice,1,15.55,15.55,3.11,12.44,357
+8777,GreenGrocer Plaza,2024-07-21,Dairy,Carrots,2,7.98,15.96,2.39,13.57,317
+5246,QuickStop Market,2025-03-12,Snacks & Candy,Bread,3,28.81,86.43,0.0,86.43,235
+5050,FamilyFood Express,2025-05-20,Frozen Foods,Bread,1,3.7,3.7,2.9,0.8,194
+5543,FreshMart Downtown,2025-03-23,Meat & Seafood,Bread,4,25.5,102.0,4.91,97.09,330
+9540,GreenGrocer Plaza,2024-08-17,Personal Care,Milk,2,7.12,14.24,2.14,12.1,444
+4919,FreshMart Downtown,2024-03-07,Dairy,Pasta,5,17.33,86.65,13.0,73.65,16
+8206,FreshMart Downtown,2023-10-06,Bakery,Eggs,4,27.93,111.72,1.96,109.76,153
+5681,Corner Grocery,2024-02-05,Health & Wellness,Onions,3,12.12,36.36,0.0,36.36,378
+5451,GreenGrocer Plaza,2024-04-23,Personal Care,Orange Juice,1,3.82,3.82,0.57,3.25,118
+6238,Corner Grocery,2025-06-30,Canned Goods,Bananas,3,23.71,71.13,14.23,56.9,230
+9849,MegaMart Westside,2023-10-08,Personal Care,Tomatoes,4,6.38,25.52,4.09,21.43,299
+3267,QuickStop Market,2023-12-02,Bakery,Bread,1,8.76,8.76,0.0,8.76,194
+4788,Corner Grocery,2024-05-30,Canned Goods,Orange Juice,1,3.64,3.64,0.36,3.28,482
+3503,MegaMart Westside,2025-02-05,Frozen Foods,Chicken Breast,2,3.52,7.04,3.22,3.82,220
+4505,Corner Grocery,2023-09-25,Dairy,Bananas,1,11.25,11.25,1.12,10.13,47
+7797,FreshMart Downtown,2024-06-18,Frozen Foods,Cheese,4,23.59,94.36,3.08,91.28,371
+6421,Corner Grocery,2024-10-01,Meat & Seafood,Eggs,3,9.72,29.16,1.67,27.49,252
+8633,QuickStop Market,2024-06-24,Snacks & Candy,Rice,4,23.69,94.76,18.95,75.81,184
+2020,City Fresh Store,2024-01-14,Household Items,Yogurt,4,4.09,16.36,1.64,14.72,155
+7883,MegaMart Westside,2024-06-04,Household Items,Tomatoes,3,13.76,41.28,6.19,35.09,220
+1320,MegaMart Westside,2025-06-02,Household Items,Yogurt,4,10.1,40.4,6.06,34.34,493
+7232,QuickStop Market,2024-08-11,Health & Wellness,Potatoes,5,23.67,118.35,17.75,100.6,166
+1096,Corner Grocery,2024-05-06,Canned Goods,Chicken Breast,5,6.78,33.9,0.0,33.9,279
+5892,ValuePlus Market,2025-03-14,Produce,Salmon,2,13.71,27.42,2.74,24.68,149
+7389,City Fresh Store,2025-05-30,Meat & Seafood,Rice,2,8.32,16.64,1.66,14.98,78
+7865,GreenGrocer Plaza,2024-09-28,Beverages,Potatoes,5,12.61,63.05,1.15,61.9,259
+9947,MegaMart Westside,2025-04-19,Personal Care,Bread,1,23.29,23.29,4.66,18.63,336
+4613,FreshMart Downtown,2024-08-20,Household Items,Tomatoes,3,29.0,87.0,1.39,85.61,220
+4595,FamilyFood Express,2024-03-05,Personal Care,Carrots,5,17.83,89.15,8.92,80.23,294
+8140,MegaMart Westside,2024-08-18,Snacks & Candy,Salmon,5,21.01,105.05,2.93,102.12,77
+1475,QuickStop Market,2024-06-04,Snacks & Candy,Bread,1,25.1,25.1,3.77,21.33,373
+6507,QuickStop Market,2025-01-07,Canned Goods,Salmon,2,16.1,32.2,2.75,29.45,178
+7624,City Fresh Store,2025-02-19,Canned Goods,Bread,3,2.29,6.87,4.4,2.47,363
+3704,GreenGrocer Plaza,2025-05-20,Health & Wellness,Apples,2,15.95,31.9,4.78,27.12,282
+8657,ValuePlus Market,2025-07-21,Snacks & Candy,Salmon,2,24.12,48.24,9.65,38.59,322
+3091,Corner Grocery,2024-12-02,Snacks & Candy,Bananas,5,26.6,133.0,13.3,119.7,230
+9751,FreshMart Downtown,2023-08-27,Bakery,Yogurt,3,22.81,68.43,1.41,67.02,414
+7455,ValuePlus Market,2024-11-08,Meat & Seafood,Orange Juice,3,6.71,20.13,0.0,20.13,58
+1444,City Fresh Store,2023-10-11,Personal Care,Cereal,5,12.26,61.3,9.19,52.11,200
+8022,MegaMart Westside,2023-11-20,Beverages,Apples,3,27.63,82.89,0.0,82.89,302
+8564,SuperSave Central,2023-12-26,Canned Goods,Chicken Breast,2,9.85,19.7,0.0,19.7,93
+1823,SuperSave Central,2024-02-25,Personal Care,Tomatoes,4,18.29,73.16,7.32,65.84,294
+7211,SuperSave Central,2024-04-17,Beverages,Onions,2,17.08,34.16,6.83,27.33,250
+4467,SuperSave Central,2024-07-25,Canned Goods,Salmon,5,2.54,12.7,1.27,11.43,183
+6355,SuperSave Central,2024-04-25,Bakery,Tomatoes,5,15.65,78.25,0.0,78.25,253
+7211,City Fresh Store,2024-03-10,Snacks & Candy,Salmon,4,5.84,23.36,4.67,18.69,289
+7906,QuickStop Market,2024-02-18,Produce,Pasta,2,16.58,33.16,3.97,29.19,86
+2341,City Fresh Store,2024-08-06,Personal Care,Carrots,1,17.6,17.6,4.29,13.31,137
+1317,FreshMart Downtown,2025-03-10,Beverages,Onions,2,29.69,59.38,8.91,50.47,52
+9837,FreshMart Downtown,2023-09-16,Beverages,Pasta,3,25.99,77.97,4.1,73.87,44
+6733,FamilyFood Express,2024-01-28,Bakery,Orange Juice,5,19.34,96.7,19.34,77.36,84
+2124,FamilyFood Express,2025-04-04,Produce,Orange Juice,5,9.14,45.7,6.86,38.84,275
+1659,QuickStop Market,2025-03-14,Frozen Foods,Pasta,5,29.57,147.85,29.57,118.28,347
+1508,Corner Grocery,2024-02-15,Produce,Pasta,2,21.33,42.66,8.53,34.13,67
+4266,MegaMart Westside,2025-05-19,Bakery,Tomatoes,4,5.11,20.44,0.0,20.44,323
+1333,Corner Grocery,2024-12-01,Snacks & Candy,Salmon,1,19.37,19.37,1.94,17.43,450
+3496,ValuePlus Market,2024-02-08,Frozen Foods,Orange Juice,4,28.55,114.2,0.0,114.2,167
+3068,GreenGrocer Plaza,2024-08-08,Beverages,Orange Juice,1,24.06,24.06,2.41,21.65,203
+2874,FamilyFood Express,2024-10-18,Beverages,Pasta,3,25.01,75.03,4.41,70.62,172
+4571,MegaMart Westside,2024-08-02,Health & Wellness,Milk,1,3.88,3.88,1.5,2.38,401
+5198,SuperSave Central,2025-03-24,Beverages,Salmon,1,29.75,29.75,0.0,29.75,219
+7043,SuperSave Central,2023-12-15,Health & Wellness,Rice,2,26.35,52.7,3.62,49.08,448
+2876,QuickStop Market,2025-04-02,Dairy,Orange Juice,2,2.49,4.98,0.0,4.98,320
+3683,FamilyFood Express,2024-04-04,Snacks & Candy,Bread,1,1.02,1.02,0.2,0.82,244
+2771,FamilyFood Express,2024-10-29,Personal Care,Salmon,1,1.22,1.22,0.12,1.1,175
+1420,SuperSave Central,2025-07-28,Beverages,Bread,2,12.1,24.2,2.25,21.95,374
+6111,QuickStop Market,2024-10-27,Meat & Seafood,Tomatoes,2,19.6,39.2,3.12,36.08,346
+7149,FreshMart Downtown,2024-06-10,Household Items,Apples,4,11.17,44.68,4.47,40.21,109
+4249,City Fresh Store,2023-10-05,Bakery,Bread,1,5.05,5.05,0.76,4.29,63
+4978,Corner Grocery,2023-10-25,Canned Goods,Eggs,2,9.02,18.04,3.4,14.64,43
+5941,QuickStop Market,2025-05-28,Produce,Rice,2,16.0,32.0,0.0,32.0,260
+2983,,2025-04-16,Frozen Foods,Milk,2,15.34,30.68,3.07,27.61,57
+1672,GreenGrocer Plaza,2024-05-02,Personal Care,Bananas,3,28.07,84.21,2.68,81.53,67
+9728,ValuePlus Market,2024-07-04,Health & Wellness,Apples,4,28.67,114.68,3.35,111.33,394
+7071,FreshMart Downtown,2023-09-29,Frozen Foods,Yogurt,1,27.74,27.74,2.15,25.59,485
+9289,,2024-12-21,Snacks & Candy,Cheese,4,3.38,13.52,2.03,11.49,274
+6590,GreenGrocer Plaza,2023-08-16,Frozen Foods,Bread,5,27.7,138.5,2.31,136.19,498
+7882,GreenGrocer Plaza,2025-05-06,Frozen Foods,Cheese,2,2.67,5.34,2.81,2.53,44
+9031,FreshMart Downtown,2023-10-27,Frozen Foods,Apples,1,1.36,1.36,0.27,1.09,70
+8102,City Fresh Store,2024-05-14,Canned Goods,Carrots,5,23.7,118.5,23.7,94.8,369
+8532,MegaMart Westside,2025-02-06,Meat & Seafood,Pasta,1,23.36,23.36,2.34,21.02,15
+3506,QuickStop Market,2024-07-10,Personal Care,Bread,3,21.65,64.95,6.5,58.45,295
+3885,City Fresh Store,2025-02-26,Personal Care,Orange Juice,1,15.48,15.48,2.32,13.16,290
+9548,SuperSave Central,2024-12-24,Frozen Foods,Chicken Breast,5,20.54,102.7,0.0,102.7,59
+5425,ValuePlus Market,2024-11-27,Produce,Milk,1,8.08,8.08,0.81,7.27,241
+9817,SuperSave Central,2025-03-30,Meat & Seafood,Milk,5,24.28,121.4,24.28,97.12,365
+8921,MegaMart Westside,2024-08-02,Bakery,Cheese,3,8.86,26.58,3.01,23.57,39
+8136,FreshMart Downtown,2025-05-09,Meat & Seafood,Ground Beef,5,29.45,147.25,4.51,142.74,488
+5397,QuickStop Market,2024-04-13,Frozen Foods,Cereal,1,17.03,17.03,3.41,13.62,4
+5022,QuickStop Market,2025-05-13,Household Items,Rice,5,8.02,40.1,8.02,32.08,188
+2419,ValuePlus Market,2024-03-10,Bakery,Eggs,1,28.03,28.03,2.39,25.64,12
+8385,FreshMart Downtown,2024-02-12,Canned Goods,Bananas,4,25.61,102.44,1.82,100.62,372
+8613,FamilyFood Express,2024-10-22,Snacks & Candy,Potatoes,1,29.19,29.19,1.18,28.01,72
+7209,FamilyFood Express,2024-04-24,Personal Care,Cheese,3.0,14.29,42.87,1.38,41.49,382
+1470,SuperSave Central,2024-08-24,Health & Wellness,Tomatoes,1,18.15,18.15,0.0,18.15,31
+6325,SuperSave Central,2023-12-26,Bakery,Rice,3,25.67,77.01,0.0,77.01,474
+8988,MegaMart Westside,2024-01-18,Canned Goods,Salmon,3,7.76,23.28,4.66,18.62,483
+6813,GreenGrocer Plaza,2025-04-17,Meat & Seafood,Chicken Breast,2,14.03,28.06,3.14,24.92,160
+5232,FamilyFood Express,2024-04-27,Beverages,Rice,4,8.68,34.72,6.94,27.78,61
+5581,QuickStop Market,2025-06-20,Household Items,Milk,2,25.23,50.46,3.84,46.62,167
+5526,MegaMart Westside,2024-10-11,Snacks & Candy,Carrots,1,20.63,20.63,4.81,15.82,133
+1166,City Fresh Store,2024-09-11,Personal Care,Onions,2,3.74,7.48,1.05,6.43,52
+4130,FamilyFood Express,2023-10-12,Meat & Seafood,Yogurt,4,11.78,47.12,3.34,43.78,322
+4954,GreenGrocer Plaza,2025-02-16,Produce,Bread,2,27.16,54.32,4.62,49.7,227
+7658,,2024-08-20,Dairy,Milk,4,2.46,9.84,0.0,9.84,473
+4937,Corner Grocery,2025-01-24,Beverages,Bananas,4,20.8,83.2,16.64,66.56,88
+8800,SuperSave Central,2024-12-20,Frozen Foods,Pasta,4,26.61,106.44,0.0,106.44,17
+9041,QuickStop Market,2024-07-20,Beverages,Cheese,5,14.88,74.4,7.44,66.96,44
+1282,SuperSave Central,2023-10-18,Snacks & Candy,Yogurt,5,8.22,41.1,4.11,36.99,410
+5820,MegaMart Westside,2024-01-26,Beverages,Onions,4,10.97,43.88,4.39,39.49,289
+7625,QuickStop Market,2025-01-25,Meat & Seafood,Bananas,3,18.31,54.93,4.23,50.7,15
+4986,City Fresh Store,2024-03-31,Personal Care,Orange Juice,5,29.98,149.9,1.99,147.91,498
+7046,FamilyFood Express,2024-08-08,Frozen Foods,Onions,1,23.15,23.15,4.39,18.76,485
+9698,Corner Grocery,2024-04-30,Canned Goods,Apples,2,7.85,15.7,1.11,14.59,162
+7971,MegaMart Westside,2025-03-08,Household Items,Eggs,5,28.49,142.45,2.24,140.21,428
+6419,City Fresh Store,2024-05-06,Produce,Bread,1,7.74,7.74,2.91,4.83,112
+8434,MegaMart Westside,2024-03-04,Household Items,Yogurt,2,10.87,21.74,1.09,20.65,90
+6023,SuperSave Central,2024-02-18,Dairy,Carrots,3,28.85,86.55,1.4,85.15,191
+4777,QuickStop Market,2023-11-08,Canned Goods,Eggs,2,22.23,44.46,0.0,44.46,223
+4155,MegaMart Westside,2024-04-08,Meat & Seafood,Onions,5,23.81,119.05,11.91,107.14,114
+2958,QuickStop Market,2025-03-06,Frozen Foods,Eggs,2,22.13,44.26,1.13,43.13,485
+9779,MegaMart Westside,2025-03-21,Household Items,Ground Beef,5,4.01,20.05,3.01,17.04,254
+4033,GreenGrocer Plaza,2024-01-02,Bakery,Orange Juice,3,5.86,17.58,0.0,17.58,453
+4545,MegaMart Westside,2025-03-02,Beverages,Bananas,3,7.07,21.21,3.18,18.03,354
+8933,QuickStop Market,2024-03-08,Dairy,Bananas,1,12.18,12.18,2.44,9.74,375
+9595,Corner Grocery,2024-11-12,Beverages,Tomatoes,3,16.82,50.46,3.6,46.86,51
+5636,FamilyFood Express,2023-10-24,Meat & Seafood,Salmon,1,24.17,24.17,2.27,21.9,17
+4180,GreenGrocer Plaza,2024-03-24,Dairy,Cereal,2,26.74,53.48,4.77,48.71,82
+4727,GreenGrocer Plaza,2024-05-13,Canned Goods,Potatoes,1,13.5,13.5,4.56,8.94,334
+3939,SuperSave Central,2024-03-28,Produce,Chicken Breast,3,6.95,20.85,0.0,20.85,97
+1231,ValuePlus Market,2025-02-06,Personal Care,Pasta,3,9.61,28.83,2.88,25.95,49
+9751,ValuePlus Market,2023-11-13,Beverages,Eggs,1,11.45,11.45,1.72,9.73,218
+5494,City Fresh Store,2023-09-11,Bakery,Chicken Breast,1,6.99,6.99,2.89,4.1,326
+1893,GreenGrocer Plaza,2024-10-09,Frozen Foods,Tomatoes,4,15.17,60.68,3.57,57.11,338
+5786,Corner Grocery,2025-01-29,Meat & Seafood,Orange Juice,4,11.7,46.8,7.02,39.78,228
+3068,City Fresh Store,2024-12-14,Beverages,Pasta,2,25.27,50.54,10.11,40.43,288
+9042,GreenGrocer Plaza,2023-10-25,Dairy,Orange Juice,5,13.0,65.0,1.24,63.76,387
+1200,Corner Grocery,2024-10-25,Personal Care,Cheese,5,20.91,104.55,4.53,100.02,479
+5658,City Fresh Store,2024-08-05,Frozen Foods,Bread,4,27.17,108.68,3.28,105.4,365
+8843,ValuePlus Market,2024-07-14,Household Items,Eggs,1,28.52,28.52,5.7,22.82,229
+6582,FamilyFood Express,2023-12-28,Bakery,Eggs,1,13.27,13.27,2.65,10.62,349
+1841,SuperSave Central,2024-02-19,Household Items,Pasta,3,27.4,82.2,2.55,79.65,468
+8827,Corner Grocery,2023-11-03,Personal Care,Cereal,3,16.06,48.18,0.0,48.18,469
+2070,ValuePlus Market,2024-06-13,Snacks & Candy,Chicken Breast,4,5.33,21.32,3.25,18.07,290
+9056,GreenGrocer Plaza,2023-10-03,Frozen Foods,Onions,3,26.45,79.35,0.0,79.35,135
+1878,City Fresh Store,2023-12-02,Household Items,Potatoes,1,5.98,5.98,3.43,2.55,206
+3444,Corner Grocery,2025-04-28,Produce,Tomatoes,3,21.01,63.03,9.45,53.58,25
+5978,MegaMart Westside,2023-10-12,Produce,Cereal,3,10.01,30.03,0.0,30.03,431
+5066,GreenGrocer Plaza,2023-11-07,Bakery,Eggs,3,29.24,87.72,13.16,74.56,226
+7818,Corner Grocery,2024-11-19,Household Items,Bread,2,13.8,27.6,0.0,27.6,467
+4697,City Fresh Store,2025-03-31,Personal Care,Orange Juice,1,15.93,15.93,2.39,13.54,81
+9561,ValuePlus Market,2024-05-28,Snacks & Candy,Eggs,5,26.49,132.45,26.49,105.96,14
+8381,FamilyFood Express,2025-07-12,Produce,Ground Beef,1,14.23,14.23,0.0,14.23,470
+8253,FamilyFood Express,2024-03-24,Frozen Foods,Orange Juice,4,15.64,62.56,0.0,62.56,325
+8025,FreshMart Downtown,2024-03-31,Bakery,Orange Juice,4,18.22,72.88,3.21,69.67,90
+1986,MegaMart Westside,2024-11-22,Meat & Seafood,Pasta,1,9.26,9.26,1.85,7.41,197
+2625,FamilyFood Express,2025-03-21,Bakery,Ground Beef,2,8.79,17.58,0.0,17.58,209
+4404,FreshMart Downtown,2024-12-04,Beverages,Eggs,2,18.42,36.84,5.53,31.31,4
+4457,QuickStop Market,2024-02-28,Health & Wellness,Pasta,4,26.96,107.84,10.78,97.06,436
+2330,QuickStop Market,2023-12-06,Bakery,Salmon,3,20.63,61.89,1.41,60.48,422
+4929,ValuePlus Market,2023-12-20,Health & Wellness,Orange Juice,5,19.76,98.8,14.82,83.98,311
+2229,GreenGrocer Plaza,2023-12-06,Beverages,Bread,3,29.65,88.95,13.34,75.61,327
+1043,QuickStop Market,2024-06-19,Health & Wellness,Rice,2,5.34,10.68,4.22,6.46,391
+8381,Corner Grocery,2025-01-23,Health & Wellness,Cereal,2,21.91,43.82,6.57,37.25,335
+8699,QuickStop Market,2024-03-20,Snacks & Candy,Tomatoes,4,22.36,89.44,13.42,76.02,298
+1534,FamilyFood Express,2024-02-02,Health & Wellness,Onions,4,27.28,109.12,2.2,106.92,343
+5720,SuperSave Central,2025-02-06,Health & Wellness,Onions,2,9.51,19.02,0.0,19.02,241
+5632,QuickStop Market,2025-02-03,Personal Care,Apples,3,19.97,59.91,11.98,47.93,113
+8438,QuickStop Market,2023-10-01,Snacks & Candy,Cereal,3,8.55,25.65,2.88,22.77,150
+4824,GreenGrocer Plaza,2025-07-24,Beverages,Yogurt,5,4.46,22.3,2.19,20.11,348
+5334,FreshMart Downtown,2025-04-09,Meat & Seafood,Eggs,2,10.93,21.86,4.37,17.49,291
+4241,MegaMart Westside,2024-07-02,Meat & Seafood,Bread,4,10.64,42.56,0.0,42.56,90
+2880,FreshMart Downtown,2024-10-02,Produce,Salmon,3,7.06,21.18,4.06,17.12,396
+4683,City Fresh Store,2024-12-22,Dairy,Eggs,5,13.57,67.85,6.79,61.06,219
+3441,City Fresh Store,2025-07-12,Snacks & Candy,Bananas,1,16.47,16.47,4.57,11.9,374
+5352,ValuePlus Market,2025-05-10,Bakery,Bananas,1,19.16,19.16,0.0,19.16,127
+3330,MegaMart Westside,2023-10-01,Frozen Foods,Eggs,1,12.11,12.11,2.42,9.69,301
+1977,GreenGrocer Plaza,2023-12-13,Produce,Rice,3,14.21,42.63,4.26,38.37,266
+6039,SuperSave Central,2024-11-11,Canned Goods,Potatoes,3,22.74,68.22,1.91,66.31,84
+5728,SuperSave Central,2024-07-13,Bakery,Bananas,5,15.62,78.1,0.0,78.1,63
+3037,FreshMart Downtown,2024-08-05,Snacks & Candy,Pasta,5,19.06,95.3,0.0,95.3,304
+5982,GreenGrocer Plaza,2025-01-31,Health & Wellness,Bananas,1,20.99,20.99,2.1,18.89,213
+7594,GreenGrocer Plaza,2024-03-05,Personal Care,Pasta,4,21.34,85.36,12.8,72.56,105
+9199,Corner Grocery,2024-09-29,Health & Wellness,Chicken Breast,5,8.82,44.1,4.41,39.69,310
+9090,GreenGrocer Plaza,2024-07-12,Personal Care,Chicken Breast,3,4.3,12.9,2.58,10.32,54
+2317,FamilyFood Express,2024-11-13,Frozen Foods,Carrots,2,11.37,22.74,4.55,18.19,209
+1653,FreshMart Downtown,2025-06-27,Personal Care,Potatoes,2,20.95,41.9,8.38,33.52,246
+8078,FreshMart Downtown,2025-02-27,Produce,Bread,1,25.21,25.21,5.04,20.17,342
+6280,GreenGrocer Plaza,2024-11-17,Personal Care,Bread,1,27.23,27.23,2.72,24.51,329
+5102,QuickStop Market,2023-08-27,Frozen Foods,Salmon,1,3.88,3.88,0.58,3.3,89
+2496,MegaMart Westside,2024-01-31,Health & Wellness,Cereal,4,22.41,89.64,4.41,85.23,48
+1339,SuperSave Central,2025-03-23,Canned Goods,Orange Juice,4,28.69,114.76,17.21,97.55,137
+5415,MegaMart Westside,2024-10-27,Meat & Seafood,Chicken Breast,4,12.6,50.4,5.04,45.36,233
+1659,City Fresh Store,2025-03-21,Snacks & Candy,Apples,1,4.83,4.83,0.97,3.86,371
+3870,GreenGrocer Plaza,2024-08-06,Snacks & Candy,Potatoes,5,20.66,103.3,15.49,87.81,92
+9502,FreshMart Downtown,2024-12-25,Health & Wellness,Eggs,4,27.68,110.72,11.07,99.65,57
+8245,FreshMart Downtown,2025-07-18,Dairy,Pasta,3,1.35,4.05,0.0,4.05,444
+5557,MegaMart Westside,2023-12-25,Personal Care,Carrots,5,3.75,18.75,1.88,16.87,338
+8141,MegaMart Westside,2024-12-12,Health & Wellness,Tomatoes,2,25.32,50.64,3.57,47.07,285
+9056,SuperSave Central,2023-10-16,Personal Care,Potatoes,4,26.2,104.8,15.72,89.08,38
+8700,FamilyFood Express,2024-05-03,Canned Goods,Pasta,1,15.69,15.69,1.57,14.12,281
+7690,FamilyFood Express,2024-04-21,Dairy,Salmon,4,24.23,96.92,9.69,87.23,229
+6260,City Fresh Store,2025-01-08,Canned Goods,Chicken Breast,4,22.6,90.4,9.04,81.36,9
+2713,Corner Grocery,2025-06-03,Produce,Onions,5,0.99,4.95,3.25,1.7,46
+3634,City Fresh Store,2024-04-19,Canned Goods,Orange Juice,1,24.67,24.67,3.7,20.97,432
+7744,ValuePlus Market,2025-01-26,Household Items,Potatoes,3,21.75,65.25,0.0,65.25,58
+9117,FamilyFood Express,2024-03-17,Produce,Cereal,3,25.06,75.18,3.09,72.09,493
+7561,GreenGrocer Plaza,2025-04-29,Produce,Apples,4,5.06,20.24,2.02,18.22,367
+1601,FamilyFood Express,2024-07-25,Bakery,Chicken Breast,4,7.24,28.96,0.0,28.96,422
+2442,MegaMart Westside,2024-04-07,Dairy,Cheese,1,27.86,27.86,2.79,25.07,428
+5135,City Fresh Store,2024-04-14,Health & Wellness,Carrots,2,28.94,57.88,4.74,53.14,2
+2899,City Fresh Store,2025-03-29,Personal Care,Apples,5,6.03,30.15,2.55,27.6,417
+7622,MegaMart Westside,2025-06-08,Personal Care,Tomatoes,4,29.4,117.6,17.64,99.96,468
+9431,Corner Grocery,2025-05-08,Canned Goods,Rice,4,24.33,97.32,3.8,93.52,70
+1018,ValuePlus Market,2024-12-29,Frozen Foods,Onions,3,21.63,64.89,12.98,51.91,478
+9889,FamilyFood Express,2024-07-30,Household Items,Rice,3,27.7,83.1,3.17,79.93,67
+7770,MegaMart Westside,2023-09-18,Dairy,Orange Juice,5,14.92,74.6,0.0,74.6,292
+4073,ValuePlus Market,2024-09-12,Frozen Foods,Cheese,1,16.15,16.15,3.23,12.92,12
+6927,FreshMart Downtown,2024-12-02,Health & Wellness,Milk,2,8.73,17.46,2.62,14.84,402
+9167,QuickStop Market,2024-12-04,Meat & Seafood,Milk,3,6.91,20.73,3.11,17.62,277
+8242,City Fresh Store,2025-03-19,Dairy,Onions,2,22.52,45.04,9.01,36.03,287
+1845,ValuePlus Market,2024-01-12,Frozen Foods,Milk,4,12.23,48.92,1.22,47.7,489
+5375,QuickStop Market,2024-10-06,Bakery,Salmon,2,27.42,54.84,3.19,51.65,360
+3146,FamilyFood Express,2025-07-27,Bakery,Rice,4,6.14,24.56,4.91,19.65,349
+5719,SuperSave Central,2024-07-12,Personal Care,Chicken Breast,4,2.17,8.68,1.74,6.94,142
+8941,SuperSave Central,2023-11-09,Household Items,Pasta,1,10.58,10.58,1.61,8.97,363
+1472,,2024-12-08,Household Items,Milk,5,25.44,127.2,3.2,124.0,154
+4920,GreenGrocer Plaza,2025-02-08,Canned Goods,Carrots,2,28.74,57.48,1.64,55.84,266
+3594,ValuePlus Market,2024-04-04,Personal Care,Tomatoes,1,11.12,11.12,0.0,11.12,452
+1224,MegaMart Westside,2024-10-08,Canned Goods,Orange Juice,3,7.32,21.96,4.29,17.67,385
+7684,FreshMart Downtown,2023-10-18,Dairy,Orange Juice,4.0,7.96,31.84,3.73,28.11,328
+4681,MegaMart Westside,2025-05-21,Snacks & Candy,Chicken Breast,4,8.43,33.72,4.65,29.07,370
+2858,MegaMart Westside,2024-07-30,Personal Care,Carrots,4,15.11,60.44,9.07,51.37,151
+2924,ValuePlus Market,2024-12-22,Dairy,Chicken Breast,2,29.17,58.34,0.0,58.34,395
+3522,GreenGrocer Plaza,2024-08-28,Bakery,Yogurt,4,25.22,100.88,0.0,100.88,105
+5781,GreenGrocer Plaza,2024-09-05,Health & Wellness,Eggs,1,14.31,14.31,1.29,13.02,169
+5479,SuperSave Central,2024-06-24,Frozen Foods,Onions,1,17.66,17.66,1.77,15.89,116
+8905,Corner Grocery,2024-08-07,Beverages,Tomatoes,4,10.17,40.68,1.02,39.66,199
+4993,GreenGrocer Plaza,2024-07-26,Household Items,Milk,1,11.36,11.36,1.7,9.66,257
+3369,QuickStop Market,2024-05-30,Household Items,Bread,3,23.18,69.54,6.95,62.59,224
+4122,FreshMart Downtown,2025-07-23,Beverages,Apples,5,7.37,36.85,2.18,34.67,382
+9327,SuperSave Central,2025-03-08,Frozen Foods,Orange Juice,1,17.04,17.04,1.17,15.87,284
+3236,Corner Grocery,2025-06-08,Personal Care,Onions,1,9.83,9.83,1.97,7.86,383
+2143,Corner Grocery,2024-03-08,Health & Wellness,Carrots,2,5.66,11.32,2.26,9.06,113
+7798,GreenGrocer Plaza,2024-04-26,Meat & Seafood,Milk,5,14.37,71.85,10.78,61.07,281
+9318,GreenGrocer Plaza,2024-03-01,Frozen Foods,Chicken Breast,2,22.03,44.06,6.61,37.45,249
+1042,SuperSave Central,2024-03-13,Health & Wellness,Ground Beef,1,9.26,9.26,1.39,7.87,35
+5891,City Fresh Store,2025-05-18,Beverages,Cereal,5,20.11,100.55,3.27,97.28,355
+9022,MegaMart Westside,2025-06-09,Snacks & Candy,Apples,1,10.07,10.07,0.0,10.07,402
+3434,Corner Grocery,2024-07-18,Frozen Foods,Orange Juice,2,20.7,41.4,4.14,37.26,169
+9824,City Fresh Store,2024-08-17,Canned Goods,Rice,4,16.99,67.96,10.19,57.77,89
+6654,SuperSave Central,2024-04-21,Personal Care,Yogurt,3,22.26,66.78,0.0,66.78,320
+9903,GreenGrocer Plaza,2024-05-25,Produce,Carrots,1,24.56,24.56,1.85,22.71,296
+8460,FreshMart Downtown,2025-07-31,Personal Care,Pasta,5.0,26.92,134.6,0.0,134.6,276
+6272,SuperSave Central,2025-06-12,Canned Goods,Tomatoes,2,26.84,53.68,10.74,42.94,301
+4090,City Fresh Store,2025-01-29,Personal Care,Carrots,1,12.5,12.5,0.0,12.5,257
+4912,FamilyFood Express,2024-10-24,Household Items,Apples,5,5.06,25.3,4.79,20.51,81
+7274,SuperSave Central,2024-02-04,Beverages,Orange Juice,1,7.34,7.34,2.06,5.28,249
+7730,FamilyFood Express,2023-09-09,Produce,Yogurt,5,27.31,136.55,13.66,122.89,184
+6213,City Fresh Store,2025-03-07,Produce,Milk,3,3.98,11.94,0.0,11.94,495
+8749,QuickStop Market,2025-02-04,Household Items,Onions,5,6.03,30.15,4.52,25.63,334
+7246,GreenGrocer Plaza,2024-06-01,Personal Care,Pasta,4,29.2,116.8,17.52,99.28,114
+3492,MegaMart Westside,2024-08-25,Beverages,Potatoes,5,1.18,5.9,0.59,5.31,451
+1606,SuperSave Central,2023-11-13,Bakery,Bread,5,19.65,98.25,19.65,78.6,108
+9229,SuperSave Central,2024-11-07,Canned Goods,Chicken Breast,2,13.01,26.02,2.6,23.42,169
+6439,City Fresh Store,2025-06-12,Beverages,Yogurt,5,5.67,28.35,1.97,26.38,426
+2644,SuperSave Central,2025-06-16,Household Items,Apples,2,19.25,38.5,1.67,36.83,20
+8213,SuperSave Central,2023-10-23,Personal Care,Tomatoes,5,29.1,145.5,0.0,145.5,326
+9617,QuickStop Market,2025-07-14,Dairy,Yogurt,4,18.58,74.32,14.86,59.46,241
+8486,FamilyFood Express,2023-08-18,Snacks & Candy,Eggs,5,24.78,123.9,24.78,99.12,93
+3361,MegaMart Westside,2024-06-20,Beverages,Bread,2,11.96,23.92,1.81,22.11,67
+3529,ValuePlus Market,2023-10-04,Health & Wellness,Cheese,2,18.55,37.1,3.4,33.7,90
+8692,ValuePlus Market,2025-04-05,Personal Care,Chicken Breast,1,14.97,14.97,0.0,14.97,66
+5342,Corner Grocery,2024-04-25,Personal Care,Cheese,3,26.36,79.08,15.82,63.26,357
+7512,City Fresh Store,2024-12-23,Snacks & Candy,Orange Juice,5,24.32,121.6,12.16,109.44,464
+2315,SuperSave Central,2025-05-29,Frozen Foods,Potatoes,2,27.38,54.76,4.51,50.25,42
+6383,Corner Grocery,2025-05-30,Frozen Foods,Yogurt,1,21.56,21.56,3.09,18.47,404
+9742,ValuePlus Market,2024-05-28,Produce,Tomatoes,2,20.94,41.88,6.28,35.6,161
+6188,GreenGrocer Plaza,2024-12-05,Meat & Seafood,Cheese,5,8.35,41.75,2.46,39.29,437
+8994,QuickStop Market,2025-06-14,Health & Wellness,Tomatoes,2,12.97,25.94,5.19,20.75,401
+9864,MegaMart Westside,2023-09-03,Personal Care,Onions,4,8.35,33.4,0.0,33.4,157
+2121,Corner Grocery,2024-02-05,Meat & Seafood,Chicken Breast,2,13.94,27.88,1.86,26.02,358
+5708,Corner Grocery,2024-01-30,Canned Goods,Onions,5,21.2,106.0,21.2,84.8,361
+2480,Corner Grocery,2024-07-09,Health & Wellness,Bananas,1,24.86,24.86,1.26,23.6,241
+2612,FamilyFood Express,2025-03-19,Canned Goods,Bread,5,2.08,10.4,3.62,6.78,196
+2646,QuickStop Market,2024-07-16,Household Items,Milk,2,19.56,39.12,7.82,31.3,224
+3725,ValuePlus Market,2025-01-27,Frozen Foods,Yogurt,1,23.72,23.72,1.68,22.04,261
+5906,FreshMart Downtown,2025-07-08,Canned Goods,Ground Beef,1,29.28,29.28,2.93,26.35,44
+1474,MegaMart Westside,2023-09-11,Health & Wellness,Tomatoes,4,17.99,71.96,0.0,71.96,265
+6314,GreenGrocer Plaza,2025-04-16,Dairy,Onions,3,22.05,66.15,9.92,56.23,286
+1919,,2024-03-21,Bakery,Yogurt,4,27.95,111.8,16.77,95.03,294
+6873,SuperSave Central,2024-05-24,Snacks & Candy,Carrots,1,17.19,17.19,2.58,14.61,257
+8056,GreenGrocer Plaza,2023-11-28,Personal Care,Pasta,5,24.57,122.85,0.0,122.85,294
+5000,City Fresh Store,2024-09-22,Snacks & Candy,Potatoes,2,22.96,45.92,0.0,45.92,492
+7751,City Fresh Store,2024-10-19,Household Items,Bananas,4,4.36,17.44,0.0,17.44,34
+3950,FamilyFood Express,2023-12-17,Health & Wellness,Ground Beef,3,12.95,38.85,0.0,38.85,180
+3868,QuickStop Market,2023-10-07,Bakery,Rice,1,12.56,12.56,3.22,9.34,383
+7267,SuperSave Central,2024-11-30,Beverages,Cereal,3,7.33,21.99,4.4,17.59,293
+4945,FamilyFood Express,2024-08-27,Beverages,Yogurt,2,22.32,44.64,8.93,35.71,446
+3344,FamilyFood Express,2024-02-03,Bakery,Ground Beef,5,11.31,56.55,4.68,51.87,398
+8555,City Fresh Store,2024-12-14,Household Items,Bananas,5,28.77,143.85,21.58,122.27,434
+5161,MegaMart Westside,2024-07-28,Beverages,Pasta,4,6.29,25.16,2.52,22.64,391
+5183,FamilyFood Express,2025-01-05,Household Items,Eggs,1,16.24,16.24,1.13,15.11,216
+1153,MegaMart Westside,2025-07-05,Snacks & Candy,Apples,4,29.31,117.24,17.59,99.65,357
+8622,FreshMart Downtown,2025-07-06,Produce,Yogurt,4,17.84,71.36,4.45,66.91,166
+5712,SuperSave Central,2025-01-14,Personal Care,Pasta,2,8.8,17.6,2.64,14.96,490
+9955,SuperSave Central,2023-12-07,Beverages,Cheese,2,13.14,26.28,3.94,22.34,385
+2210,Corner Grocery,2024-07-15,Frozen Foods,Salmon,2,17.56,35.12,3.88,31.24,294
+6661,FamilyFood Express,2024-11-05,Personal Care,Cheese,4,6.68,26.72,2.67,24.05,409
+5901,FreshMart Downtown,2024-12-15,Meat & Seafood,Cheese,4,4.89,19.56,1.96,17.6,457
+7951,QuickStop Market,2025-01-24,Frozen Foods,Onions,5,2.37,11.85,1.86,9.99,50
+5097,QuickStop Market,2024-07-26,Beverages,Chicken Breast,4,22.58,90.32,13.55,76.77,133
+5949,ValuePlus Market,2024-01-08,Personal Care,Pasta,3,1.57,4.71,0.0,4.71,62
+7302,FamilyFood Express,2025-05-30,Household Items,Onions,2,29.39,58.78,8.82,49.96,145
+8916,ValuePlus Market,2023-10-28,Beverages,Salmon,1,12.04,12.04,0.0,12.04,146
+4886,SuperSave Central,2024-05-29,Meat & Seafood,Cereal,4,19.3,77.2,1.32,75.88,292
+6881,MegaMart Westside,2024-10-26,Bakery,Cereal,3,19.93,59.79,3.58,56.21,363
+5847,QuickStop Market,2025-01-31,Beverages,Orange Juice,5,16.1,80.5,16.1,64.4,230
+5837,SuperSave Central,2023-08-24,Produce,Eggs,2,20.19,40.38,8.08,32.3,481
+7484,SuperSave Central,2024-03-07,Snacks & Candy,Chicken Breast,1,2.84,2.84,1.22,1.62,449
+1132,Corner Grocery,2024-10-19,Personal Care,Bread,1,8.6,8.6,0.0,8.6,79
+1803,Corner Grocery,2025-07-14,Frozen Foods,Ground Beef,2,22.38,44.76,8.95,35.81,226
+9138,ValuePlus Market,2025-05-14,Meat & Seafood,Bananas,1,20.23,20.23,2.02,18.21,440
+5689,City Fresh Store,2025-03-31,Personal Care,Pasta,5,13.89,69.45,3.39,66.06,496
+4770,Corner Grocery,2024-11-20,Personal Care,Onions,3,27.35,82.05,2.77,79.28,246
+6772,MegaMart Westside,2024-01-24,Snacks & Candy,Pasta,2,9.79,19.58,2.94,16.64,0
+4115,QuickStop Market,2024-12-01,Beverages,Onions,1,20.94,20.94,3.14,17.8,251
+5106,FreshMart Downtown,2025-01-14,Snacks & Candy,Rice,5,7.7,38.5,7.7,30.8,3
+3240,Corner Grocery,2024-12-06,Personal Care,Cheese,4,8.24,32.96,3.3,29.66,366
+2591,FamilyFood Express,2025-07-08,Frozen Foods,Bread,4,19.12,76.48,11.47,65.01,264
+1645,ValuePlus Market,2024-04-02,Frozen Foods,Cheese,2,25.74,51.48,7.72,43.76,93
+8222,GreenGrocer Plaza,2023-09-01,Health & Wellness,Salmon,5,14.12,70.6,14.12,56.48,358
+6977,MegaMart Westside,2025-02-25,Produce,Eggs,1,29.11,29.11,2.13,26.98,11
+3153,SuperSave Central,2023-10-16,Beverages,Bananas,2,3.61,7.22,1.44,5.78,7
+5835,MegaMart Westside,2024-04-16,Snacks & Candy,Rice,4,29.93,119.72,17.96,101.76,237
+7807,GreenGrocer Plaza,2023-12-21,Meat & Seafood,Milk,3,23.48,70.44,14.09,56.35,36
+4289,FamilyFood Express,2023-11-17,Frozen Foods,Tomatoes,1,4.53,4.53,0.45,4.08,393
+9837,City Fresh Store,2025-06-17,Bakery,Milk,2,14.35,28.7,3.66,25.04,394
+6994,FamilyFood Express,2024-09-22,Beverages,Tomatoes,3,28.14,84.42,0.0,84.42,81
+9221,ValuePlus Market,2025-07-16,Personal Care,Chicken Breast,3,14.95,44.85,6.73,38.12,152
+5465,FreshMart Downtown,2025-05-13,Health & Wellness,Yogurt,1,7.83,7.83,1.67,6.16,222
+3695,QuickStop Market,2024-02-22,Household Items,Chicken Breast,4,23.88,95.52,4.13,91.39,4
+8894,City Fresh Store,2025-04-24,Household Items,Eggs,3,23.34,70.02,7.0,63.02,127
+5835,,2025-03-08,Health & Wellness,Cereal,1,2.72,2.72,0.0,2.72,330
+6549,ValuePlus Market,2025-04-22,Dairy,Eggs,4,7.74,30.96,3.1,27.86,285
+2886,FamilyFood Express,2024-08-04,Produce,Tomatoes,3,22.0,66.0,6.6,59.4,128
+2233,City Fresh Store,2023-11-24,Personal Care,Rice,5,21.2,106.0,2.39,103.61,97
+4696,City Fresh Store,2025-06-05,Frozen Foods,Onions,2,2.99,5.98,0.9,5.08,79
+7511,QuickStop Market,2025-05-24,Personal Care,Orange Juice,4,1.01,4.04,0.0,4.04,326
+6992,SuperSave Central,2023-10-16,Produce,Orange Juice,5,7.91,39.55,0.0,39.55,369
+7464,ValuePlus Market,2023-08-17,Snacks & Candy,Yogurt,5,20.8,104.0,2.13,101.87,392
+5332,Corner Grocery,2024-09-26,Health & Wellness,Cereal,1,3.78,3.78,4.34,-0.56,337
+3024,SuperSave Central,2024-07-25,Meat & Seafood,Milk,2,4.09,8.18,3.28,4.9,98
+7038,Corner Grocery,2025-01-10,Health & Wellness,Potatoes,5,19.09,95.45,2.47,92.98,302
+5295,GreenGrocer Plaza,2024-11-03,Produce,Yogurt,4,27.91,111.64,11.16,100.48,426
+7242,FreshMart Downtown,2025-05-06,Canned Goods,Onions,4,24.83,99.32,2.06,97.26,406
+7086,FreshMart Downtown,2023-10-30,Dairy,Rice,1,28.38,28.38,3.9,24.48,491
+4830,ValuePlus Market,2024-08-07,Snacks & Candy,Yogurt,2,16.25,32.5,4.0,28.5,127
+1410,Corner Grocery,2024-11-30,Dairy,Orange Juice,4,21.36,85.44,17.09,68.35,218
+6374,SuperSave Central,2025-07-17,Personal Care,Tomatoes,5,10.78,53.9,8.08,45.82,80
+4626,MegaMart Westside,2024-12-22,Personal Care,Cereal,3,12.95,38.85,0.0,38.85,324
+2035,MegaMart Westside,2024-12-12,Household Items,Ground Beef,5,16.81,84.05,12.61,71.44,192
+8606,City Fresh Store,2025-07-13,Beverages,Tomatoes,1,22.05,22.05,1.54,20.51,145
+5951,QuickStop Market,2024-12-23,Produce,Rice,2,7.22,14.44,0.0,14.44,161
+7689,QuickStop Market,2023-11-05,Personal Care,Carrots,5,17.54,87.7,1.15,86.55,292
+3290,MegaMart Westside,2023-09-11,Meat & Seafood,Eggs,3,11.64,34.92,6.98,27.94,298
+1609,QuickStop Market,2024-03-30,Frozen Foods,Bread,5,12.58,62.9,0.0,62.9,469
+9071,GreenGrocer Plaza,2023-11-05,Canned Goods,Potatoes,2,15.15,30.3,3.57,26.73,460
+2592,FreshMart Downtown,2024-02-05,Household Items,Tomatoes,1,23.61,23.61,3.54,20.07,471
+9807,Corner Grocery,2023-11-20,Snacks & Candy,Chicken Breast,2,22.67,45.34,0.0,45.34,434
+7367,Corner Grocery,2024-07-24,Produce,Rice,5,2.18,10.9,1.64,9.26,276
+7078,ValuePlus Market,2025-01-08,Bakery,Eggs,1,20.53,20.53,3.3,17.23,201
+9850,GreenGrocer Plaza,2024-06-27,Bakery,Cheese,3,23.79,71.37,10.71,60.66,75
+3531,GreenGrocer Plaza,2025-06-24,Beverages,Milk,5,12.57,62.85,2.74,60.11,43
+7797,SuperSave Central,2024-12-27,Meat & Seafood,Potatoes,5,6.74,33.7,3.46,30.24,202
+2622,ValuePlus Market,2025-05-15,Bakery,Ground Beef,1,8.71,8.71,0.0,8.71,220
+9017,GreenGrocer Plaza,2024-11-27,Dairy,Cheese,4,11.58,46.32,6.95,39.37,97
+7686,FreshMart Downtown,2025-08-05,Frozen Foods,Apples,3,18.86,56.58,1.58,55.0,411
+5583,FreshMart Downtown,2023-09-01,Bakery,Yogurt,3,5.51,16.53,3.96,12.57,372
+7070,FamilyFood Express,2024-01-22,Household Items,Eggs,3,1.39,4.17,0.63,3.54,355
+8264,City Fresh Store,2024-07-17,Beverages,Bananas,3,7.05,21.15,4.23,16.92,275
+4868,ValuePlus Market,2025-06-01,Personal Care,Pasta,5,15.0,75.0,0.0,75.0,373
+6942,FreshMart Downtown,2023-10-23,Snacks & Candy,Carrots,1,8.4,8.4,1.68,6.72,30
+7018,QuickStop Market,2024-10-02,Produce,Salmon,1,2.92,2.92,0.0,2.92,338
+6876,MegaMart Westside,2023-09-23,Dairy,Bananas,3,26.14,78.42,15.68,62.74,332
+7523,Corner Grocery,2024-03-08,Personal Care,Chicken Breast,3,15.05,45.15,9.03,36.12,305
+4109,FamilyFood Express,2023-11-09,Personal Care,Salmon,5,27.85,139.25,27.85,111.4,11
+8450,ValuePlus Market,2023-10-17,Frozen Foods,Cereal,4,12.4,49.6,7.44,42.16,80
+4475,MegaMart Westside,2024-12-17,Canned Goods,Rice,2,29.87,59.74,3.5,56.24,256
+1349,Corner Grocery,2023-09-15,Produce,Onions,3,7.53,22.59,0.0,22.59,174
+6464,SuperSave Central,2024-02-12,Dairy,Tomatoes,5,28.85,144.25,14.43,129.82,313
+3063,FamilyFood Express,2025-04-09,Household Items,Eggs,4,29.14,116.56,11.66,104.9,465
+4362,ValuePlus Market,2023-09-29,Meat & Seafood,Yogurt,2,17.84,35.68,7.14,28.54,350
+4394,QuickStop Market,2024-11-04,Personal Care,Eggs,4,29.86,119.44,0.0,119.44,499
+4538,SuperSave Central,2025-04-29,Canned Goods,Bread,5,16.45,82.25,16.45,65.8,368
+4817,MegaMart Westside,2024-04-18,Meat & Seafood,Bananas,3,26.51,79.53,11.93,67.6,211
+3417,City Fresh Store,2025-04-10,Health & Wellness,Pasta,2,23.58,47.16,9.43,37.73,54
+1046,FreshMart Downtown,2024-03-09,Household Items,Pasta,5,17.43,87.15,17.43,69.72,118
+3370,FreshMart Downtown,2023-11-15,Canned Goods,Bread,4,4.88,19.52,0.0,19.52,433
+9850,MegaMart Westside,2024-02-17,Meat & Seafood,Tomatoes,4,14.73,58.92,11.78,47.14,83
+3858,FreshMart Downtown,2023-10-31,Snacks & Candy,Bananas,3,28.55,85.65,17.13,68.52,113
+1422,GreenGrocer Plaza,2023-11-17,Meat & Seafood,Salmon,5,15.2,76.0,15.2,60.8,166
+1243,Corner Grocery,2024-05-11,Snacks & Candy,Milk,5,22.31,111.55,11.16,100.39,194
+4898,ValuePlus Market,2024-11-06,Personal Care,Milk,5,4.16,20.8,4.16,16.64,233
+6304,ValuePlus Market,2023-08-19,Personal Care,Tomatoes,1,17.16,17.16,3.43,13.73,264
+3854,QuickStop Market,2024-02-29,Beverages,Tomatoes,3,23.43,70.29,14.06,56.23,146
+1858,Corner Grocery,2023-11-13,Frozen Foods,Milk,5,27.2,136.0,3.89,132.11,237
+7897,GreenGrocer Plaza,2024-09-18,Meat & Seafood,Onions,2,12.39,24.78,1.72,23.06,165
+2862,FamilyFood Express,2025-03-08,Beverages,Bread,3,10.39,31.17,0.0,31.17,332
+2041,GreenGrocer Plaza,2024-08-10,Dairy,Chicken Breast,4,19.38,77.52,0.0,77.52,43
+8344,ValuePlus Market,2025-04-02,Household Items,Apples,4,16.95,67.8,10.17,57.63,22
+6931,SuperSave Central,2024-09-08,Meat & Seafood,Eggs,2,23.3,46.6,6.99,39.61,26
+2786,QuickStop Market,2024-07-23,Beverages,Rice,2,4.4,8.8,3.49,5.31,67
+9254,QuickStop Market,2024-01-26,Produce,Salmon,4,25.8,103.2,4.53,98.67,278
+1710,FamilyFood Express,2025-02-21,Bakery,Potatoes,4,12.88,51.52,10.3,41.22,40
+9543,ValuePlus Market,2024-03-28,Frozen Foods,Onions,2,2.41,4.82,0.0,4.82,75
+8504,MegaMart Westside,2024-12-18,Produce,Eggs,1,20.33,20.33,3.05,17.28,429
+1510,GreenGrocer Plaza,2023-09-23,Produce,Chicken Breast,4,29.81,119.24,3.64,115.6,82
+8847,ValuePlus Market,2025-05-26,Meat & Seafood,Salmon,5,11.44,57.2,8.58,48.62,18
+7580,MegaMart Westside,2024-07-03,Canned Goods,Tomatoes,1,22.98,22.98,3.45,19.53,431
+2768,City Fresh Store,2024-08-21,Meat & Seafood,Chicken Breast,3,10.54,31.62,0.0,31.62,211
+8267,FamilyFood Express,2023-10-03,Household Items,Milk,1,17.56,17.56,1.76,15.8,322
+2323,QuickStop Market,2024-04-13,Snacks & Candy,Cereal,3,16.23,48.69,9.74,38.95,319
+3430,City Fresh Store,2023-09-27,Personal Care,Potatoes,4,24.42,97.68,0.0,97.68,452
+3067,QuickStop Market,2024-03-07,Bakery,Bananas,1,1.69,1.69,0.0,1.69,320
+9984,FamilyFood Express,2025-02-10,Household Items,Cheese,4,2.31,9.24,3.56,5.68,179
+6327,,2024-05-28,Frozen Foods,Bread,3,9.7,29.1,1.46,27.64,281
+9692,MegaMart Westside,2024-03-23,Canned Goods,Tomatoes,5,18.85,94.25,18.85,75.4,14
+8433,MegaMart Westside,2024-09-02,Canned Goods,Potatoes,4,24.11,96.44,9.64,86.8,330
+8048,SuperSave Central,2023-10-23,Health & Wellness,Salmon,5,26.97,134.85,0.0,134.85,236
+2874,FreshMart Downtown,2025-05-30,Personal Care,Rice,5,22.01,110.05,22.01,88.04,161
+4522,MegaMart Westside,2024-07-06,Canned Goods,Bread,2,9.12,18.24,1.82,16.42,15
+8398,ValuePlus Market,2025-06-26,Meat & Seafood,Tomatoes,2,18.25,36.5,0.0,36.5,442
+4743,MegaMart Westside,2024-06-23,Produce,Pasta,4,3.51,14.04,2.11,11.93,449
+6553,City Fresh Store,2025-05-10,Frozen Foods,Yogurt,5,9.76,48.8,4.11,44.69,57
+8430,GreenGrocer Plaza,2024-06-11,Beverages,Carrots,1,24.16,24.16,4.83,19.33,463
+7815,MegaMart Westside,2025-02-23,Beverages,Carrots,3,23.48,70.44,3.71,66.73,73
+2557,SuperSave Central,2024-04-05,Bakery,Milk,4,12.23,48.92,2.24,46.68,442
+7992,FreshMart Downtown,2024-04-05,Health & Wellness,Bread,3,14.53,43.59,4.06,39.53,23
+5176,QuickStop Market,2024-05-23,Produce,Rice,2,10.3,20.6,3.09,17.51,98
+3500,ValuePlus Market,2025-01-21,Canned Goods,Salmon,1,8.9,8.9,1.06,7.84,80
+8770,ValuePlus Market,2023-09-28,Personal Care,Chicken Breast,2,16.72,33.44,5.02,28.42,281
+2494,SuperSave Central,2025-05-14,Frozen Foods,Ground Beef,2,3.06,6.12,2.77,3.35,313
+2398,SuperSave Central,2023-10-18,Produce,Potatoes,1,4.06,4.06,0.41,3.65,27
+8075,Corner Grocery,2023-10-21,Meat & Seafood,Salmon,5,11.3,56.5,0.0,56.5,170
+7105,ValuePlus Market,2025-04-28,Dairy,Salmon,5,4.81,24.05,2.82,21.23,416
+3131,City Fresh Store,2024-10-12,Beverages,Ground Beef,2,5.16,10.32,1.55,8.77,458
+1982,Corner Grocery,2024-11-04,Meat & Seafood,Cereal,3,14.14,42.42,4.24,38.18,15
+6400,GreenGrocer Plaza,2025-01-08,Canned Goods,Potatoes,4,25.52,102.08,3.3,98.78,144
+3002,ValuePlus Market,2024-06-21,Dairy,Tomatoes,1,10.44,10.44,1.57,8.87,332
+6793,ValuePlus Market,2025-06-15,Beverages,Tomatoes,5,12.98,64.9,1.64,63.26,317
+7929,City Fresh Store,2025-06-11,Snacks & Candy,Bread,3,7.03,21.09,2.11,18.98,355
+1842,MegaMart Westside,2024-03-17,Personal Care,Ground Beef,2,20.21,40.42,3.37,37.05,39
+6119,City Fresh Store,2024-05-06,Canned Goods,Onions,1,24.83,24.83,2.48,22.35,90
+2697,GreenGrocer Plaza,2024-10-28,Household Items,Chicken Breast,5,23.36,116.8,11.68,105.12,194
+9313,FreshMart Downtown,2024-01-19,Dairy,Yogurt,2,26.72,53.44,10.69,42.75,462
+3535,SuperSave Central,2024-12-29,Beverages,Onions,3,12.3,36.9,7.38,29.52,295
+8900,FamilyFood Express,2024-01-28,Health & Wellness,Cereal,3,17.53,52.59,5.26,47.33,467
+2773,MegaMart Westside,2024-05-04,Dairy,Bananas,5,29.6,148.0,22.2,125.8,206
+7022,FreshMart Downtown,2023-11-04,Canned Goods,Onions,1,1.01,1.01,4.44,-3.43,286
+5564,FreshMart Downtown,2024-10-25,Bakery,Cheese,5,12.42,62.1,6.21,55.89,162
+4705,Corner Grocery,2025-04-24,Snacks & Candy,Onions,2,20.2,40.4,8.08,32.32,243
+8030,ValuePlus Market,2025-05-24,Snacks & Candy,Orange Juice,4,5.46,21.84,4.37,17.47,446
+1430,FreshMart Downtown,2024-11-22,Dairy,Bananas,2,21.91,43.82,8.76,35.06,249
+5381,GreenGrocer Plaza,2023-08-29,Meat & Seafood,Cheese,4,26.9,107.6,1.72,105.88,356
+3955,ValuePlus Market,2024-03-06,Snacks & Candy,Onions,4,12.15,48.6,4.86,43.74,115
+6062,FreshMart Downtown,2025-07-22,Household Items,Potatoes,2,21.64,43.28,3.31,39.97,137
+6567,FreshMart Downtown,2024-05-05,Produce,Potatoes,3,4.27,12.81,2.56,10.25,246
+1100,ValuePlus Market,2023-12-25,Frozen Foods,Salmon,5,3.26,16.3,3.26,13.04,455
+3347,City Fresh Store,2024-10-19,Health & Wellness,Bread,5,24.13,120.65,18.1,102.55,159
+7566,ValuePlus Market,2023-09-30,Produce,Potatoes,4,15.86,63.44,6.34,57.1,240
+3324,MegaMart Westside,2025-03-04,Frozen Foods,Rice,2,2.01,4.02,0.0,4.02,472
+1502,QuickStop Market,2023-10-17,Produce,Potatoes,5,5.89,29.45,0.0,29.45,26
+9691,FreshMart Downtown,2024-01-21,Frozen Foods,Potatoes,1,4.67,4.67,0.7,3.97,39
+7163,SuperSave Central,2024-06-28,Household Items,Pasta,3,25.87,77.61,1.7,75.91,7
+8432,SuperSave Central,2024-04-27,Health & Wellness,Salmon,3,24.42,73.26,7.33,65.93,133
+3578,SuperSave Central,2024-05-20,Personal Care,Milk,3,29.53,88.59,4.74,83.85,495
+6105,SuperSave Central,2025-02-17,Beverages,Cheese,4,7.89,31.56,6.31,25.25,225
+6314,MegaMart Westside,2025-04-01,Produce,Pasta,1,2.51,2.51,0.25,2.26,237
+2391,QuickStop Market,2025-06-23,Beverages,Onions,2,12.0,24.0,2.4,21.6,361
+1861,QuickStop Market,2023-12-05,Meat & Seafood,Carrots,4,1.33,5.32,0.53,4.79,474
+3579,MegaMart Westside,2025-03-14,Personal Care,Milk,1,27.6,27.6,2.76,24.84,326
+1815,QuickStop Market,2025-01-11,Canned Goods,Pasta,3,24.26,72.78,7.28,65.5,130
+2336,FamilyFood Express,2024-03-05,Health & Wellness,Yogurt,5,10.77,53.85,8.08,45.77,353
+8259,ValuePlus Market,2025-01-02,Produce,Bananas,1,1.34,1.34,0.0,1.34,50
+7947,City Fresh Store,2024-08-18,Canned Goods,Ground Beef,3,8.29,24.87,1.37,23.5,17
+8242,FamilyFood Express,2024-06-23,Household Items,Chicken Breast,1,3.5,3.5,0.35,3.15,309
+5475,SuperSave Central,2024-01-21,Dairy,Apples,3,9.53,28.59,0.0,28.59,338
+9394,City Fresh Store,2023-11-03,Frozen Foods,Cheese,3,8.45,25.35,3.8,21.55,399
+6655,FreshMart Downtown,2024-07-05,Snacks & Candy,Tomatoes,3,29.87,89.61,17.92,71.69,132
+2816,City Fresh Store,2024-03-14,Dairy,Potatoes,2,18.69,37.38,1.58,35.8,91
+8972,Corner Grocery,2024-09-19,Bakery,Chicken Breast,4,21.74,86.96,1.28,85.68,52
+6053,QuickStop Market,2023-09-11,Beverages,Bananas,4,5.31,21.24,3.66,17.58,327
+4612,QuickStop Market,2024-06-09,Meat & Seafood,Cereal,4,17.65,70.6,7.06,63.54,263
+1897,Corner Grocery,2023-08-12,Snacks & Candy,Bread,5,7.54,37.7,3.27,34.43,196
+4349,MegaMart Westside,2024-03-28,Canned Goods,Rice,4,2.59,10.36,1.55,8.81,490
+4460,ValuePlus Market,2025-03-25,Canned Goods,Bread,4,23.04,92.16,18.43,73.73,148
+3248,ValuePlus Market,2025-03-22,Produce,Tomatoes,2,9.66,19.32,0.0,19.32,199
+5186,MegaMart Westside,2024-03-18,Beverages,Bread,4,22.31,89.24,17.85,71.39,71
+6375,FreshMart Downtown,2023-11-08,Household Items,Ground Beef,4,12.26,49.04,4.9,44.14,405
+1126,ValuePlus Market,2024-08-27,Beverages,Bananas,1,10.83,10.83,1.08,9.75,172
+8055,GreenGrocer Plaza,2023-12-21,Bakery,Carrots,4,28.25,113.0,0.0,113.0,445
+3116,FamilyFood Express,2024-05-28,Dairy,Milk,2,15.17,30.34,1.18,29.16,9
+9725,SuperSave Central,2025-02-03,Produce,Apples,1,27.23,27.23,2.72,24.51,420
+4770,SuperSave Central,2024-08-29,Household Items,Bread,1,4.3,4.3,4.22,0.08,304
+6802,Corner Grocery,2023-10-01,Canned Goods,Tomatoes,3,4.49,13.47,2.02,11.45,350
+7505,FamilyFood Express,2025-06-06,Produce,Apples,3,2.82,8.46,0.85,7.61,140
+1693,SuperSave Central,2024-07-10,Canned Goods,Onions,2,13.71,27.42,5.48,21.94,473
+1307,GreenGrocer Plaza,2024-07-29,Health & Wellness,Tomatoes,2,1.44,2.88,1.03,1.85,249
+2275,GreenGrocer Plaza,2025-06-06,Health & Wellness,Rice,4,21.1,84.4,0.0,84.4,405
+6129,SuperSave Central,2024-10-27,Bakery,Eggs,3,16.16,48.48,9.7,38.78,210
+8033,FreshMart Downtown,2024-10-25,Household Items,Apples,4,18.74,74.96,11.24,63.72,45
+7626,Corner Grocery,2025-02-08,Produce,Onions,2,6.56,13.12,2.45,10.67,271
+7843,ValuePlus Market,2024-03-18,Personal Care,Ground Beef,4,23.33,93.32,14.0,79.32,337
+2887,FreshMart Downtown,2024-06-16,Bakery,Chicken Breast,2,20.86,41.72,4.17,37.55,495
+1341,SuperSave Central,2024-04-15,Meat & Seafood,Milk,1,19.69,19.69,1.97,17.72,145
+3815,QuickStop Market,2025-04-20,Canned Goods,Salmon,1,4.02,4.02,0.8,3.22,26
+8538,FreshMart Downtown,2025-05-14,Beverages,Carrots,1,3.04,3.04,3.32,-0.28,120
+6928,Corner Grocery,2023-10-14,Bakery,Cereal,2,23.58,47.16,1.95,45.21,166
+8155,Corner Grocery,2025-05-23,Bakery,Tomatoes,2,3.12,6.24,4.56,1.68,299
+2734,SuperSave Central,2024-02-11,Bakery,Salmon,2,12.22,24.44,0.0,24.44,69
+8138,FamilyFood Express,2024-11-06,Health & Wellness,Orange Juice,3,6.85,20.55,0.0,20.55,65
+7560,FreshMart Downtown,2024-09-16,Frozen Foods,Eggs,1,25.69,25.69,5.14,20.55,234
+2288,MegaMart Westside,2024-06-09,Bakery,Rice,5,5.54,27.7,4.88,22.82,406
+6083,FamilyFood Express,2025-03-08,Dairy,Cheese,5,15.18,75.9,7.59,68.31,110
+6562,QuickStop Market,2024-01-26,Produce,Cheese,2,8.18,16.36,4.79,11.57,222
+6456,FreshMart Downtown,2025-04-03,Snacks & Candy,Milk,1,29.74,29.74,2.97,26.77,375
+3754,ValuePlus Market,2023-10-05,Snacks & Candy,Potatoes,1,14.11,14.11,4.01,10.1,123
+9363,Corner Grocery,2024-12-10,Bakery,Eggs,3,9.57,28.71,2.92,25.79,331
+2868,QuickStop Market,2024-09-22,Meat & Seafood,Salmon,5,22.66,113.3,11.33,101.97,12
+9355,SuperSave Central,2024-01-04,Snacks & Candy,Apples,3,19.17,57.51,0.0,57.51,360
+6724,GreenGrocer Plaza,2024-05-05,Snacks & Candy,Cereal,5,1.94,9.7,0.0,9.7,218
+3419,ValuePlus Market,2024-02-06,Household Items,Yogurt,1,18.98,18.98,4.78,14.2,171
+2684,MegaMart Westside,2023-11-28,Produce,Chicken Breast,4,11.59,46.36,6.95,39.41,316
+5193,MegaMart Westside,2024-01-07,Meat & Seafood,Onions,1,17.25,17.25,3.45,13.8,396
+3842,MegaMart Westside,2024-11-16,Bakery,Onions,1,19.81,19.81,0.0,19.81,377
+3504,FamilyFood Express,2025-03-19,Canned Goods,Orange Juice,3,15.59,46.77,1.25,45.52,216
+2234,MegaMart Westside,2023-12-22,Beverages,Potatoes,5,16.26,81.3,0.0,81.3,62
+9095,ValuePlus Market,2024-08-01,Health & Wellness,Onions,3,14.1,42.3,8.46,33.84,188
+8354,City Fresh Store,2025-01-17,Dairy,Bread,4,27.03,108.12,1.66,106.46,147
+6295,GreenGrocer Plaza,2025-06-08,Meat & Seafood,Potatoes,2,26.36,52.72,7.91,44.81,266
+6179,Corner Grocery,2023-12-02,Health & Wellness,Onions,2,14.73,29.46,0.0,29.46,215
+8205,FreshMart Downtown,2023-09-29,Frozen Foods,Yogurt,1,1.63,1.63,3.58,-1.95,410
+8682,Corner Grocery,2024-07-15,Household Items,Cereal,3,15.09,45.27,4.53,40.74,340
+5961,QuickStop Market,2025-04-16,Household Items,Eggs,3,5.97,17.91,1.79,16.12,133
+5500,MegaMart Westside,2024-11-08,Frozen Foods,Milk,2,11.23,22.46,4.7,17.76,233
+1920,ValuePlus Market,2024-05-06,Frozen Foods,Apples,2,25.33,50.66,10.13,40.53,354
+9312,FamilyFood Express,2023-10-03,Dairy,Milk,3.0,17.65,52.95,7.94,45.01,225
+6085,SuperSave Central,2024-07-30,Bakery,Onions,1,20.29,20.29,4.06,16.23,500
+8404,MegaMart Westside,2023-09-05,Beverages,Onions,2,16.47,32.94,3.29,29.65,62
+1932,City Fresh Store,2024-05-19,Meat & Seafood,Salmon,3,5.52,16.56,0.0,16.56,496
+5703,QuickStop Market,2023-10-05,Beverages,Rice,5,20.33,101.65,15.25,86.4,409
+2479,GreenGrocer Plaza,2024-11-26,Beverages,Milk,2,20.65,41.3,2.61,38.69,59
+9307,FamilyFood Express,2024-05-31,Beverages,Orange Juice,1,10.45,10.45,3.11,7.34,311
+8581,,2024-10-30,Bakery,Bananas,1,16.6,16.6,2.58,14.02,228
+1672,City Fresh Store,2024-07-21,Canned Goods,Carrots,1,27.33,27.33,5.47,21.86,184
+4084,Corner Grocery,2024-04-12,Canned Goods,Tomatoes,3,1.34,4.02,0.6,3.42,176
+8792,City Fresh Store,2024-08-30,Personal Care,Bread,2,22.1,44.2,4.42,39.78,227
+3471,QuickStop Market,2023-09-24,Meat & Seafood,Cheese,4,5.04,20.16,4.03,16.13,300
+8381,FamilyFood Express,2023-10-26,Frozen Foods,Potatoes,5,29.6,148.0,1.03,146.97,33
+6626,QuickStop Market,2025-02-11,Snacks & Candy,Apples,5,14.39,71.95,14.39,57.56,290
+2381,SuperSave Central,2024-09-01,Snacks & Candy,Rice,5.0,15.22,76.1,2.22,73.88,421
+3827,ValuePlus Market,2023-09-06,Beverages,Ground Beef,1,23.94,23.94,3.59,20.35,78
+5059,City Fresh Store,2025-02-06,Dairy,Rice,4,6.19,24.76,1.48,23.28,464
+8172,QuickStop Market,2024-07-13,Beverages,Bread,5,22.61,113.05,2.74,110.31,297
+9586,QuickStop Market,2024-09-16,Health & Wellness,Potatoes,1,11.81,11.81,1.77,10.04,375
+3600,SuperSave Central,2024-05-15,Household Items,Milk,2,10.26,20.52,3.08,17.44,449
+7108,SuperSave Central,2025-07-19,Produce,Pasta,3,13.16,39.48,2.16,37.32,466
+5634,ValuePlus Market,2024-06-02,Health & Wellness,Bread,5,6.61,33.05,3.4,29.65,321
+7697,SuperSave Central,2025-03-30,Personal Care,Cereal,3,24.97,74.91,11.24,63.67,350
+6543,MegaMart Westside,2025-01-15,Dairy,Onions,5,11.19,55.95,11.19,44.76,73
+1857,ValuePlus Market,2025-04-11,Frozen Foods,Orange Juice,4,12.94,51.76,1.87,49.89,471
+6482,ValuePlus Market,2023-09-27,Bakery,Yogurt,5,18.78,93.9,9.39,84.51,425
+6401,City Fresh Store,2023-10-19,Dairy,Chicken Breast,2,27.77,55.54,8.33,47.21,245
+7333,MegaMart Westside,2024-03-14,Meat & Seafood,Salmon,5,16.16,80.8,16.16,64.64,496
+5128,QuickStop Market,2025-02-19,Produce,Chicken Breast,2,4.72,9.44,0.0,9.44,355
+3463,FamilyFood Express,2024-04-21,Frozen Foods,Eggs,2,4.77,9.54,0.0,9.54,40
+2335,GreenGrocer Plaza,2024-11-01,Dairy,Bananas,4,22.95,91.8,1.13,90.67,21
+3317,ValuePlus Market,2025-07-19,Household Items,Milk,4,4.44,17.76,2.21,15.55,129
+6731,FreshMart Downtown,2024-04-03,Dairy,Chicken Breast,5,6.95,34.75,6.95,27.8,461
+7421,MegaMart Westside,2023-11-15,Produce,Bread,2,25.52,51.04,2.39,48.65,482
+2388,SuperSave Central,2024-04-03,Personal Care,Ground Beef,5,17.53,87.65,1.87,85.78,50
+7171,FamilyFood Express,2024-12-18,Frozen Foods,Apples,5,1.12,5.6,1.12,4.48,371
+6381,ValuePlus Market,2025-04-29,Beverages,Orange Juice,5,6.36,31.8,6.36,25.44,344
+3093,MegaMart Westside,2025-01-08,Snacks & Candy,Cheese,2,15.9,31.8,4.77,27.03,208
+9624,GreenGrocer Plaza,2023-10-18,Beverages,Chicken Breast,5,4.93,24.65,0.0,24.65,390
+7937,QuickStop Market,2024-09-04,Personal Care,Milk,1,10.51,10.51,1.58,8.93,59
+6928,City Fresh Store,2023-08-21,Household Items,Rice,4,7.54,30.16,3.02,27.14,208
+6940,FamilyFood Express,2024-04-02,Dairy,Potatoes,3,6.19,18.57,0.0,18.57,345
+3953,GreenGrocer Plaza,2024-01-20,Snacks & Candy,Salmon,5,20.09,100.45,20.09,80.36,43
+6598,Corner Grocery,2025-03-24,Snacks & Candy,Chicken Breast,2,2.87,5.74,0.86,4.88,499
+8967,FamilyFood Express,2024-01-03,Household Items,Tomatoes,1,7.74,7.74,1.16,6.58,217
+4711,QuickStop Market,2023-11-21,Health & Wellness,Tomatoes,3,14.79,44.37,4.44,39.93,308
+3538,ValuePlus Market,2023-10-05,Frozen Foods,Eggs,4,4.12,16.48,1.65,14.83,128
+5846,FamilyFood Express,2025-05-23,Health & Wellness,Eggs,1,3.88,3.88,0.39,3.49,27
+2657,FreshMart Downtown,2024-09-04,Meat & Seafood,Tomatoes,5,20.69,103.45,3.49,99.96,78
+9843,GreenGrocer Plaza,2025-05-16,Health & Wellness,Carrots,4,23.98,95.92,0.0,95.92,103
+9626,City Fresh Store,2023-09-05,Beverages,Carrots,3,16.72,50.16,4.96,45.2,414
+6517,GreenGrocer Plaza,2025-06-17,Snacks & Candy,Salmon,3,25.72,77.16,1.13,76.03,226
+3147,ValuePlus Market,2024-11-12,Health & Wellness,Rice,2,15.24,30.48,0.0,30.48,68
+7172,Corner Grocery,2023-12-04,Beverages,Chicken Breast,5,20.57,102.85,10.29,92.56,337
+3658,ValuePlus Market,2023-12-25,Meat & Seafood,Carrots,1,12.34,12.34,3.71,8.63,253
+3712,QuickStop Market,2025-02-17,Canned Goods,Milk,1,18.11,18.11,2.72,15.39,65
+8170,FreshMart Downtown,2023-09-09,Health & Wellness,Cereal,4,3.81,15.24,1.52,13.72,176
+7731,MegaMart Westside,2024-05-15,Produce,Ground Beef,2,7.79,15.58,0.0,15.58,159
+4891,GreenGrocer Plaza,2024-07-17,Frozen Foods,Chicken Breast,3,5.91,17.73,2.84,14.89,275
+5668,Corner Grocery,2025-03-13,Household Items,Carrots,4,8.72,34.88,1.09,33.79,356
+8355,MegaMart Westside,2024-02-04,Snacks & Candy,Tomatoes,3,17.59,52.77,3.76,49.01,413
+9749,FamilyFood Express,2024-02-08,Canned Goods,Potatoes,5,24.52,122.6,24.52,98.08,341
+6070,QuickStop Market,2025-04-26,Canned Goods,Cheese,2,15.4,30.8,1.86,28.94,433
+8684,QuickStop Market,2025-07-09,Produce,Rice,5,12.65,63.25,0.0,63.25,115
+4178,GreenGrocer Plaza,2024-05-18,Household Items,Cereal,3,2.94,8.82,0.88,7.94,410
+8218,FamilyFood Express,2024-07-30,Canned Goods,Bread,3,15.62,46.86,0.0,46.86,153
+5616,ValuePlus Market,2025-04-02,Canned Goods,Yogurt,4,12.66,50.64,0.0,50.64,319
+7256,ValuePlus Market,2024-08-31,Meat & Seafood,Bananas,5,26.01,130.05,26.01,104.04,295
+9641,City Fresh Store,2024-06-27,Frozen Foods,Onions,5,25.72,128.6,3.91,124.69,464
+3655,FreshMart Downtown,2025-05-02,Personal Care,Yogurt,3,14.4,43.2,0.0,43.2,123
+4271,QuickStop Market,2025-04-20,Snacks & Candy,Cheese,3,25.94,77.82,0.0,77.82,466
+3267,FamilyFood Express,2025-06-15,Snacks & Candy,Pasta,3,19.73,59.19,5.92,53.27,131
+5096,FamilyFood Express,2023-09-16,Dairy,Eggs,2,1.79,3.58,0.36,3.22,408
+8873,City Fresh Store,2025-06-15,Personal Care,Cheese,4,19.75,79.0,15.8,63.2,18
+7081,QuickStop Market,2024-10-10,Meat & Seafood,Bananas,3,23.89,71.67,0.0,71.67,142
+2680,FreshMart Downtown,2025-02-09,Beverages,Bananas,1,25.92,25.92,2.19,23.73,42
+9452,GreenGrocer Plaza,2025-05-29,Snacks & Candy,Orange Juice,1,12.5,12.5,2.5,10.0,429
+3042,GreenGrocer Plaza,2024-03-15,Household Items,Carrots,1,16.13,16.13,1.61,14.52,424
+2374,GreenGrocer Plaza,2025-03-21,Bakery,Chicken Breast,3,10.54,31.62,0.0,31.62,299
+3626,FamilyFood Express,2024-03-05,Snacks & Candy,Yogurt,2,4.09,8.18,0.82,7.36,109
+8361,Corner Grocery,2025-07-10,Frozen Foods,Milk,4,16.46,65.84,9.88,55.96,358
+9410,ValuePlus Market,2023-11-29,Snacks & Candy,Potatoes,2,28.93,57.86,8.68,49.18,450
+8167,City Fresh Store,2023-10-17,Canned Goods,Rice,1,19.71,19.71,0.0,19.71,463
+4637,FreshMart Downtown,2025-05-02,Health & Wellness,Ground Beef,3,17.02,51.06,0.0,51.06,158
+8391,GreenGrocer Plaza,2025-06-24,Personal Care,Ground Beef,4,12.26,49.04,7.36,41.68,465
+6727,QuickStop Market,2025-07-29,Dairy,Ground Beef,3,7.09,21.27,2.13,19.14,455
+1436,MegaMart Westside,2024-06-24,Health & Wellness,Cheese,1,8.94,8.94,0.89,8.05,41
+1872,Corner Grocery,2024-06-09,Canned Goods,Cheese,1,24.9,24.9,1.27,23.63,357
+9224,Corner Grocery,2024-05-23,Household Items,Onions,3,14.13,42.39,0.0,42.39,14
+4862,SuperSave Central,2024-06-01,Health & Wellness,Salmon,2,1.08,2.16,0.32,1.84,102
+2337,GreenGrocer Plaza,2024-05-24,Dairy,Apples,2,15.96,31.92,3.74,28.18,496
+4678,MegaMart Westside,2023-08-28,Beverages,Potatoes,2,8.55,17.1,2.56,14.54,351
+6221,FamilyFood Express,2025-07-29,Dairy,Cheese,3,6.26,18.78,1.9,16.88,448
+2623,FreshMart Downtown,2025-05-19,Personal Care,Ground Beef,1,29.24,29.24,0.0,29.24,101
+6493,SuperSave Central,2025-04-12,Produce,Tomatoes,5,13.43,67.15,4.83,62.32,133
+3392,SuperSave Central,2023-11-21,Household Items,Chicken Breast,1,21.83,21.83,0.0,21.83,222
+1627,City Fresh Store,2024-03-16,Dairy,Ground Beef,2,6.52,13.04,1.96,11.08,441
+8740,City Fresh Store,2025-01-28,Snacks & Candy,Eggs,4,25.82,103.28,15.49,87.79,307
+3273,FamilyFood Express,2025-03-18,Snacks & Candy,Apples,4,23.97,95.88,14.38,81.5,14
+8685,FamilyFood Express,2024-07-20,Household Items,Salmon,2,11.71,23.42,1.04,22.38,350
+1086,SuperSave Central,2025-07-10,Canned Goods,Tomatoes,2,21.68,43.36,0.0,43.36,362
+2298,QuickStop Market,2023-08-21,Dairy,Chicken Breast,5,2.69,13.45,1.34,12.11,170
+5193,MegaMart Westside,2024-01-21,Household Items,Milk,1,8.35,8.35,1.25,7.1,317
+3449,Corner Grocery,2024-10-06,Health & Wellness,Orange Juice,2,29.06,58.12,1.72,56.4,286
+9647,SuperSave Central,2024-06-30,Personal Care,Potatoes,3,26.45,79.35,11.9,67.45,67
+2821,ValuePlus Market,2025-03-31,Snacks & Candy,Eggs,3,4.38,13.14,1.31,11.83,22
+5720,QuickStop Market,2024-02-07,Canned Goods,Cheese,3,27.17,81.51,2.25,79.26,134
+5934,SuperSave Central,2023-11-09,Canned Goods,Potatoes,2,17.1,34.2,1.76,32.44,472
+1782,FreshMart Downtown,2024-02-08,Bakery,Apples,1,14.63,14.63,1.46,13.17,83
+7878,GreenGrocer Plaza,2024-12-15,Beverages,Milk,4,11.33,45.32,4.53,40.79,363
+8489,City Fresh Store,2023-09-24,Dairy,Eggs,1,11.13,11.13,2.23,8.9,104
+2816,SuperSave Central,2025-05-17,Personal Care,Pasta,5,26.83,134.15,4.99,129.16,299
+9189,FreshMart Downtown,2024-11-12,Personal Care,Apples,4,27.68,110.72,0.0,110.72,126
+9782,GreenGrocer Plaza,2023-08-19,Canned Goods,Bananas,3,20.75,62.25,6.23,56.02,348
+9443,MegaMart Westside,2024-10-26,Household Items,Chicken Breast,3,5.45,16.35,0.0,16.35,41
+4963,City Fresh Store,2025-02-15,Beverages,Pasta,5,20.07,100.35,0.0,100.35,168
+3352,City Fresh Store,2024-03-20,Canned Goods,Eggs,2,26.03,52.06,7.81,44.25,410
+8032,FreshMart Downtown,2023-08-08,Dairy,Onions,5,12.05,60.25,12.05,48.2,204
+6780,FamilyFood Express,2024-02-09,Snacks & Candy,Bread,1,25.71,25.71,2.57,23.14,83
+7825,QuickStop Market,2023-12-30,Health & Wellness,Eggs,1,9.65,9.65,0.0,9.65,410
+2402,QuickStop Market,2024-09-16,Health & Wellness,Eggs,3,20.29,60.87,1.8,59.07,426
+6908,City Fresh Store,2023-09-28,Snacks & Candy,Potatoes,3,17.32,51.96,5.2,46.76,216
+9618,MegaMart Westside,2024-10-02,Household Items,Apples,4,19.28,77.12,2.37,74.75,47
+9312,City Fresh Store,2025-04-08,Health & Wellness,Ground Beef,2,27.98,55.96,8.39,47.57,269
+9316,City Fresh Store,2024-10-10,Snacks & Candy,Bread,4,9.7,38.8,7.76,31.04,65
+1333,ValuePlus Market,2024-06-05,Snacks & Candy,Rice,5,2.37,11.85,1.43,10.42,39
+8702,Corner Grocery,2023-09-09,Snacks & Candy,Chicken Breast,4,20.15,80.6,12.09,68.51,291
+7338,QuickStop Market,2024-05-22,Household Items,Bread,5,1.46,7.3,1.46,5.84,379
+5155,SuperSave Central,2025-03-09,Snacks & Candy,Milk,1,13.06,13.06,1.96,11.1,360
+1266,City Fresh Store,2024-05-10,Health & Wellness,Salmon,5,24.42,122.1,24.42,97.68,174
+2106,SuperSave Central,2024-04-30,Dairy,Pasta,1,13.57,13.57,1.36,12.21,9
+4950,GreenGrocer Plaza,2025-02-26,Produce,Apples,4,14.33,57.32,8.6,48.72,207
+2698,MegaMart Westside,2025-03-28,Health & Wellness,Tomatoes,3,3.53,10.59,2.12,8.47,69
+6447,GreenGrocer Plaza,2023-11-18,Produce,Yogurt,1,7.06,7.06,0.0,7.06,332
+1726,FamilyFood Express,2024-05-06,Snacks & Candy,Onions,2,3.49,6.98,1.4,5.58,394
+9945,City Fresh Store,2024-04-25,Snacks & Candy,Bananas,1,5.81,5.81,0.58,5.23,78
+3868,City Fresh Store,2025-05-12,Produce,Salmon,5,8.03,40.15,2.34,37.81,150
+8612,GreenGrocer Plaza,2025-01-28,Health & Wellness,Cheese,4,25.6,102.4,2.95,99.45,377
+8840,City Fresh Store,2024-12-09,Personal Care,Potatoes,2,21.7,43.4,4.34,39.06,270
+3986,MegaMart Westside,2025-04-28,Personal Care,Bread,3,26.88,80.64,2.98,77.66,213
+3209,MegaMart Westside,2023-09-25,Beverages,Cheese,1,5.67,5.67,0.57,5.1,371
+8498,MegaMart Westside,2023-09-04,Beverages,Ground Beef,5,7.36,36.8,4.41,32.39,465
+5807,City Fresh Store,2024-01-10,Meat & Seafood,Rice,4,28.82,115.28,11.53,103.75,426
+1717,SuperSave Central,2025-04-12,Household Items,Yogurt,3,21.02,63.06,12.61,50.45,44
+4268,SuperSave Central,2025-06-25,Bakery,Apples,5,15.26,76.3,7.63,68.67,406
+1686,QuickStop Market,2024-04-08,Bakery,Yogurt,5,2.35,11.75,1.76,9.99,9
+6080,MegaMart Westside,2024-09-10,Health & Wellness,Apples,2,25.0,50.0,2.35,47.65,457
+7524,GreenGrocer Plaza,2025-05-01,Household Items,Ground Beef,1,17.29,17.29,2.59,14.7,249
+9897,MegaMart Westside,2024-08-08,Produce,Onions,3,26.98,80.94,0.0,80.94,436
+5150,FreshMart Downtown,2023-09-04,Beverages,Salmon,1,29.26,29.26,1.17,28.09,400
+4131,GreenGrocer Plaza,2024-03-16,Meat & Seafood,Chicken Breast,2,27.41,54.82,0.0,54.82,80
+6848,City Fresh Store,2025-06-06,Personal Care,Potatoes,1,5.46,5.46,1.09,4.37,186
+1783,GreenGrocer Plaza,2025-06-09,Bakery,Salmon,4,23.3,93.2,9.32,83.88,3
+6438,MegaMart Westside,2024-03-06,Frozen Foods,Carrots,2,3.46,6.92,1.04,5.88,190
+3039,FamilyFood Express,2025-04-18,Meat & Seafood,Carrots,4,23.82,95.28,9.53,85.75,70
+7029,Corner Grocery,2024-07-11,Beverages,Carrots,3,28.36,85.08,3.87,81.21,226
+7553,ValuePlus Market,2025-03-06,Dairy,Bread,3,10.12,30.36,3.04,27.32,395
+8204,FreshMart Downtown,2025-07-01,Snacks & Candy,Milk,2,27.16,54.32,5.43,48.89,29
+7334,Corner Grocery,2024-04-26,Health & Wellness,Onions,3,21.91,65.73,4.31,61.42,160
+4060,ValuePlus Market,2024-08-26,Household Items,Eggs,4,13.93,55.72,0.0,55.72,105
+9151,MegaMart Westside,2024-05-18,Health & Wellness,Tomatoes,2,26.54,53.08,2.34,50.74,43
+9507,SuperSave Central,2024-03-01,Personal Care,Onions,3,7.19,21.57,2.36,19.21,261
+2353,SuperSave Central,2025-02-21,Produce,Bananas,5,18.17,90.85,0.0,90.85,123
+7955,Corner Grocery,2023-10-07,Personal Care,Chicken Breast,1,25.4,25.4,1.19,24.21,132
+8055,GreenGrocer Plaza,2024-11-16,Beverages,Rice,5,22.36,111.8,22.36,89.44,232
+3956,ValuePlus Market,2024-10-03,Household Items,Ground Beef,3,9.67,29.01,0.0,29.01,341
+5813,Corner Grocery,2024-04-12,Personal Care,Ground Beef,1,10.5,10.5,1.57,8.93,298
+2680,City Fresh Store,2023-10-08,Dairy,Eggs,4,25.01,100.04,2.7,97.34,41
+6372,SuperSave Central,2025-01-01,Beverages,Yogurt,4,3.25,13.0,3.24,9.76,346
+5843,Corner Grocery,2024-04-01,Frozen Foods,Potatoes,4,29.89,119.56,0.0,119.56,352
+8305,Corner Grocery,2024-11-17,Meat & Seafood,Eggs,5,4.68,23.4,4.68,18.72,364
+7981,ValuePlus Market,2023-12-14,Personal Care,Chicken Breast,2,14.2,28.4,2.48,25.92,16
+8272,GreenGrocer Plaza,2024-05-06,Household Items,Cheese,1,4.5,4.5,3.09,1.41,292
+8325,GreenGrocer Plaza,2023-09-08,Canned Goods,Rice,3,9.78,29.34,5.87,23.47,248
+6776,SuperSave Central,2024-11-26,Household Items,Cheese,1,28.16,28.16,5.63,22.53,156
+8126,SuperSave Central,2024-03-07,Beverages,Bananas,1,16.87,16.87,1.69,15.18,34
+1939,City Fresh Store,2023-10-04,Household Items,Rice,5,14.11,70.55,7.05,63.5,172
+7655,SuperSave Central,2024-05-15,Meat & Seafood,Carrots,4,23.08,92.32,18.46,73.86,341
+9406,MegaMart Westside,2025-04-20,Dairy,Cheese,4,7.74,30.96,1.18,29.78,202
+3621,City Fresh Store,2023-08-31,Frozen Foods,Bread,2,21.5,43.0,3.58,39.42,292
+3339,ValuePlus Market,2025-05-27,Dairy,Yogurt,5,16.7,83.5,3.09,80.41,387
+8179,City Fresh Store,2023-09-03,Personal Care,Bananas,1,20.08,20.08,2.1,17.98,272
+3068,FamilyFood Express,2023-09-28,Bakery,Salmon,1,24.39,24.39,2.44,21.95,310
+4866,FreshMart Downtown,2025-04-02,Beverages,Bananas,3,13.66,40.98,2.27,38.71,212
+7001,QuickStop Market,2024-05-14,Dairy,Chicken Breast,1,16.7,16.7,3.34,13.36,146
+7272,QuickStop Market,2024-10-20,Dairy,Eggs,3.0,28.6,85.8,3.46,82.34,347
+1530,MegaMart Westside,2024-11-18,Meat & Seafood,Bananas,1,9.63,9.63,1.93,7.7,50
+3513,Corner Grocery,2025-01-15,Canned Goods,Pasta,4,28.3,113.2,1.81,111.39,460
+8371,FamilyFood Express,2024-05-21,Beverages,Carrots,5,12.16,60.8,2.27,58.53,58
+7095,ValuePlus Market,2024-07-16,Snacks & Candy,Bread,4,1.83,7.32,2.08,5.24,324
+2259,GreenGrocer Plaza,2024-10-25,Bakery,Onions,2,9.82,19.64,4.39,15.25,208
+3255,ValuePlus Market,2024-09-21,Bakery,Eggs,3,16.66,49.98,4.81,45.17,86
+7012,ValuePlus Market,2024-06-11,Beverages,Milk,1,24.56,24.56,0.0,24.56,492
+6150,SuperSave Central,2024-12-23,Produce,Milk,4,8.92,35.68,5.35,30.33,128
+5566,FamilyFood Express,2024-02-16,Household Items,Carrots,3,2.31,6.93,1.04,5.89,378
+2858,GreenGrocer Plaza,2023-08-27,Snacks & Candy,Chicken Breast,2,22.02,44.04,8.81,35.23,143
+4048,ValuePlus Market,2024-08-28,Canned Goods,Cereal,3,29.4,88.2,13.23,74.97,362
+9482,FamilyFood Express,2024-06-02,Health & Wellness,Cereal,3,7.1,21.3,4.66,16.64,491
+2929,SuperSave Central,2024-02-26,Health & Wellness,Bananas,5,14.81,74.05,0.0,74.05,461
+5264,SuperSave Central,2025-02-03,Snacks & Candy,Onions,4,23.1,92.4,0.0,92.4,275
+8311,GreenGrocer Plaza,2024-01-20,Personal Care,Bananas,4,20.49,81.96,2.43,79.53,180
+5678,SuperSave Central,2025-01-27,Produce,Chicken Breast,4,11.73,46.92,1.89,45.03,98
+9047,FreshMart Downtown,2024-01-09,Frozen Foods,Orange Juice,2,3.6,7.2,0.0,7.2,314
+3009,FamilyFood Express,2023-11-20,Bakery,Potatoes,3,2.06,6.18,1.78,4.4,252
+2213,Corner Grocery,2024-07-23,Dairy,Pasta,5,15.5,77.5,0.0,77.5,87
+3828,SuperSave Central,2025-07-05,Dairy,Eggs,1,4.69,4.69,3.92,0.77,477
+8292,QuickStop Market,2023-10-14,Bakery,Bananas,5,18.81,94.05,4.75,89.3,348
+6236,FreshMart Downtown,2025-01-06,Canned Goods,Cheese,4,8.94,35.76,3.58,32.18,348
+6692,MegaMart Westside,2025-02-08,Personal Care,Milk,2,2.35,4.7,2.8,1.9,470
+2063,FreshMart Downtown,2024-10-07,Snacks & Candy,Yogurt,3,3.36,10.08,0.0,10.08,292
+9882,FamilyFood Express,2024-03-19,Snacks & Candy,Bread,2,6.7,13.4,3.5,9.9,168
+5914,GreenGrocer Plaza,2025-05-29,Produce,Potatoes,4,24.42,97.68,14.65,83.03,303
+3580,FamilyFood Express,2025-02-09,Dairy,Potatoes,2,28.8,57.6,8.64,48.96,426
+3852,ValuePlus Market,2025-04-14,Bakery,Bread,5,18.96,94.8,0.0,94.8,391
+6922,City Fresh Store,2024-09-05,Household Items,Chicken Breast,1,29.25,29.25,2.93,26.32,469
+4673,MegaMart Westside,2023-11-09,Dairy,Eggs,1,27.64,27.64,4.15,23.49,226
+4292,Corner Grocery,2025-04-13,Dairy,Chicken Breast,1,17.21,17.21,1.72,15.49,150
+3275,GreenGrocer Plaza,2024-02-06,Household Items,Cheese,2,26.06,52.12,5.21,46.91,403
+9094,Corner Grocery,2023-08-27,Beverages,Cheese,5,18.95,94.75,9.47,85.28,173
+6912,ValuePlus Market,2024-10-10,Canned Goods,Yogurt,1,3.97,3.97,4.16,-0.19,304
+7044,FamilyFood Express,2024-08-04,Household Items,Eggs,5,8.42,42.1,0.0,42.1,215
+3126,City Fresh Store,2024-11-24,Meat & Seafood,Ground Beef,2,24.1,48.2,7.23,40.97,30
+2412,Corner Grocery,2023-09-27,Personal Care,Orange Juice,3,17.92,53.76,10.75,43.01,277
+6067,City Fresh Store,2024-06-11,Frozen Foods,Cereal,3,11.69,35.07,1.95,33.12,4
+8842,ValuePlus Market,2024-09-18,Produce,Cheese,3,6.66,19.98,2.37,17.61,102
+7730,City Fresh Store,2025-03-26,Beverages,Cereal,5,17.41,87.05,8.71,78.34,171
+7708,MegaMart Westside,2025-05-07,Meat & Seafood,Chicken Breast,4,26.4,105.6,10.56,95.04,466
+2208,FamilyFood Express,2023-11-12,Produce,Ground Beef,2,14.52,29.04,2.9,26.14,109
+6194,MegaMart Westside,2024-12-17,Snacks & Candy,Yogurt,4,6.33,25.32,1.29,24.03,3
+2215,FreshMart Downtown,2024-07-21,Personal Care,Chicken Breast,2,9.42,18.84,4.9,13.94,99
+8632,FamilyFood Express,2025-01-16,Bakery,Rice,2,7.34,14.68,2.2,12.48,134
+9476,ValuePlus Market,2024-04-30,Bakery,Apples,2,1.61,3.22,1.08,2.14,431
+3102,SuperSave Central,2025-06-18,Snacks & Candy,Chicken Breast,3,28.14,84.42,16.88,67.54,156
+3981,MegaMart Westside,2025-03-25,Canned Goods,Apples,5,29.33,146.65,0.0,146.65,319
+3114,GreenGrocer Plaza,2024-07-08,Dairy,Eggs,2,24.04,48.08,0.0,48.08,98
+9238,MegaMart Westside,2025-07-14,Canned Goods,Cheese,2,27.7,55.4,2.18,53.22,390
+1907,SuperSave Central,2025-05-13,Canned Goods,Ground Beef,1,19.24,19.24,4.87,14.37,143
+3034,City Fresh Store,2024-09-12,Bakery,Bread,4,23.93,95.72,19.14,76.58,314
+3507,ValuePlus Market,2024-03-30,Snacks & Candy,Carrots,3,15.45,46.35,6.95,39.4,237
+3697,MegaMart Westside,2023-12-10,Personal Care,Potatoes,4,14.73,58.92,0.0,58.92,297
+6286,FreshMart Downtown,2025-08-02,Bakery,Ground Beef,2,14.1,28.2,5.64,22.56,120
+4694,QuickStop Market,2024-05-01,Snacks & Candy,Tomatoes,5,5.55,27.75,4.16,23.59,431
+9501,ValuePlus Market,2025-07-02,Dairy,Eggs,1,9.55,9.55,1.91,7.64,265
+5653,FreshMart Downtown,2025-05-25,Beverages,Carrots,5,10.74,53.7,5.37,48.33,230
+2292,Corner Grocery,2024-02-17,Canned Goods,Potatoes,3,8.91,26.73,2.67,24.06,12
+4216,FamilyFood Express,2024-12-12,Frozen Foods,Bread,3,27.13,81.39,12.21,69.18,150
+5496,FamilyFood Express,2023-11-12,Dairy,Chicken Breast,1,11.44,11.44,1.72,9.72,279
+5961,FamilyFood Express,2024-11-26,Health & Wellness,Cereal,3,9.77,29.31,5.86,23.45,417
+9740,SuperSave Central,2023-10-18,Personal Care,Pasta,1,23.32,23.32,2.33,20.99,144
+9234,Corner Grocery,2024-12-16,Household Items,Bananas,4,19.96,79.84,7.98,71.86,389
+3762,,2024-11-08,Bakery,Yogurt,4,7.77,31.08,0.0,31.08,300
+3526,City Fresh Store,2023-12-17,Canned Goods,Bread,3,25.52,76.56,15.31,61.25,219
+6531,City Fresh Store,2025-05-22,Beverages,Onions,1,11.86,11.86,1.78,10.08,295
+1674,FreshMart Downtown,2025-05-08,Beverages,Orange Juice,3,7.53,22.59,0.0,22.59,217
+1464,ValuePlus Market,2023-10-09,Frozen Foods,Cereal,5,1.66,8.3,1.66,6.64,402
+1744,SuperSave Central,2024-12-17,Canned Goods,Tomatoes,4,6.91,27.64,2.55,25.09,200
+5336,City Fresh Store,2024-12-24,Dairy,Cereal,5,28.89,144.45,1.69,142.76,327
+4453,ValuePlus Market,2025-03-24,Meat & Seafood,Milk,5,15.16,75.8,4.65,71.15,95
+7825,Corner Grocery,2024-11-29,Frozen Foods,Yogurt,2,9.43,18.86,1.89,16.97,268
+1496,FreshMart Downtown,2024-08-27,Canned Goods,Carrots,1,5.97,5.97,0.6,5.37,440
+9938,SuperSave Central,2024-03-18,Dairy,Eggs,5,13.12,65.6,6.56,59.04,380
+5949,FamilyFood Express,2024-08-16,Meat & Seafood,Yogurt,3,13.52,40.56,8.11,32.45,363
+5012,QuickStop Market,2025-04-23,Household Items,Yogurt,5,21.78,108.9,21.78,87.12,234
+7653,FreshMart Downtown,2024-03-25,Meat & Seafood,Salmon,1,24.9,24.9,2.32,22.58,309
+8430,City Fresh Store,2023-10-02,Beverages,Salmon,5,2.12,10.6,0.0,10.6,46
+1981,City Fresh Store,2023-12-07,Canned Goods,Rice,4,18.77,75.08,7.51,67.57,414
+8202,FamilyFood Express,2024-06-24,Meat & Seafood,Cheese,4,12.15,48.6,0.0,48.6,337
+8933,GreenGrocer Plaza,2024-08-01,Snacks & Candy,Milk,2,26.67,53.34,0.0,53.34,80
+4342,ValuePlus Market,2024-04-27,Frozen Foods,Bread,2,27.34,54.68,8.2,46.48,210
+3353,GreenGrocer Plaza,2024-04-05,Dairy,Carrots,3,12.88,38.64,7.73,30.91,84
+6231,ValuePlus Market,2025-02-27,Produce,Salmon,1,3.11,3.11,0.31,2.8,355
+6658,,2024-06-11,Snacks & Candy,Yogurt,4,2.09,8.36,0.0,8.36,128
+3142,SuperSave Central,2025-03-19,Canned Goods,Salmon,4,14.37,57.48,0.0,57.48,42
+7070,City Fresh Store,2024-09-09,Meat & Seafood,Potatoes,3,25.4,76.2,1.4,74.8,87
+2739,QuickStop Market,2024-04-10,Dairy,Onions,4,5.88,23.52,0.0,23.52,343
+4960,QuickStop Market,2024-08-03,Meat & Seafood,Salmon,3,6.15,18.45,0.0,18.45,365
+3007,ValuePlus Market,2024-03-01,Bakery,Salmon,1,25.25,25.25,2.53,22.72,415
+8366,QuickStop Market,2024-02-15,Beverages,Milk,5,1.13,5.65,1.13,4.52,395
+3308,FamilyFood Express,2023-10-21,Canned Goods,Ground Beef,2,3.64,7.28,2.35,4.93,215
+1829,FamilyFood Express,2024-03-19,Health & Wellness,Bread,2,28.79,57.58,0.0,57.58,49
+7293,SuperSave Central,2025-06-08,Produce,Cheese,5,4.11,20.55,3.51,17.04,167
+7850,FamilyFood Express,2024-02-15,Personal Care,Tomatoes,4,4.49,17.96,2.69,15.27,109
+3616,MegaMart Westside,2025-04-29,Meat & Seafood,Bananas,4,19.96,79.84,15.97,63.87,6
+6364,City Fresh Store,2025-08-01,Bakery,Bread,3,19.84,59.52,4.54,54.98,188
+6123,Corner Grocery,2024-01-01,Frozen Foods,Potatoes,1,21.65,21.65,3.25,18.4,405
+3610,GreenGrocer Plaza,2024-08-28,Household Items,Cereal,4,20.65,82.6,12.39,70.21,497
+9433,SuperSave Central,2024-08-03,Health & Wellness,Cereal,4,2.95,11.8,1.18,10.62,9
+9171,ValuePlus Market,2025-06-19,Health & Wellness,Ground Beef,5,18.03,90.15,3.47,86.68,6
+6055,GreenGrocer Plaza,2024-08-27,Frozen Foods,Ground Beef,4,22.95,91.8,1.55,90.25,317
+1379,City Fresh Store,2023-10-15,Frozen Foods,Yogurt,2,11.89,23.78,4.76,19.02,328
+7442,City Fresh Store,2024-09-02,Canned Goods,Eggs,3,10.2,30.6,4.17,26.43,402
+8491,Corner Grocery,2024-02-09,Health & Wellness,Rice,1,7.63,7.63,1.14,6.49,375
+4524,FamilyFood Express,2024-11-02,Bakery,Onions,1,27.28,27.28,0.0,27.28,340
+6781,FamilyFood Express,2023-09-13,Household Items,Tomatoes,5,10.32,51.6,4.48,47.12,226
+1828,GreenGrocer Plaza,2024-03-12,Bakery,Milk,2,28.2,56.4,11.28,45.12,64
+9108,ValuePlus Market,2024-11-13,Bakery,Ground Beef,5,3.26,16.3,2.44,13.86,371
+8710,SuperSave Central,2024-03-15,Bakery,Ground Beef,4,6.11,24.44,3.67,20.77,127
+9793,City Fresh Store,2023-08-13,Health & Wellness,Yogurt,3,26.0,78.0,11.7,66.3,246
+2761,Corner Grocery,2024-07-06,Snacks & Candy,Apples,4,13.79,55.16,11.03,44.13,258
+3194,City Fresh Store,2025-06-22,Produce,Tomatoes,4,25.76,103.04,3.15,99.89,388
+5333,ValuePlus Market,2025-02-22,Meat & Seafood,Pasta,4,14.44,57.76,5.78,51.98,232
+6992,ValuePlus Market,2025-03-22,Household Items,Potatoes,1.0,10.65,10.65,2.13,8.52,366
+7606,SuperSave Central,2024-05-17,Bakery,Bananas,1,25.98,25.98,2.6,23.38,373
+1741,Corner Grocery,2024-06-13,Snacks & Candy,Tomatoes,3,12.13,36.39,3.64,32.75,157
+1838,FreshMart Downtown,2024-10-22,Dairy,Tomatoes,5,5.7,28.5,4.27,24.23,390
+4189,MegaMart Westside,2024-05-14,Personal Care,Potatoes,3,21.19,63.57,6.36,57.21,333
+5728,FamilyFood Express,2023-10-03,Bakery,Potatoes,1,27.71,27.71,0.0,27.71,185
+7329,SuperSave Central,2024-09-01,Frozen Foods,Salmon,2,8.36,16.72,1.47,15.25,308
+8378,GreenGrocer Plaza,2025-03-22,Health & Wellness,Tomatoes,4,21.47,85.88,4.64,81.24,498
+5582,Corner Grocery,2025-05-09,Meat & Seafood,Cheese,3,21.05,63.15,2.23,60.92,256
+2946,Corner Grocery,2023-11-14,Dairy,Chicken Breast,5,23.51,117.55,17.63,99.92,176
+2584,FamilyFood Express,2024-06-07,Snacks & Candy,Rice,1,29.61,29.61,1.39,28.22,417
+7114,Corner Grocery,2025-04-15,Personal Care,Cheese,3,22.25,66.75,10.01,56.74,87
+6555,SuperSave Central,2024-10-13,Meat & Seafood,Yogurt,4,6.27,25.08,2.51,22.57,485
+6990,FamilyFood Express,2025-03-15,Meat & Seafood,Yogurt,1,22.74,22.74,3.41,19.33,414
+3363,Corner Grocery,2024-01-08,Beverages,Chicken Breast,2,3.3,6.6,2.11,4.49,43
+9341,MegaMart Westside,2024-06-13,Produce,Ground Beef,4,15.06,60.24,1.24,59.0,389
+9193,FreshMart Downtown,2023-09-07,Health & Wellness,Milk,1,7.11,7.11,0.71,6.4,405
+1742,ValuePlus Market,2023-09-06,Frozen Foods,Potatoes,4,22.94,91.76,13.76,78.0,309
+3245,MegaMart Westside,2025-02-11,Health & Wellness,Cereal,3,24.68,74.04,0.0,74.04,481
+6456,Corner Grocery,2025-04-22,Snacks & Candy,Milk,3,26.31,78.93,2.83,76.1,412
+8761,Corner Grocery,2024-09-13,Meat & Seafood,Bananas,5,4.55,22.75,0.0,22.75,271
+8487,FamilyFood Express,2023-11-30,Canned Goods,Salmon,5,20.89,104.45,2.65,101.8,445
+9446,FamilyFood Express,2023-11-23,Produce,Cereal,1,19.37,19.37,0.0,19.37,447
+6373,MegaMart Westside,2025-07-30,Health & Wellness,Salmon,2,18.59,37.18,5.58,31.6,204
+6218,Corner Grocery,2023-12-11,Beverages,Chicken Breast,4,9.51,38.04,4.5,33.54,99
+7438,ValuePlus Market,2024-11-27,Produce,Eggs,4,24.1,96.4,19.28,77.12,154
+5902,City Fresh Store,2024-11-10,Dairy,Potatoes,5,7.98,39.9,0.0,39.9,108
+6511,GreenGrocer Plaza,2024-09-04,Dairy,Cheese,1,5.64,5.64,0.56,5.08,475
+9351,QuickStop Market,2024-09-23,Bakery,Pasta,4,28.58,114.32,0.0,114.32,343
+9025,SuperSave Central,2025-02-07,Personal Care,Potatoes,1,24.06,24.06,4.07,19.99,170
+5911,GreenGrocer Plaza,2024-08-09,Health & Wellness,Cereal,4,27.38,109.52,0.0,109.52,380
+1272,ValuePlus Market,2024-05-19,Snacks & Candy,Ground Beef,2,8.5,17.0,1.36,15.64,148
+6427,FamilyFood Express,2025-01-11,Dairy,Orange Juice,2,25.74,51.48,3.95,47.53,488
+2795,QuickStop Market,2024-06-25,Produce,Onions,2,25.56,51.12,7.67,43.45,216
+6040,SuperSave Central,2025-04-16,Personal Care,Ground Beef,1,12.45,12.45,1.87,10.58,275
+1436,SuperSave Central,2024-11-12,Frozen Foods,Ground Beef,4,20.71,82.84,16.57,66.27,75
+8775,FreshMart Downtown,2024-02-29,Household Items,Cereal,3,15.56,46.68,7.0,39.68,352
+4728,City Fresh Store,2025-02-17,Health & Wellness,Yogurt,4,9.44,37.76,4.92,32.84,494
+1841,MegaMart Westside,2024-11-02,Meat & Seafood,Yogurt,2,21.3,42.6,4.26,38.34,26
+8871,Corner Grocery,2023-12-17,Frozen Foods,Apples,1,16.88,16.88,0.0,16.88,172
+9589,City Fresh Store,2024-12-07,Canned Goods,Tomatoes,4,3.07,12.28,1.84,10.44,372
+7229,FamilyFood Express,2023-11-29,Personal Care,Tomatoes,1,4.79,4.79,0.0,4.79,385
+4968,QuickStop Market,2023-08-31,Beverages,Apples,5,4.98,24.9,3.73,21.17,356
+2800,SuperSave Central,2024-01-02,Bakery,Yogurt,2,22.31,44.62,0.0,44.62,4
+1310,GreenGrocer Plaza,2024-07-14,Health & Wellness,Eggs,4,28.55,114.2,1.38,112.82,218
+6139,City Fresh Store,2024-06-27,Meat & Seafood,Milk,1,29.42,29.42,2.74,26.68,332
+3481,SuperSave Central,2024-06-22,Health & Wellness,Tomatoes,2,1.98,3.96,0.4,3.56,123
+4340,QuickStop Market,2024-06-20,Household Items,Apples,4,23.49,93.96,9.4,84.56,407
+9221,Corner Grocery,2025-03-30,Frozen Foods,Salmon,3,1.33,3.99,2.96,1.03,59
+8726,ValuePlus Market,2025-06-14,Bakery,Bananas,5,17.61,88.05,13.21,74.84,293
+2020,GreenGrocer Plaza,2025-02-05,Household Items,Apples,4,15.03,60.12,9.02,51.1,330
+3262,SuperSave Central,2024-09-12,Dairy,Cereal,1,21.69,21.69,2.17,19.52,441
+4397,FreshMart Downtown,2024-10-15,Snacks & Candy,Onions,5,23.71,118.55,3.08,115.47,271
+6325,ValuePlus Market,2025-01-02,Health & Wellness,Chicken Breast,2,28.99,57.98,11.6,46.38,459
+8837,SuperSave Central,2024-09-18,Produce,Onions,4,24.2,96.8,19.36,77.44,62
+7173,FamilyFood Express,2024-04-06,Health & Wellness,Apples,1,17.3,17.3,4.92,12.38,435
+3837,ValuePlus Market,2024-07-29,Frozen Foods,Orange Juice,5,5.97,29.85,5.97,23.88,500
+9734,QuickStop Market,2024-04-28,Produce,Carrots,3,20.11,60.33,2.96,57.37,227
+9950,MegaMart Westside,2024-05-08,Personal Care,Orange Juice,5,16.6,83.0,0.0,83.0,107
+5331,FreshMart Downtown,2024-11-22,Bakery,Milk,2,5.1,10.2,2.04,8.16,438
+8932,ValuePlus Market,2024-01-03,Bakery,Orange Juice,3,4.72,14.16,3.2,10.96,318
+5038,QuickStop Market,2024-03-10,Snacks & Candy,Apples,4,14.22,56.88,0.0,56.88,483
+5890,,2024-01-28,Meat & Seafood,Onions,2,3.04,6.08,0.0,6.08,375
+5876,FamilyFood Express,2025-03-27,Canned Goods,Carrots,5,5.75,28.75,4.31,24.44,420
+5735,Corner Grocery,2025-02-04,Snacks & Candy,Bananas,5,8.17,40.85,1.44,39.41,138
+4396,ValuePlus Market,2025-01-24,Snacks & Candy,Bread,3,19.56,58.68,8.8,49.88,185
+9011,SuperSave Central,2024-04-09,Bakery,Pasta,1,3.83,3.83,0.38,3.45,496
+8861,GreenGrocer Plaza,2024-05-03,Dairy,Apples,5,22.11,110.55,3.12,107.43,156
+5480,QuickStop Market,2024-03-17,Personal Care,Pasta,5,3.86,19.3,2.9,16.4,24
+2996,Corner Grocery,2024-10-25,Meat & Seafood,Orange Juice,5,16.99,84.95,8.5,76.45,451
+9899,SuperSave Central,2024-05-27,Frozen Foods,Bananas,5,21.67,108.35,21.67,86.68,336
+7464,Corner Grocery,2025-05-03,Household Items,Pasta,1,27.62,27.62,0.0,27.62,327
+6654,FamilyFood Express,2025-03-29,Health & Wellness,Cheese,4,6.3,25.2,2.15,23.05,181
+3399,Corner Grocery,2024-03-19,Personal Care,Ground Beef,3,19.42,58.26,5.83,52.43,44
+1689,MegaMart Westside,2024-03-17,Dairy,Bread,1,22.16,22.16,4.43,17.73,483
+2294,FreshMart Downtown,2024-05-02,Dairy,Rice,5,27.95,139.75,13.98,125.77,413
+8247,ValuePlus Market,2024-12-28,Meat & Seafood,Potatoes,4,15.93,63.72,6.37,57.35,346
+5201,FreshMart Downtown,2025-03-09,Household Items,Yogurt,1,21.7,21.7,4.34,17.36,359
+8849,ValuePlus Market,2024-01-20,Health & Wellness,Milk,5,14.0,70.0,14.0,56.0,86
+4310,GreenGrocer Plaza,2025-05-11,Canned Goods,Eggs,5,11.24,56.2,5.62,50.58,26
+9824,Corner Grocery,2024-03-04,Meat & Seafood,Orange Juice,1,10.79,10.79,4.4,6.39,347
+5450,GreenGrocer Plaza,2023-11-21,Frozen Foods,Rice,4,9.5,38.0,0.0,38.0,109
+2789,Corner Grocery,2024-11-27,Bakery,Rice,5,24.94,124.7,4.39,120.31,18
+4920,FreshMart Downtown,2024-02-11,Canned Goods,Bananas,5,14.34,71.7,1.02,70.68,152
+1831,SuperSave Central,2025-01-08,Snacks & Candy,Orange Juice,1,3.93,3.93,3.12,0.81,251
+9700,SuperSave Central,2024-01-29,Snacks & Candy,Chicken Breast,4,1.19,4.76,0.95,3.81,393
+4814,City Fresh Store,2023-09-16,Snacks & Candy,Orange Juice,3,11.56,34.68,4.25,30.43,456
+2641,GreenGrocer Plaza,2024-06-23,Beverages,Salmon,2,5.05,10.1,2.44,7.66,382
+6411,FamilyFood Express,2025-02-14,Dairy,Yogurt,3,2.16,6.48,0.0,6.48,202
+8739,MegaMart Westside,2023-10-24,Produce,Apples,2,28.49,56.98,2.68,54.3,491
+3252,ValuePlus Market,2023-08-11,Beverages,Eggs,3,22.77,68.31,3.9,64.41,399
+3587,Corner Grocery,2024-06-18,Meat & Seafood,Chicken Breast,1,23.98,23.98,3.6,20.38,64
+8793,ValuePlus Market,2024-08-11,Produce,Ground Beef,1,20.66,20.66,3.95,16.71,175
+4267,,2025-03-16,Beverages,Rice,3,15.08,45.24,9.05,36.19,389
+5706,SuperSave Central,2024-04-12,Personal Care,Apples,2,9.14,18.28,0.0,18.28,58
+5676,FamilyFood Express,2024-12-20,Health & Wellness,Cheese,2,14.73,29.46,0.0,29.46,400
+1969,ValuePlus Market,2025-07-12,Household Items,Apples,2,29.77,59.54,11.91,47.63,302
+2465,GreenGrocer Plaza,2024-12-25,Meat & Seafood,Tomatoes,1,8.93,8.93,0.89,8.04,98
+4804,FreshMart Downtown,2024-09-25,Household Items,Yogurt,1,26.06,26.06,2.23,23.83,194
+1611,FamilyFood Express,2025-07-16,Bakery,Cereal,4,14.89,59.56,0.0,59.56,261
+3868,FreshMart Downtown,2024-06-26,Frozen Foods,Chicken Breast,3,11.53,34.59,0.0,34.59,482
+3880,Corner Grocery,2025-08-01,Bakery,Cereal,1,6.26,6.26,0.0,6.26,0
+1595,MegaMart Westside,2025-05-17,Bakery,Rice,4,9.11,36.44,3.64,32.8,310
+7504,SuperSave Central,2025-04-10,Frozen Foods,Potatoes,3,10.68,32.04,0.0,32.04,57
+9116,FreshMart Downtown,2023-12-29,Health & Wellness,Onions,2,10.6,21.2,0.0,21.2,379
+5742,ValuePlus Market,2025-06-17,Household Items,Orange Juice,2,19.85,39.7,4.55,35.15,107
+1613,SuperSave Central,2023-08-14,Health & Wellness,Chicken Breast,1,18.0,18.0,3.6,14.4,467
+5888,City Fresh Store,2024-10-21,Dairy,Bread,5,18.94,94.7,18.94,75.76,154
+2758,ValuePlus Market,2025-07-28,Meat & Seafood,Milk,2,6.55,13.1,4.9,8.2,281
+6489,MegaMart Westside,2024-03-15,Beverages,Chicken Breast,4,2.95,11.8,2.36,9.44,214
+8444,QuickStop Market,2024-12-17,Meat & Seafood,Rice,1,28.71,28.71,0.0,28.71,31
+9901,Corner Grocery,2024-09-17,Beverages,Onions,5,29.16,145.8,2.54,143.26,84
+9092,Corner Grocery,2025-06-27,Snacks & Candy,Pasta,2,6.33,12.66,3.79,8.87,81
+3198,ValuePlus Market,2025-05-29,Beverages,Carrots,5,8.5,42.5,6.38,36.12,436
+9261,QuickStop Market,2024-08-04,Personal Care,Chicken Breast,2,7.48,14.96,2.24,12.72,273
+5470,FreshMart Downtown,2024-01-03,Health & Wellness,Eggs,3,27.88,83.64,0.0,83.64,138
+2845,FamilyFood Express,2024-04-19,Bakery,Onions,1,1.03,1.03,0.15,0.88,177
+3662,GreenGrocer Plaza,2025-02-24,Personal Care,Pasta,2,12.83,25.66,3.85,21.81,313
+8518,FreshMart Downtown,2024-12-22,Health & Wellness,Bananas,3,7.35,22.05,4.41,17.64,494
+5215,QuickStop Market,2025-02-15,Produce,Onions,5,4.08,20.4,0.0,20.4,381
+4050,QuickStop Market,2023-08-17,Health & Wellness,Onions,2,24.68,49.36,7.4,41.96,112
+6523,FamilyFood Express,2025-04-12,Household Items,Tomatoes,2,13.93,27.86,4.18,23.68,373
+5833,SuperSave Central,2024-10-21,Beverages,Bread,4,6.25,25.0,5.0,20.0,94
+4164,City Fresh Store,2023-12-21,Meat & Seafood,Rice,1,9.98,9.98,1.0,8.98,453
+7643,FamilyFood Express,2025-05-10,Dairy,Eggs,1.0,13.36,13.36,3.9,9.46,232
+8007,SuperSave Central,2024-09-10,Produce,Chicken Breast,4,12.13,48.52,0.0,48.52,56
+6372,FreshMart Downtown,2023-10-13,Meat & Seafood,Ground Beef,1,8.75,8.75,4.83,3.92,480
+7567,GreenGrocer Plaza,2025-01-07,Personal Care,Cereal,1,6.86,6.86,1.37,5.49,245
+2562,QuickStop Market,2023-12-28,Canned Goods,Potatoes,2,8.06,16.12,0.0,16.12,278
+3303,ValuePlus Market,2024-08-11,Dairy,Bananas,1,3.97,3.97,4.55,-0.58,151
+6301,Corner Grocery,2025-08-02,Meat & Seafood,Bananas,2,1.69,3.38,0.68,2.7,218
+5064,MegaMart Westside,2023-08-12,Health & Wellness,Rice,2,27.72,55.44,0.0,55.44,350
+5272,GreenGrocer Plaza,2024-05-30,Beverages,Apples,1,7.5,7.5,1.12,6.38,489
+4858,GreenGrocer Plaza,2024-07-18,Household Items,Cereal,1,11.44,11.44,3.42,8.02,473
+5374,SuperSave Central,2024-04-19,Snacks & Candy,Carrots,3,18.38,55.14,11.03,44.11,347
+5947,QuickStop Market,2024-11-01,Household Items,Rice,3,26.38,79.14,0.0,79.14,138
+1187,MegaMart Westside,2024-02-26,Frozen Foods,Bread,1,25.98,25.98,0.0,25.98,500
+6890,SuperSave Central,2025-01-26,Canned Goods,Eggs,4,13.94,55.76,1.45,54.31,407
+4871,Corner Grocery,2023-09-24,Frozen Foods,Eggs,1,10.36,10.36,1.04,9.32,65
+2936,MegaMart Westside,2024-08-02,Canned Goods,Potatoes,4,14.95,59.8,4.17,55.63,498
+6026,MegaMart Westside,2023-12-09,Meat & Seafood,Ground Beef,4,13.13,52.52,3.14,49.38,254
+7642,FamilyFood Express,2025-01-20,Snacks & Candy,Bread,5,21.72,108.6,0.0,108.6,269
+9233,GreenGrocer Plaza,2025-07-23,Bakery,Orange Juice,1,6.89,6.89,1.03,5.86,435
+6095,ValuePlus Market,2025-01-24,Beverages,Eggs,1,2.72,2.72,0.54,2.18,178
+2923,QuickStop Market,2024-12-15,Beverages,Eggs,5,29.17,145.85,29.17,116.68,467
+5833,FamilyFood Express,2024-05-18,Bakery,Milk,2,4.39,8.78,0.88,7.9,356
+4618,FreshMart Downtown,2024-01-24,Snacks & Candy,Orange Juice,1,21.33,21.33,2.13,19.2,339
+3188,SuperSave Central,2024-08-12,Produce,Eggs,3,5.09,15.27,3.28,11.99,125
+3509,Corner Grocery,2024-07-25,Meat & Seafood,Apples,4,22.55,90.2,9.02,81.18,383
+7121,Corner Grocery,2024-06-24,Canned Goods,Salmon,1,9.31,9.31,0.0,9.31,79
+9998,FreshMart Downtown,2025-07-15,Household Items,Apples,5,5.64,28.2,0.0,28.2,202
+8714,City Fresh Store,2025-03-17,Personal Care,Pasta,5,15.54,77.7,7.77,69.93,363
+9806,SuperSave Central,2025-04-20,Frozen Foods,Bread,5,11.94,59.7,0.0,59.7,486
+4578,FamilyFood Express,2025-03-20,Snacks & Candy,Milk,2,12.37,24.74,0.0,24.74,421
+5054,City Fresh Store,2025-01-16,Beverages,Cereal,4,24.98,99.92,14.99,84.93,84
+2341,Corner Grocery,2024-09-18,Bakery,Pasta,1,4.02,4.02,1.96,2.06,185
+8319,SuperSave Central,2024-09-20,Personal Care,Chicken Breast,1,7.14,7.14,1.43,5.71,5
+6927,ValuePlus Market,2023-10-06,Bakery,Milk,2,8.8,17.6,4.95,12.65,500
+2838,City Fresh Store,2023-09-23,Produce,Milk,3,3.69,11.07,1.66,9.41,158
+9972,QuickStop Market,2025-07-08,Snacks & Candy,Carrots,2,10.11,20.22,4.04,16.18,200
+9281,GreenGrocer Plaza,2024-01-11,Canned Goods,Cheese,5,3.92,19.6,3.35,16.25,413
+9792,Corner Grocery,2023-12-01,Beverages,Milk,3,5.67,17.01,4.54,12.47,349
+3695,GreenGrocer Plaza,2024-04-17,Bakery,Yogurt,2,23.29,46.58,4.66,41.92,82
+9525,SuperSave Central,2024-07-15,Canned Goods,Rice,3,19.07,57.21,4.56,52.65,481
+2904,Corner Grocery,2025-01-16,Bakery,Yogurt,5,18.59,92.95,3.51,89.44,490
+4365,City Fresh Store,2025-02-13,Dairy,Bananas,2,23.21,46.42,4.64,41.78,158
+9008,GreenGrocer Plaza,2023-10-16,Beverages,Cereal,2,28.08,56.16,8.42,47.74,82
+9361,MegaMart Westside,2024-07-18,Canned Goods,Bread,1,6.19,6.19,0.93,5.26,395
+1911,City Fresh Store,2024-07-24,Frozen Foods,Salmon,2,28.25,56.5,2.45,54.05,497
+3161,QuickStop Market,2024-09-08,Snacks & Candy,Cheese,5,27.59,137.95,20.69,117.26,66
+7806,ValuePlus Market,2024-07-26,Household Items,Cereal,3,3.41,10.23,1.53,8.7,211
+1945,FreshMart Downtown,2024-10-14,Household Items,Milk,2,21.28,42.56,8.51,34.05,287
+8575,GreenGrocer Plaza,2025-01-10,Frozen Foods,Tomatoes,2,17.52,35.04,7.01,28.03,437
+6049,Corner Grocery,2025-02-18,Beverages,Bread,3,14.5,43.5,1.34,42.16,328
+1356,GreenGrocer Plaza,2024-06-09,Snacks & Candy,Cheese,2,12.63,25.26,3.79,21.47,33
+5169,City Fresh Store,2025-05-02,Bakery,Potatoes,1,9.06,9.06,0.91,8.15,19
+1049,SuperSave Central,2025-03-08,Health & Wellness,Yogurt,3,17.47,52.41,4.75,47.66,307
+4570,MegaMart Westside,2024-10-29,Snacks & Candy,Potatoes,2,2.56,5.12,0.0,5.12,444
+2196,Corner Grocery,2023-09-11,Frozen Foods,Pasta,2,3.41,6.82,0.68,6.14,35
+7941,GreenGrocer Plaza,2024-04-30,Frozen Foods,Salmon,4,16.21,64.84,12.97,51.87,342
+2044,FreshMart Downtown,2024-09-30,Dairy,Cheese,3,28.93,86.79,17.36,69.43,152
+1987,MegaMart Westside,2025-08-01,Snacks & Candy,Potatoes,4,16.52,66.08,0.0,66.08,401
+2130,Corner Grocery,2025-08-01,Canned Goods,Tomatoes,1,17.26,17.26,3.89,13.37,457
+8734,SuperSave Central,2023-08-31,Canned Goods,Cereal,1,5.35,5.35,0.54,4.81,234
+5703,MegaMart Westside,2024-06-19,Dairy,Cheese,3,16.09,48.27,9.65,38.62,1
+3948,City Fresh Store,2025-03-26,Health & Wellness,Chicken Breast,1,7.33,7.33,0.0,7.33,96
+3218,ValuePlus Market,2025-03-23,Meat & Seafood,Tomatoes,2,11.08,22.16,0.0,22.16,487
+7887,,2024-05-23,Canned Goods,Orange Juice,1,9.75,9.75,0.0,9.75,157
+7266,City Fresh Store,2024-07-20,Health & Wellness,Salmon,4,12.89,51.56,4.9,46.66,180
+7184,MegaMart Westside,2024-05-24,Dairy,Apples,4,13.41,53.64,2.74,50.9,90
+2314,QuickStop Market,2025-01-18,Health & Wellness,Cheese,3,21.35,64.05,4.22,59.83,480
+9835,GreenGrocer Plaza,2023-11-18,Dairy,Bananas,5,28.03,140.15,0.0,140.15,53
+6697,ValuePlus Market,2023-11-07,Dairy,Salmon,5,17.85,89.25,8.93,80.32,16
+3924,FamilyFood Express,2024-09-27,Bakery,Salmon,5,12.04,60.2,2.4,57.8,100
+7439,City Fresh Store,2024-09-20,Snacks & Candy,Tomatoes,1,28.24,28.24,2.13,26.11,400
+3086,QuickStop Market,2025-02-22,Frozen Foods,Cheese,2,1.11,2.22,1.06,1.16,465
+4648,SuperSave Central,2025-05-16,Canned Goods,Carrots,5,10.2,51.0,10.2,40.8,87
+1056,ValuePlus Market,2025-03-16,Snacks & Candy,Yogurt,5,19.68,98.4,2.72,95.68,424
+1372,Corner Grocery,2024-03-25,Meat & Seafood,Tomatoes,3,15.99,47.97,3.84,44.13,223
+8585,SuperSave Central,2025-01-11,Personal Care,Chicken Breast,5,23.73,118.65,1.64,117.01,431
+9920,MegaMart Westside,2024-07-01,Bakery,Bread,1,1.73,1.73,3.47,-1.74,5
+9715,ValuePlus Market,2024-05-27,Dairy,Tomatoes,1,22.52,22.52,0.0,22.52,66
+4762,MegaMart Westside,2024-02-15,Meat & Seafood,Ground Beef,2,9.6,19.2,0.0,19.2,274
+8546,Corner Grocery,2024-05-01,Frozen Foods,Milk,3,3.4,10.2,0.0,10.2,73
+3541,GreenGrocer Plaza,2024-03-08,Dairy,Salmon,5,4.55,22.75,3.41,19.34,72
+4088,SuperSave Central,2025-08-04,Dairy,Bread,4,25.48,101.92,10.19,91.73,467
+2848,GreenGrocer Plaza,2023-09-01,Beverages,Bananas,4,3.12,12.48,2.5,9.98,491
+7868,Corner Grocery,2024-11-26,Snacks & Candy,Cereal,4,24.44,97.76,4.61,93.15,92
+1256,FreshMart Downtown,2024-02-09,Dairy,Cereal,3,15.02,45.06,9.01,36.05,314
+4376,,2023-09-28,Frozen Foods,Chicken Breast,2,18.57,37.14,3.05,34.09,274
+2653,SuperSave Central,2024-11-10,Bakery,Orange Juice,1,27.05,27.05,5.41,21.64,15
+1550,FamilyFood Express,2024-07-18,Dairy,Eggs,3,8.93,26.79,4.02,22.77,102
+1797,ValuePlus Market,2024-02-13,Health & Wellness,Rice,4,22.6,90.4,4.79,85.61,253
+1724,FamilyFood Express,2024-06-14,Frozen Foods,Apples,2,20.91,41.82,4.18,37.64,454
+8191,GreenGrocer Plaza,2024-02-05,Household Items,Rice,2,24.02,48.04,4.8,43.24,488
+9843,City Fresh Store,2024-01-22,Snacks & Candy,Pasta,3,19.05,57.15,5.71,51.44,310
+1924,FamilyFood Express,2023-11-23,Household Items,Orange Juice,3,27.03,81.09,8.11,72.98,419
+9255,SuperSave Central,2024-03-18,Produce,Carrots,3,18.01,54.03,5.4,48.63,150
+4836,FreshMart Downtown,2025-05-01,Dairy,Apples,3,13.44,40.32,8.06,32.26,95
+6224,GreenGrocer Plaza,2024-10-28,Bakery,Orange Juice,3,5.2,15.6,2.27,13.33,160
+6253,FreshMart Downtown,2024-02-07,Canned Goods,Yogurt,4,17.45,69.8,1.26,68.54,164
+5944,QuickStop Market,2025-06-17,Household Items,Yogurt,5,7.3,36.5,0.0,36.5,287
+3347,GreenGrocer Plaza,2024-12-31,Household Items,Cheese,4,10.21,40.84,8.17,32.67,163
+9540,FreshMart Downtown,2024-01-25,Beverages,Potatoes,1,29.71,29.71,2.81,26.9,215
+7775,MegaMart Westside,2024-03-27,Household Items,Tomatoes,2,17.71,35.42,0.0,35.42,145
+5508,FreshMart Downtown,2023-09-23,Beverages,Rice,2,25.4,50.8,4.67,46.13,206
+3869,FreshMart Downtown,2024-12-05,Canned Goods,Bananas,1,14.62,14.62,0.0,14.62,424
+7999,QuickStop Market,2024-10-11,Frozen Foods,Cereal,3,12.6,37.8,3.78,34.02,284
+9120,FreshMart Downtown,2023-09-12,Snacks & Candy,Rice,4,15.3,61.2,9.18,52.02,328
+6642,GreenGrocer Plaza,2024-12-18,Produce,Ground Beef,1,24.93,24.93,3.74,21.19,71
+7244,Corner Grocery,2025-04-08,Bakery,Apples,1,6.53,6.53,4.96,1.57,461
+9592,FreshMart Downtown,2024-04-10,Frozen Foods,Milk,1,2.38,2.38,0.36,2.02,155
+7821,MegaMart Westside,2024-06-19,Household Items,Tomatoes,3,21.25,63.75,2.84,60.91,473
+3444,SuperSave Central,2024-03-26,Canned Goods,Eggs,5,26.74,133.7,0.0,133.7,494
+7167,City Fresh Store,2023-12-27,Health & Wellness,Chicken Breast,5,16.29,81.45,0.0,81.45,295
+9813,City Fresh Store,2024-08-08,Frozen Foods,Cereal,4,7.54,30.16,0.0,30.16,135
+4948,GreenGrocer Plaza,2025-05-27,Canned Goods,Onions,2,20.11,40.22,0.0,40.22,376
+4692,GreenGrocer Plaza,2024-03-27,Dairy,Potatoes,1,7.15,7.15,0.72,6.43,343
+3365,Corner Grocery,2025-04-23,Bakery,Potatoes,1,10.86,10.86,1.63,9.23,416
+8586,City Fresh Store,2025-07-17,Health & Wellness,Eggs,5,4.05,20.25,3.04,17.21,66
+1944,Corner Grocery,2024-10-16,Beverages,Carrots,2,23.61,47.22,7.08,40.14,96
+7761,Corner Grocery,2024-06-25,Meat & Seafood,Rice,5,19.79,98.95,3.98,94.97,75
+9683,,2023-11-19,Produce,Salmon,2,8.73,17.46,2.62,14.84,243
+7363,QuickStop Market,2024-02-11,Dairy,Onions,1,11.27,11.27,1.13,10.14,108
+5177,ValuePlus Market,2024-01-11,Snacks & Candy,Carrots,3,2.53,7.59,1.2,6.39,139
+6411,,2024-12-21,Snacks & Candy,Yogurt,3,6.48,19.44,3.43,16.01,90
+2295,ValuePlus Market,2025-07-23,Snacks & Candy,Chicken Breast,1,19.73,19.73,3.95,15.78,490
+8369,,2025-05-25,Produce,Milk,5,8.71,43.55,6.53,37.02,33
+7079,FamilyFood Express,2023-10-17,Household Items,Tomatoes,4,12.38,49.52,4.95,44.57,112
+9775,FamilyFood Express,2025-02-19,Meat & Seafood,Yogurt,3,19.46,58.38,0.0,58.38,361
+4120,FreshMart Downtown,2023-09-16,Dairy,Apples,5,27.32,136.6,0.0,136.6,318
+5398,QuickStop Market,2024-05-25,Bakery,Apples,3,20.75,62.25,9.34,52.91,85
+1647,City Fresh Store,2025-06-15,Meat & Seafood,Bananas,4,13.4,53.6,8.04,45.56,10
+2192,GreenGrocer Plaza,2023-12-31,Meat & Seafood,Bananas,5,11.2,56.0,5.6,50.4,242
+4555,FamilyFood Express,2024-08-13,Beverages,Chicken Breast,1,24.74,24.74,4.95,19.79,290
+4422,ValuePlus Market,2025-06-12,Personal Care,Apples,2,23.47,46.94,0.0,46.94,51
+6455,MegaMart Westside,2024-03-29,Beverages,Potatoes,3,29.69,89.07,13.36,75.71,131
+1251,MegaMart Westside,2024-01-18,Beverages,Bananas,3,9.72,29.16,2.08,27.08,170
+4113,ValuePlus Market,2025-03-04,Health & Wellness,Bananas,2,29.37,58.74,0.0,58.74,438
+2922,SuperSave Central,2025-03-09,Canned Goods,Potatoes,1,8.08,8.08,1.21,6.87,379
+8846,FamilyFood Express,2025-07-17,Dairy,Yogurt,4,19.51,78.04,0.0,78.04,494
+4974,ValuePlus Market,2025-01-28,Beverages,Carrots,2,8.68,17.36,2.6,14.76,347
+4350,Corner Grocery,2024-06-10,Household Items,Cheese,3,9.96,29.88,1.49,28.39,21
+4921,City Fresh Store,2024-10-08,Household Items,Orange Juice,3,4.19,12.57,0.0,12.57,4
+6269,SuperSave Central,2025-03-31,Beverages,Eggs,5,29.02,145.1,21.76,123.34,319
+5637,City Fresh Store,2024-05-28,Frozen Foods,Bread,3,1.44,4.32,0.65,3.67,20
+8639,GreenGrocer Plaza,2024-09-24,Produce,Potatoes,3,1.14,3.42,2.01,1.41,180
+6886,MegaMart Westside,2024-04-02,Frozen Foods,Carrots,5,5.49,27.45,5.49,21.96,44
+5285,FamilyFood Express,2024-05-12,Snacks & Candy,Bread,3,7.34,22.02,4.4,17.62,242
+9401,Corner Grocery,2025-06-22,Snacks & Candy,Tomatoes,1,26.89,26.89,2.24,24.65,471
+9147,Corner Grocery,2024-08-02,Health & Wellness,Cereal,5,5.03,25.15,3.77,21.38,393
+2615,SuperSave Central,2025-04-21,Snacks & Candy,Onions,2,9.72,19.44,4.71,14.73,43
+8692,City Fresh Store,2025-03-20,Personal Care,Apples,4,23.68,94.72,1.55,93.17,426
+6246,City Fresh Store,2025-07-17,Canned Goods,Carrots,3,14.57,43.71,4.37,39.34,218
+4328,Corner Grocery,2024-05-20,Beverages,Bananas,5,1.76,8.8,4.02,4.78,392
+6126,QuickStop Market,2024-06-23,Bakery,Carrots,3,4.68,14.04,4.02,10.02,278
+1749,Corner Grocery,2024-10-16,Meat & Seafood,Tomatoes,1,14.41,14.41,1.34,13.07,390
+4625,QuickStop Market,2025-03-04,Health & Wellness,Chicken Breast,3,18.23,54.69,2.93,51.76,420
+3390,MegaMart Westside,2023-08-19,Produce,Chicken Breast,5,20.55,102.75,0.0,102.75,378
+5272,FamilyFood Express,2024-10-09,Personal Care,Eggs,5,22.46,112.3,22.46,89.84,253
+7841,SuperSave Central,2024-03-23,Frozen Foods,Rice,1,24.35,24.35,1.27,23.08,319
+3497,SuperSave Central,2024-01-06,Household Items,Chicken Breast,5,3.8,19.0,1.9,17.1,104
+6404,FreshMart Downtown,2024-02-01,Personal Care,Salmon,4,2.6,10.4,1.04,9.36,62
+7223,City Fresh Store,2024-10-22,Meat & Seafood,Ground Beef,5,8.54,42.7,0.0,42.7,313
+5026,GreenGrocer Plaza,2024-08-28,Snacks & Candy,Eggs,1,6.35,6.35,1.27,5.08,419
+6530,ValuePlus Market,2024-02-22,Personal Care,Yogurt,4,14.92,59.68,2.97,56.71,148
+9005,QuickStop Market,2025-02-19,Snacks & Candy,Tomatoes,1,14.44,14.44,2.89,11.55,416
+9037,FreshMart Downtown,2024-07-29,Frozen Foods,Salmon,1,17.35,17.35,3.58,13.77,5
+3756,City Fresh Store,2025-02-26,Produce,Orange Juice,2,14.56,29.12,4.37,24.75,370
+6770,FreshMart Downtown,2023-12-16,Meat & Seafood,Orange Juice,5,25.81,129.05,19.36,109.69,257
+3293,ValuePlus Market,2025-02-16,Snacks & Candy,Carrots,1,6.05,6.05,0.0,6.05,77
+9954,MegaMart Westside,2024-08-20,Beverages,Eggs,3,23.75,71.25,7.12,64.13,337
+4015,GreenGrocer Plaza,2025-07-19,Health & Wellness,Potatoes,4,28.9,115.6,3.83,111.77,310
+9882,ValuePlus Market,2024-12-17,Health & Wellness,Carrots,3,4.74,14.22,3.47,10.75,165
+1962,Corner Grocery,2024-09-16,Dairy,Milk,1,25.7,25.7,3.66,22.04,81
+1554,City Fresh Store,2025-05-19,Health & Wellness,Potatoes,3,23.03,69.09,4.6,64.49,395
+2217,SuperSave Central,2025-05-03,Snacks & Candy,Cheese,1,2.79,2.79,4.39,-1.6,128
+1794,,2025-03-22,Beverages,Orange Juice,5,19.3,96.5,14.47,82.03,15
+1104,GreenGrocer Plaza,2024-06-22,Beverages,Tomatoes,2,29.67,59.34,11.87,47.47,293
+3252,QuickStop Market,2025-05-22,Beverages,Salmon,3,7.53,22.59,2.26,20.33,379
+4791,ValuePlus Market,2023-09-28,Bakery,Bread,5,1.69,8.45,1.69,6.76,491
+3474,FreshMart Downtown,2023-08-14,Meat & Seafood,Bananas,3,23.45,70.35,10.55,59.8,290
+4583,SuperSave Central,2024-09-02,Health & Wellness,Carrots,4,6.5,26.0,2.41,23.59,106
+8471,ValuePlus Market,2024-05-22,Meat & Seafood,Bread,4,13.39,53.56,1.31,52.25,192
+1990,ValuePlus Market,2024-11-28,Frozen Foods,Chicken Breast,1,15.45,15.45,1.9,13.55,26
+8916,QuickStop Market,2024-12-31,Frozen Foods,Tomatoes,3,2.96,8.88,1.33,7.55,446
+8993,GreenGrocer Plaza,2023-08-19,Personal Care,Ground Beef,5,28.01,140.05,14.01,126.04,256
+1108,FreshMart Downtown,2024-09-23,Personal Care,Chicken Breast,5,14.65,73.25,0.0,73.25,469
+7739,FreshMart Downtown,2023-08-16,Produce,Cereal,4,8.56,34.24,6.85,27.39,171
+1274,FamilyFood Express,2024-09-21,Personal Care,Cereal,1,7.82,7.82,1.17,6.65,37
+5501,GreenGrocer Plaza,2024-09-26,Snacks & Candy,Bread,5,14.87,74.35,0.0,74.35,66
+5697,FreshMart Downtown,2023-08-20,Dairy,Milk,4,15.71,62.84,6.28,56.56,332
+9228,City Fresh Store,2025-04-29,Frozen Foods,Ground Beef,1,28.0,28.0,3.43,24.57,13
+8054,Corner Grocery,2025-04-24,Health & Wellness,Bananas,5,14.97,74.85,0.0,74.85,198
+3937,SuperSave Central,2023-10-29,Snacks & Candy,Cheese,5,4.99,24.95,4.93,20.02,224
+2578,MegaMart Westside,2024-09-17,Canned Goods,Yogurt,3,13.65,40.95,8.19,32.76,29
+3439,GreenGrocer Plaza,2024-02-10,Household Items,Bananas,2,12.97,25.94,4.49,21.45,385
+4144,FamilyFood Express,2024-11-30,Produce,Bread,1,4.66,4.66,2.26,2.4,92
+9625,FamilyFood Express,2024-02-19,Frozen Foods,Eggs,5,12.53,62.65,0.0,62.65,336
+6807,GreenGrocer Plaza,2024-03-01,Dairy,Pasta,5,6.96,34.8,6.96,27.84,361
+7502,City Fresh Store,2023-10-07,Frozen Foods,Orange Juice,5,9.48,47.4,4.57,42.83,334
+7112,MegaMart Westside,2024-06-17,Personal Care,Carrots,1,2.56,2.56,0.0,2.56,461
+8520,City Fresh Store,2024-10-18,Frozen Foods,Bread,2,27.44,54.88,8.23,46.65,430
+4984,ValuePlus Market,2025-01-29,Bakery,Chicken Breast,3,22.01,66.03,4.91,61.12,403
+4700,City Fresh Store,2024-03-26,Health & Wellness,Salmon,1,1.61,1.61,0.24,1.37,428
+2320,QuickStop Market,2024-12-26,Household Items,Tomatoes,3,24.98,74.94,11.24,63.7,43
+1519,Corner Grocery,2023-10-18,Beverages,Bananas,4,12.15,48.6,9.72,38.88,22
+7640,Corner Grocery,2024-05-27,Meat & Seafood,Cheese,5,2.51,12.55,4.05,8.5,156
+7179,FreshMart Downtown,2024-10-09,Household Items,Cereal,3,24.49,73.47,2.36,71.11,302
+8798,Corner Grocery,2023-09-19,Snacks & Candy,Milk,1,17.04,17.04,2.85,14.19,487
+1154,ValuePlus Market,2025-02-02,Frozen Foods,Apples,4,14.54,58.16,11.63,46.53,473
+3807,FreshMart Downtown,2023-10-10,Frozen Foods,Pasta,1,29.96,29.96,4.49,25.47,394
+9189,Corner Grocery,2025-05-24,Produce,Pasta,3,8.78,26.34,2.23,24.11,128
+8109,MegaMart Westside,2024-12-19,Frozen Foods,Apples,4,14.41,57.64,5.76,51.88,225
+6427,FreshMart Downtown,2024-10-19,Canned Goods,Potatoes,5,7.31,36.55,5.48,31.07,29
+2562,ValuePlus Market,2025-07-02,Canned Goods,Bread,4,6.2,24.8,3.72,21.08,392
+9653,City Fresh Store,2025-07-20,Meat & Seafood,Ground Beef,2,5.25,10.5,2.1,8.4,316
+1697,GreenGrocer Plaza,2024-02-01,Health & Wellness,Milk,2,20.84,41.68,2.27,39.41,440
+4463,ValuePlus Market,2025-07-07,Bakery,Milk,3,29.27,87.81,3.87,83.94,8
+8790,FamilyFood Express,2024-03-04,Canned Goods,Chicken Breast,1,15.69,15.69,3.14,12.55,57
+1762,FamilyFood Express,2025-07-24,Canned Goods,Orange Juice,4,3.06,12.24,2.45,9.79,218
+2218,FreshMart Downtown,2025-01-19,Canned Goods,Orange Juice,3,29.27,87.81,8.78,79.03,459
+5593,QuickStop Market,2025-07-05,Household Items,Bananas,2,11.67,23.34,1.1,22.24,148
+9897,FamilyFood Express,2024-10-17,Canned Goods,Carrots,5,23.71,118.55,23.71,94.84,364
+1539,Corner Grocery,2023-12-24,Household Items,Milk,2,12.04,24.08,4.83,19.25,332
+6152,FamilyFood Express,2023-08-19,Household Items,Carrots,5,19.27,96.35,3.93,92.42,375
+4394,ValuePlus Market,2024-11-04,Produce,Potatoes,5,16.08,80.4,16.08,64.32,162
+3362,QuickStop Market,2025-03-13,Bakery,Cereal,2,24.16,48.32,9.66,38.66,500
+7525,City Fresh Store,2025-07-28,Canned Goods,Chicken Breast,2,13.9,27.8,4.17,23.63,490
+2260,GreenGrocer Plaza,2024-03-26,Canned Goods,Onions,5,3.21,16.05,1.92,14.13,185
+3661,Corner Grocery,2024-10-18,Bakery,Eggs,5,8.09,40.45,0.0,40.45,465
+4939,SuperSave Central,2024-10-20,Household Items,Pasta,3,10.9,32.7,3.27,29.43,60
+7375,Corner Grocery,2025-01-13,Personal Care,Eggs,5,15.32,76.6,15.32,61.28,451
+9856,City Fresh Store,2024-04-20,Produce,Apples,1,13.13,13.13,0.0,13.13,391
+7288,GreenGrocer Plaza,2025-03-15,Meat & Seafood,Milk,4,1.68,6.72,1.34,5.38,85
+3292,ValuePlus Market,2025-04-11,Personal Care,Tomatoes,4,11.27,45.08,0.0,45.08,205
+2284,QuickStop Market,2024-08-29,Dairy,Cereal,3,18.14,54.42,0.0,54.42,315
+6666,FreshMart Downtown,2023-09-17,Dairy,Orange Juice,4,27.4,109.6,0.0,109.6,322
+2600,Corner Grocery,2024-07-11,Frozen Foods,Potatoes,2,22.26,44.52,8.9,35.62,370
+4803,FreshMart Downtown,2025-05-19,Household Items,Orange Juice,4,11.99,47.96,3.89,44.07,224
+2245,QuickStop Market,2024-04-27,Dairy,Ground Beef,3,15.3,45.9,6.88,39.02,24
+7499,MegaMart Westside,2025-03-29,Snacks & Candy,Cereal,2,28.64,57.28,5.73,51.55,21
+6347,ValuePlus Market,2023-08-30,Frozen Foods,Cereal,1,11.06,11.06,1.66,9.4,84
+5478,QuickStop Market,2025-04-06,Beverages,Salmon,2,26.67,53.34,4.01,49.33,147
+8381,FamilyFood Express,2024-08-22,Health & Wellness,Pasta,2,3.77,7.54,3.39,4.15,282
+4737,FreshMart Downtown,2024-05-09,Personal Care,Onions,2,1.18,2.36,0.35,2.01,426
+7150,FamilyFood Express,2024-07-07,Frozen Foods,Cheese,4,16.1,64.4,9.66,54.74,425
+4043,GreenGrocer Plaza,2025-01-15,Dairy,Salmon,4,15.29,61.16,9.17,51.99,44
+7227,GreenGrocer Plaza,2023-10-12,Canned Goods,Bread,2,22.08,44.16,2.34,41.82,167
+5839,City Fresh Store,2025-04-17,Health & Wellness,Carrots,1,21.49,21.49,2.15,19.34,161
+5037,GreenGrocer Plaza,2025-02-10,Personal Care,Cereal,2,25.39,50.78,0.0,50.78,338
+2204,FreshMart Downtown,2023-10-09,Bakery,Eggs,5,11.9,59.5,0.0,59.5,482
+5390,FamilyFood Express,2023-12-04,Frozen Foods,Potatoes,2,15.04,30.08,4.51,25.57,95
+7225,SuperSave Central,2025-02-09,Bakery,Bread,5,25.85,129.25,2.74,126.51,383
+3527,City Fresh Store,2025-03-03,Personal Care,Yogurt,2,2.12,4.24,2.52,1.72,352
+7383,FamilyFood Express,2024-04-08,Health & Wellness,Orange Juice,4,16.37,65.48,9.82,55.66,488
+6909,FamilyFood Express,2023-10-28,Frozen Foods,Potatoes,4,24.1,96.4,2.92,93.48,200
+2499,GreenGrocer Plaza,2023-08-11,Bakery,Chicken Breast,3,13.16,39.48,7.9,31.58,228
+6050,Corner Grocery,2024-07-17,Dairy,Apples,4,28.72,114.88,17.23,97.65,338
+6896,Corner Grocery,2025-03-20,Meat & Seafood,Potatoes,4,18.42,73.68,2.16,71.52,351
+5419,ValuePlus Market,2023-10-25,Bakery,Cheese,1,17.3,17.3,0.0,17.3,165
+3170,MegaMart Westside,2023-10-13,Snacks & Candy,Tomatoes,4,13.32,53.28,7.99,45.29,133
+4070,City Fresh Store,2024-07-06,Bakery,Cereal,1,9.94,9.94,4.5,5.44,209
+8353,ValuePlus Market,2024-10-12,Bakery,Chicken Breast,5,18.7,93.5,0.0,93.5,66
+9395,FreshMart Downtown,2024-06-18,Snacks & Candy,Bread,3,27.44,82.32,0.0,82.32,392
+2692,FreshMart Downtown,2023-08-27,Personal Care,Yogurt,3,16.52,49.56,0.0,49.56,80
+2468,FamilyFood Express,2024-05-07,Frozen Foods,Apples,3,10.6,31.8,1.14,30.66,110
+2524,FreshMart Downtown,2024-11-12,Personal Care,Chicken Breast,5,12.53,62.65,12.53,50.12,248
+6315,QuickStop Market,2025-06-07,Frozen Foods,Bananas,2,19.31,38.62,2.09,36.53,352
+7311,GreenGrocer Plaza,2023-08-16,Snacks & Candy,Tomatoes,2,24.72,49.44,1.31,48.13,448
+5781,ValuePlus Market,2024-06-23,Snacks & Candy,Bananas,1,22.53,22.53,3.94,18.59,277
+7353,Corner Grocery,2025-04-03,Bakery,Rice,3,13.32,39.96,5.99,33.97,380
+2387,QuickStop Market,2025-02-20,Beverages,Yogurt,1,8.65,8.65,0.87,7.78,335
+4977,QuickStop Market,2024-10-24,Snacks & Candy,Bread,2,29.03,58.06,5.81,52.25,287
+9537,QuickStop Market,2023-12-16,Personal Care,Carrots,2,12.08,24.16,3.62,20.54,254
+7237,ValuePlus Market,2023-12-16,Dairy,Salmon,2,17.75,35.5,7.1,28.4,12
+3274,City Fresh Store,2024-03-02,Canned Goods,Potatoes,5,4.15,20.75,4.15,16.6,159
+5933,GreenGrocer Plaza,2024-03-02,Dairy,Onions,2,7.01,14.02,2.0,12.02,482
+9079,SuperSave Central,2023-11-28,Snacks & Candy,Potatoes,5,21.96,109.8,4.07,105.73,290
+2036,QuickStop Market,2023-12-14,Snacks & Candy,Rice,3,25.19,75.57,0.0,75.57,18
+8121,Corner Grocery,2024-03-08,Produce,Pasta,2,22.89,45.78,3.0,42.78,406
+7899,FamilyFood Express,2024-03-26,Canned Goods,Salmon,4,15.91,63.64,2.7,60.94,439
+8933,GreenGrocer Plaza,2025-04-05,Snacks & Candy,Eggs,1,5.69,5.69,1.14,4.55,383
+2260,FamilyFood Express,2024-05-13,Beverages,Chicken Breast,1,26.67,26.67,0.0,26.67,253
+5123,ValuePlus Market,2024-02-14,Beverages,Eggs,5,13.12,65.6,2.74,62.86,4
+9123,QuickStop Market,2024-11-10,Health & Wellness,Pasta,5,10.34,51.7,3.6,48.1,455
+4203,SuperSave Central,2024-07-27,Frozen Foods,Carrots,2,24.27,48.54,3.42,45.12,487
+2752,City Fresh Store,2023-11-20,Beverages,Yogurt,3,27.88,83.64,16.73,66.91,368
+5991,ValuePlus Market,2023-08-12,Beverages,Bananas,3,13.06,39.18,4.97,34.21,76
+7483,FreshMart Downtown,2024-04-21,Frozen Foods,Yogurt,2,21.12,42.24,6.34,35.9,275
+7224,GreenGrocer Plaza,2025-04-22,Produce,Salmon,5,5.53,27.65,4.15,23.5,179
+6399,,2024-07-13,Bakery,Pasta,3,24.79,74.37,3.92,70.45,444
+6484,MegaMart Westside,2024-07-06,Household Items,Tomatoes,3,17.26,51.78,3.37,48.41,328
+3230,GreenGrocer Plaza,2024-03-27,Bakery,Pasta,2,8.62,17.24,3.35,13.89,52
+6253,,2024-11-17,Canned Goods,Pasta,5,20.38,101.9,20.38,81.52,242
+4290,FreshMart Downtown,2024-08-13,Bakery,Yogurt,1,27.95,27.95,5.59,22.36,314
+6147,SuperSave Central,2023-12-22,Beverages,Bananas,3,3.25,9.75,1.95,7.8,496
+7524,ValuePlus Market,2024-04-10,Beverages,Cheese,4,10.48,41.92,8.38,33.54,256
+5775,ValuePlus Market,2025-02-27,Snacks & Candy,Tomatoes,4,21.47,85.88,2.27,83.61,181
+9044,GreenGrocer Plaza,2024-10-27,Household Items,Yogurt,2,28.41,56.82,0.0,56.82,426
+4971,SuperSave Central,2024-04-16,Snacks & Candy,Onions,4,15.2,60.8,0.0,60.8,403
+7161,GreenGrocer Plaza,2024-03-11,Personal Care,Cheese,3,6.15,18.45,1.84,16.61,443
+7437,MegaMart Westside,2024-05-16,Snacks & Candy,Yogurt,5,17.22,86.1,8.61,77.49,471
+2865,MegaMart Westside,2025-07-30,Meat & Seafood,Bananas,2,13.81,27.62,3.34,24.28,269
+4273,MegaMart Westside,2024-11-08,Dairy,Orange Juice,3,15.57,46.71,3.59,43.12,6
+9939,City Fresh Store,2023-12-24,Snacks & Candy,Milk,3,8.94,26.82,0.0,26.82,29
+1440,City Fresh Store,2025-02-21,Household Items,Salmon,4,6.03,24.12,2.48,21.64,383
+8563,SuperSave Central,2025-02-07,Meat & Seafood,Eggs,1,13.16,13.16,2.77,10.39,433
+4434,FreshMart Downtown,2024-07-12,Canned Goods,Chicken Breast,5,9.04,45.2,0.0,45.2,436
+5773,FreshMart Downtown,2025-05-13,Canned Goods,Cereal,2,27.26,54.52,1.06,53.46,300
+2133,Corner Grocery,2025-05-04,Snacks & Candy,Milk,1,6.59,6.59,0.0,6.59,389
+7703,QuickStop Market,2025-01-10,Dairy,Apples,4,2.28,9.12,0.0,9.12,311
+9180,ValuePlus Market,2023-11-23,Snacks & Candy,Apples,1,10.01,10.01,2.37,7.64,287
+5961,GreenGrocer Plaza,2024-02-10,Household Items,Salmon,1,4.36,4.36,0.0,4.36,46
+5139,GreenGrocer Plaza,2024-12-30,Meat & Seafood,Cereal,5,19.16,95.8,1.87,93.93,10
+3525,MegaMart Westside,2025-02-12,Beverages,Bread,2,9.92,19.84,0.0,19.84,348
+7932,SuperSave Central,2025-04-10,Frozen Foods,Milk,4,21.46,85.84,17.17,68.67,91
+7176,MegaMart Westside,2023-10-03,Snacks & Candy,Ground Beef,2,8.9,17.8,2.67,15.13,102
+8357,QuickStop Market,2024-11-13,Beverages,Pasta,1,15.2,15.2,2.28,12.92,296
+8851,ValuePlus Market,2024-11-01,Beverages,Apples,1,28.53,28.53,5.71,22.82,299
+7566,ValuePlus Market,2024-09-25,Household Items,Yogurt,4,11.05,44.2,8.84,35.36,415
+9300,MegaMart Westside,2025-07-24,Personal Care,Onions,3,3.62,10.86,1.63,9.23,395
+7853,FamilyFood Express,2024-10-02,Beverages,Pasta,1,27.73,27.73,2.77,24.96,264
+1602,SuperSave Central,2025-04-12,Beverages,Cereal,3,17.34,52.02,7.8,44.22,337
+6890,GreenGrocer Plaza,2025-02-01,Health & Wellness,Orange Juice,1,5.59,5.59,0.84,4.75,243
+9796,GreenGrocer Plaza,2024-11-10,Meat & Seafood,Orange Juice,3,5.71,17.13,2.76,14.37,279
+2392,City Fresh Store,2023-10-30,Household Items,Cheese,4,14.72,58.88,0.0,58.88,124
+5067,MegaMart Westside,2024-12-29,Household Items,Cereal,4,20.67,82.68,16.54,66.14,153
+6816,ValuePlus Market,2023-12-14,Dairy,Cheese,4,23.44,93.76,1.11,92.65,488
+1725,,2024-10-17,Meat & Seafood,Rice,5,28.98,144.9,4.01,140.89,482
+7547,SuperSave Central,2025-03-13,Health & Wellness,Cereal,1,29.13,29.13,4.37,24.76,158
+6432,City Fresh Store,2025-04-16,Snacks & Candy,Apples,4,1.01,4.04,0.81,3.23,75
+8052,QuickStop Market,2023-10-28,Frozen Foods,Bread,2,7.84,15.68,3.9,11.78,104
+1172,SuperSave Central,2023-10-22,Health & Wellness,Onions,3,1.13,3.39,2.88,0.51,81
+5239,Corner Grocery,2024-01-26,Bakery,Potatoes,4,25.1,100.4,2.55,97.85,361
+9366,MegaMart Westside,2025-03-09,Meat & Seafood,Tomatoes,3,27.03,81.09,2.58,78.51,419
+9499,GreenGrocer Plaza,2024-10-13,Canned Goods,Potatoes,5,1.77,8.85,1.77,7.08,453
+4621,MegaMart Westside,2024-07-18,Canned Goods,Cereal,5,24.86,124.3,3.58,120.72,312
+7129,SuperSave Central,2024-06-05,Beverages,Yogurt,1,7.12,7.12,1.07,6.05,222
+8586,Corner Grocery,2025-03-28,Health & Wellness,Apples,4,5.36,21.44,0.0,21.44,159
+9199,City Fresh Store,2023-12-02,Produce,Pasta,4,6.2,24.8,2.48,22.32,203
+6651,GreenGrocer Plaza,2023-08-26,Canned Goods,Chicken Breast,4,24.29,97.16,14.57,82.59,6
+8909,SuperSave Central,2023-10-27,Household Items,Carrots,4,20.89,83.56,0.0,83.56,5
+5840,Corner Grocery,2024-06-25,Snacks & Candy,Milk,3,13.31,39.93,4.23,35.7,379
+2406,City Fresh Store,2023-11-05,Personal Care,Orange Juice,4,21.64,86.56,4.14,82.42,432
+3321,Corner Grocery,2024-05-03,Personal Care,Tomatoes,1,5.35,5.35,1.07,4.28,172
+6110,ValuePlus Market,2024-04-29,Household Items,Salmon,4,2.4,9.6,4.47,5.13,144
+8460,City Fresh Store,2025-04-07,Canned Goods,Milk,5,20.9,104.5,15.67,88.83,129
+4389,QuickStop Market,2024-09-14,Produce,Onions,3,6.17,18.51,2.79,15.72,182
+8912,QuickStop Market,2024-05-03,Health & Wellness,Milk,5,4.23,21.15,3.95,17.2,374
+8801,FamilyFood Express,2023-10-21,Meat & Seafood,Bread,5,3.73,18.65,0.0,18.65,372
+8178,City Fresh Store,2025-02-17,Snacks & Candy,Pasta,3,29.17,87.51,0.0,87.51,352
+8412,,2024-04-10,Household Items,Salmon,1,3.21,3.21,0.64,2.57,190
+2100,GreenGrocer Plaza,2024-03-27,Snacks & Candy,Carrots,1,10.79,10.79,1.08,9.71,326
+1732,Corner Grocery,2025-04-27,Produce,Apples,3,21.92,65.76,6.58,59.18,380
+2885,GreenGrocer Plaza,2023-08-24,Bakery,Pasta,3,18.84,56.52,0.0,56.52,276
+6620,FreshMart Downtown,2024-12-22,Canned Goods,Potatoes,2,23.05,46.1,0.0,46.1,223
+2791,SuperSave Central,2025-01-13,Frozen Foods,Carrots,1,18.52,18.52,0.0,18.52,465
+3692,QuickStop Market,2025-07-29,Frozen Foods,Bananas,4,7.0,28.0,0.0,28.0,400
+4996,SuperSave Central,2024-09-10,Frozen Foods,Pasta,4,18.36,73.44,1.89,71.55,499
+3858,,2024-10-08,Canned Goods,Ground Beef,1,18.72,18.72,2.68,16.04,372
+3623,MegaMart Westside,2024-04-20,Personal Care,Tomatoes,4,27.96,111.84,16.78,95.06,6
+7985,MegaMart Westside,2024-07-30,Canned Goods,Salmon,2,14.39,28.78,5.76,23.02,380
+4798,ValuePlus Market,2025-04-17,Meat & Seafood,Tomatoes,3,12.68,38.04,0.0,38.04,338
+7636,City Fresh Store,2024-12-08,Personal Care,Orange Juice,1,7.01,7.01,1.05,5.96,271
+4022,QuickStop Market,2023-12-29,Canned Goods,Salmon,4,1.85,7.4,2.41,4.99,319
+8080,Corner Grocery,2024-06-09,Snacks & Candy,Bananas,3,17.13,51.39,5.14,46.25,251
+1478,ValuePlus Market,2025-03-01,Meat & Seafood,Tomatoes,5,28.51,142.55,14.26,128.29,63
+4232,FamilyFood Express,2024-07-21,Bakery,Chicken Breast,5,9.38,46.9,0.0,46.9,442
+8037,Corner Grocery,2024-06-04,Personal Care,Cheese,3,22.78,68.34,10.25,58.09,214
+1072,MegaMart Westside,2025-02-04,Health & Wellness,Chicken Breast,3,15.56,46.68,9.34,37.34,272
+4519,Corner Grocery,2024-01-13,Beverages,Salmon,3,24.95,74.85,14.97,59.88,230
+5560,Corner Grocery,2025-03-13,Frozen Foods,Bananas,5,25.06,125.3,0.0,125.3,390
+2025,SuperSave Central,2024-10-28,Health & Wellness,Chicken Breast,4,17.81,71.24,7.12,64.12,214
+2667,FamilyFood Express,2025-04-18,Health & Wellness,Bananas,5,7.49,37.45,3.28,34.17,312
+9796,Corner Grocery,2023-12-30,Produce,Cereal,5,8.24,41.2,0.0,41.2,291
+6993,GreenGrocer Plaza,2024-04-16,Canned Goods,Bananas,5,26.61,133.05,3.05,130.0,334
+4228,FamilyFood Express,2024-07-27,Meat & Seafood,Salmon,3,21.96,65.88,6.59,59.29,122
+2867,FamilyFood Express,2024-02-26,Canned Goods,Eggs,3,2.87,8.61,2.84,5.77,15
+9019,FamilyFood Express,2024-09-19,Health & Wellness,Salmon,2,24.1,48.2,3.57,44.63,498
+6134,MegaMart Westside,2024-11-12,Meat & Seafood,Ground Beef,4,21.93,87.72,0.0,87.72,35
+7367,FreshMart Downtown,2024-11-23,Health & Wellness,Cheese,5,29.86,149.3,4.13,145.17,441
+7431,QuickStop Market,2024-11-04,Personal Care,Chicken Breast,5,19.76,98.8,9.88,88.92,273
+2871,City Fresh Store,2024-05-03,Produce,Rice,4,25.01,100.04,15.01,85.03,371
+6766,Corner Grocery,2025-05-24,Personal Care,Salmon,4,23.83,95.32,14.3,81.02,53
+8501,GreenGrocer Plaza,2024-11-28,Meat & Seafood,Orange Juice,4,20.03,80.12,8.01,72.11,72
+3826,FamilyFood Express,2025-04-30,Frozen Foods,Chicken Breast,3,19.61,58.83,0.0,58.83,37
+5873,City Fresh Store,2025-07-20,Bakery,Pasta,3,9.55,28.65,2.87,25.78,227
+2388,QuickStop Market,2025-01-10,Household Items,Pasta,5,2.03,10.15,2.15,8.0,71
+3194,FamilyFood Express,2024-04-06,Canned Goods,Orange Juice,3,9.88,29.64,3.54,26.1,366
+2931,City Fresh Store,2024-02-08,Beverages,Rice,2,22.56,45.12,9.02,36.1,355
+6003,QuickStop Market,2023-11-05,Snacks & Candy,Pasta,2,1.8,3.6,0.72,2.88,108
+3999,FreshMart Downtown,2024-05-22,Frozen Foods,Orange Juice,5,22.61,113.05,11.3,101.75,264
+3316,SuperSave Central,2024-09-06,Canned Goods,Eggs,5,25.72,128.6,12.86,115.74,160
+7364,City Fresh Store,2024-06-26,Health & Wellness,Apples,5,14.97,74.85,3.67,71.18,247
+3258,GreenGrocer Plaza,2024-10-26,Canned Goods,Ground Beef,3,6.98,20.94,4.11,16.83,76
+7286,GreenGrocer Plaza,2024-06-30,Health & Wellness,Yogurt,3,15.45,46.35,0.0,46.35,291
+4043,ValuePlus Market,2024-08-19,Bakery,Yogurt,3,20.25,60.75,9.11,51.64,204
+9804,ValuePlus Market,2025-01-26,Dairy,Pasta,5,28.88,144.4,2.79,141.61,433
+3838,ValuePlus Market,2024-10-11,Bakery,Ground Beef,3.0,24.11,72.33,14.47,57.86,93
+3733,City Fresh Store,2024-08-21,Meat & Seafood,Milk,5,8.7,43.5,0.0,43.5,142
+5732,FamilyFood Express,2023-11-23,Dairy,Eggs,5,9.77,48.85,9.77,39.08,106
+4065,City Fresh Store,2024-04-07,Beverages,Chicken Breast,5,26.56,132.8,0.0,132.8,26
+8389,GreenGrocer Plaza,2024-11-30,Bakery,Potatoes,1,13.81,13.81,3.17,10.64,243
+1878,FamilyFood Express,2025-06-09,Household Items,Potatoes,3,17.5,52.5,3.88,48.62,297
+6882,City Fresh Store,2023-08-14,Health & Wellness,Yogurt,5,24.36,121.8,2.01,119.79,314
+8939,Corner Grocery,2023-11-21,Household Items,Pasta,4,19.29,77.16,2.14,75.02,168
+4196,QuickStop Market,2025-05-01,Frozen Foods,Onions,2,10.88,21.76,0.0,21.76,347
+7290,City Fresh Store,2024-10-16,Dairy,Apples,4,1.18,4.72,0.47,4.25,457
+9281,SuperSave Central,2024-12-26,Meat & Seafood,Bread,4,20.51,82.04,12.31,69.73,48
+9109,ValuePlus Market,2024-06-19,Meat & Seafood,Yogurt,1,23.11,23.11,2.22,20.89,109
+9056,ValuePlus Market,2024-06-24,Beverages,Chicken Breast,3,27.89,83.67,12.55,71.12,107
+8272,SuperSave Central,2024-08-20,Bakery,Tomatoes,2,25.71,51.42,7.71,43.71,312
+3740,ValuePlus Market,2023-10-10,Beverages,Cheese,3,7.62,22.86,3.43,19.43,134
+1505,MegaMart Westside,2025-04-16,Meat & Seafood,Rice,3,22.06,66.18,6.62,59.56,424
+4613,QuickStop Market,2024-03-20,Snacks & Candy,Tomatoes,4,1.15,4.6,4.87,-0.27,481
+1535,MegaMart Westside,2024-03-07,Health & Wellness,Eggs,4,23.23,92.92,18.58,74.34,9
+4683,QuickStop Market,2024-09-27,Frozen Foods,Orange Juice,1,10.32,10.32,1.55,8.77,404
+5729,ValuePlus Market,2023-12-15,Personal Care,Yogurt,2,18.9,37.8,1.3,36.5,225
+8492,SuperSave Central,2024-10-19,Canned Goods,Potatoes,5,14.62,73.1,0.0,73.1,497
+9115,Corner Grocery,2024-10-06,Beverages,Ground Beef,3,29.61,88.83,1.41,87.42,300
+9369,MegaMart Westside,2023-11-02,Frozen Foods,Onions,3,13.7,41.1,4.11,36.99,145
+2871,SuperSave Central,2024-03-02,Dairy,Cereal,4,24.9,99.6,2.2,97.4,447
+9898,FamilyFood Express,2025-05-07,Personal Care,Bread,4,8.1,32.4,3.12,29.28,293
+7010,QuickStop Market,2024-10-01,Produce,Eggs,1,26.24,26.24,3.94,22.3,358
+1681,City Fresh Store,2025-03-19,Bakery,Apples,3,14.57,43.71,6.56,37.15,235
+8231,FamilyFood Express,2024-10-04,Health & Wellness,Pasta,3,18.49,55.47,11.09,44.38,477
+4580,GreenGrocer Plaza,2024-07-02,Health & Wellness,Cheese,4,12.48,49.92,1.24,48.68,249
+2677,ValuePlus Market,2025-02-28,Canned Goods,Bananas,5,13.67,68.35,2.97,65.38,16
+5055,MegaMart Westside,2024-03-25,Health & Wellness,Bread,1,17.38,17.38,1.63,15.75,498
+1528,ValuePlus Market,2024-07-21,Dairy,Salmon,5,19.85,99.25,0.0,99.25,97
+5305,Corner Grocery,2024-05-03,Frozen Foods,Salmon,4,26.78,107.12,0.0,107.12,378
+2425,MegaMart Westside,2024-07-13,Dairy,Apples,5,10.84,54.2,2.61,51.59,270
+2923,QuickStop Market,2025-03-31,Produce,Tomatoes,1,1.24,1.24,0.25,0.99,165
+4882,QuickStop Market,2024-01-17,Bakery,Cereal,5,14.26,71.3,4.7,66.6,340
+6744,SuperSave Central,2025-06-05,Bakery,Eggs,2,9.94,19.88,3.41,16.47,51
+8015,FreshMart Downtown,2023-12-13,Meat & Seafood,Onions,3,28.68,86.04,17.21,68.83,167
+3281,FamilyFood Express,2025-04-07,Bakery,Rice,2,13.29,26.58,5.32,21.26,138
+4385,MegaMart Westside,2025-04-29,Produce,Eggs,4,4.56,18.24,2.78,15.46,485
+4390,FamilyFood Express,2025-04-23,Snacks & Candy,Milk,4,13.71,54.84,5.48,49.36,101
+1972,GreenGrocer Plaza,2024-10-22,Dairy,Apples,5,27.48,137.4,27.48,109.92,370
+6747,FamilyFood Express,2024-09-23,Dairy,Potatoes,5,11.38,56.9,11.38,45.52,162
+5605,FamilyFood Express,2024-11-12,Dairy,Carrots,3,14.85,44.55,4.46,40.09,260
+9827,FreshMart Downtown,2023-12-15,Produce,Tomatoes,4,12.6,50.4,7.56,42.84,439
+6302,MegaMart Westside,2025-02-03,Frozen Foods,Bread,4,28.42,113.68,22.74,90.94,333
+5794,GreenGrocer Plaza,2024-03-18,Health & Wellness,Tomatoes,4,1.45,5.8,0.0,5.8,493
+5380,MegaMart Westside,2025-06-03,Produce,Eggs,2,6.13,12.26,1.62,10.64,4
+9428,City Fresh Store,2025-07-06,Produce,Milk,5,24.26,121.3,18.2,103.1,443
+2560,Corner Grocery,2023-11-20,Meat & Seafood,Cheese,2,6.05,12.1,0.0,12.1,265
+7743,SuperSave Central,2025-07-20,Canned Goods,Chicken Breast,2,1.86,3.72,0.37,3.35,104
+1971,MegaMart Westside,2024-03-09,Frozen Foods,Cereal,1,23.7,23.7,2.37,21.33,169
+3078,FreshMart Downtown,2025-02-01,Meat & Seafood,Cheese,1,16.63,16.63,3.33,13.3,390
+3174,GreenGrocer Plaza,2024-02-16,Produce,Orange Juice,2,3.66,7.32,0.73,6.59,33
+3396,City Fresh Store,2025-02-09,Snacks & Candy,Onions,4,4.89,19.56,2.93,16.63,308
+6277,City Fresh Store,2025-05-11,Beverages,Pasta,2,10.35,20.7,3.67,17.03,276
+5055,GreenGrocer Plaza,2025-03-20,Beverages,Potatoes,5,6.68,33.4,6.68,26.72,112
+7434,FamilyFood Express,2024-08-21,Health & Wellness,Bread,1,21.79,21.79,4.36,17.43,144
+3329,FamilyFood Express,2024-10-28,Frozen Foods,Apples,3,10.52,31.56,0.0,31.56,498
+5402,ValuePlus Market,2024-12-06,Personal Care,Pasta,2,10.5,21.0,3.95,17.05,191
+7786,FreshMart Downtown,2024-05-24,Snacks & Candy,Milk,2,29.4,58.8,0.0,58.8,7
+8405,FreshMart Downtown,2023-10-04,Bakery,Apples,4,10.34,41.36,4.14,37.22,292
+2525,MegaMart Westside,2024-06-14,Bakery,Tomatoes,4,29.78,119.12,2.76,116.36,232
+9447,QuickStop Market,2025-03-11,Health & Wellness,Carrots,3,10.77,32.31,4.85,27.46,456
+5558,MegaMart Westside,2025-01-27,Beverages,Onions,4,20.22,80.88,2.05,78.83,342
+7046,MegaMart Westside,2024-07-25,Snacks & Candy,Bananas,5,4.65,23.25,1.48,21.77,116
+8996,QuickStop Market,2024-04-17,Meat & Seafood,Orange Juice,3,14.11,42.33,1.73,40.6,283
+1040,ValuePlus Market,2025-06-11,Bakery,Eggs,2,23.49,46.98,3.4,43.58,101
+2526,SuperSave Central,2025-02-24,Household Items,Carrots,5,2.35,11.75,1.92,9.83,272
+8511,ValuePlus Market,2024-12-12,Meat & Seafood,Orange Juice,2,3.89,7.78,0.0,7.78,84
+6869,SuperSave Central,2025-05-28,Personal Care,Cheese,2,9.06,18.12,2.72,15.4,491
+2037,Corner Grocery,2025-04-16,Personal Care,Cheese,4,14.56,58.24,1.3,56.94,69
+9756,ValuePlus Market,2024-06-10,Health & Wellness,Rice,2,27.76,55.52,4.02,51.5,313
+4568,SuperSave Central,2024-07-05,Meat & Seafood,Potatoes,2,23.16,46.32,4.63,41.69,413
+4470,SuperSave Central,2024-08-25,Health & Wellness,Cheese,4,18.14,72.56,1.91,70.65,127
+5399,QuickStop Market,2024-04-13,Meat & Seafood,Tomatoes,1,22.04,22.04,4.41,17.63,299
+5646,City Fresh Store,2024-04-25,Meat & Seafood,Pasta,3,1.3,3.9,1.41,2.49,60
+9967,City Fresh Store,2024-10-28,Bakery,Salmon,3,24.83,74.49,14.9,59.59,277
+3139,GreenGrocer Plaza,2024-10-19,Canned Goods,Pasta,1,12.05,12.05,3.51,8.54,456
+8951,Corner Grocery,2025-04-10,Household Items,Apples,4,22.99,91.96,4.99,86.97,115
+6631,MegaMart Westside,2025-07-01,Bakery,Potatoes,4,13.22,52.88,7.93,44.95,326
+1793,QuickStop Market,2023-09-11,Frozen Foods,Carrots,3,13.16,39.48,5.92,33.56,428
+2631,GreenGrocer Plaza,2024-12-05,Produce,Chicken Breast,4,8.03,32.12,2.74,29.38,253
+8529,QuickStop Market,2023-08-19,Dairy,Potatoes,5,18.58,92.9,3.08,89.82,289
+3035,Corner Grocery,2025-07-28,Produce,Chicken Breast,5,25.3,126.5,1.38,125.12,329
+3588,FamilyFood Express,2024-07-14,Canned Goods,Cheese,4,21.82,87.28,0.0,87.28,20
+8479,City Fresh Store,2023-08-07,Beverages,Carrots,1,28.26,28.26,0.0,28.26,416
+8009,FreshMart Downtown,2024-01-11,Bakery,Apples,1,19.28,19.28,2.89,16.39,168
+3161,Corner Grocery,2025-06-22,Produce,Salmon,3,11.39,34.17,5.13,29.04,349
+5945,FamilyFood Express,2023-12-08,Frozen Foods,Salmon,1,10.4,10.4,2.08,8.32,357
+5489,FamilyFood Express,2023-10-18,Personal Care,Onions,3,22.47,67.41,13.48,53.93,385
+6905,City Fresh Store,2024-02-17,Dairy,Cereal,3,18.87,56.61,8.49,48.12,378
+2350,QuickStop Market,2024-05-21,Dairy,Bread,4,10.06,40.24,4.02,36.22,254
+3711,FamilyFood Express,2023-09-16,Frozen Foods,Potatoes,3,10.76,32.28,6.46,25.82,224
+7493,SuperSave Central,2024-12-04,Canned Goods,Bananas,1,6.49,6.49,3.15,3.34,158
+6005,Corner Grocery,2025-02-20,Household Items,Bread,2,3.7,7.4,1.11,6.29,364
+4836,SuperSave Central,2024-07-05,Canned Goods,Onions,3,12.5,37.5,4.38,33.12,471
+2494,QuickStop Market,2025-02-03,Household Items,Bread,3,29.97,89.91,17.98,71.93,226
+2559,ValuePlus Market,2023-08-07,Meat & Seafood,Pasta,1,15.33,15.33,3.07,12.26,426
+4496,FamilyFood Express,2024-08-11,Beverages,Yogurt,2,1.35,2.7,2.93,-0.23,124
+2276,City Fresh Store,2023-11-18,Snacks & Candy,Onions,5,29.94,149.7,29.94,119.76,98
+4705,ValuePlus Market,2024-09-13,Household Items,Tomatoes,5,26.76,133.8,0.0,133.8,198
+8291,MegaMart Westside,2023-08-14,Frozen Foods,Cheese,3,11.56,34.68,5.2,29.48,473
+1132,ValuePlus Market,2025-01-28,Canned Goods,Bread,2,10.32,20.64,3.32,17.32,423
+6629,GreenGrocer Plaza,2025-05-02,Personal Care,Potatoes,5,10.08,50.4,0.0,50.4,413
+2975,MegaMart Westside,2025-06-05,Health & Wellness,Onions,2,14.48,28.96,2.9,26.06,294
+7919,City Fresh Store,2025-01-27,Beverages,Cheese,1,28.63,28.63,2.79,25.84,87
+3165,FreshMart Downtown,2024-08-12,Canned Goods,Potatoes,2,2.84,5.68,0.0,5.68,181
+2160,QuickStop Market,2024-01-31,Household Items,Pasta,1,21.68,21.68,0.0,21.68,251
+7276,SuperSave Central,2023-10-15,Snacks & Candy,Yogurt,4,9.97,39.88,5.98,33.9,356
+2678,FamilyFood Express,2023-10-26,Household Items,Carrots,4,5.17,20.68,4.88,15.8,276
+6133,FreshMart Downtown,2024-05-18,Canned Goods,Chicken Breast,1,18.79,18.79,0.0,18.79,271
+5902,SuperSave Central,2023-11-21,Bakery,Ground Beef,5,23.43,117.15,3.6,113.55,91
+7270,City Fresh Store,2025-03-29,Dairy,Cereal,1,3.72,3.72,0.37,3.35,206
+3181,Corner Grocery,2024-12-17,Beverages,Eggs,3,6.3,18.9,3.78,15.12,159
+3340,Corner Grocery,2023-09-29,Frozen Foods,Potatoes,1,6.34,6.34,1.27,5.07,205
+9691,MegaMart Westside,2024-10-17,Health & Wellness,Bread,3,14.09,42.27,4.52,37.75,48
+1138,FreshMart Downtown,2024-11-23,Personal Care,Milk,3,3.76,11.28,2.31,8.97,0
+3688,QuickStop Market,2024-07-13,Produce,Orange Juice,1,28.71,28.71,5.74,22.97,96
+6753,ValuePlus Market,2025-02-18,Bakery,Orange Juice,1,26.28,26.28,2.5,23.78,467
+4490,SuperSave Central,2024-12-06,Beverages,Apples,5,5.31,26.55,3.49,23.06,419
+3480,ValuePlus Market,2025-07-21,Dairy,Rice,3,4.12,12.36,3.07,9.29,349
+7745,GreenGrocer Plaza,2024-11-27,Beverages,Yogurt,5,5.49,27.45,2.75,24.7,313
+8248,ValuePlus Market,2025-06-04,Snacks & Candy,Salmon,1,20.38,20.38,4.08,16.3,33
+4559,MegaMart Westside,2023-10-13,Meat & Seafood,Ground Beef,4,6.45,25.8,3.87,21.93,206
+2646,FreshMart Downtown,2023-11-23,Beverages,Chicken Breast,5,3.63,18.15,3.25,14.9,335
+3017,ValuePlus Market,2024-11-06,Personal Care,Tomatoes,5,19.64,98.2,19.64,78.56,144
+7291,City Fresh Store,2024-05-06,Bakery,Rice,4,12.71,50.84,5.08,45.76,193
+8035,FreshMart Downtown,2024-04-07,Beverages,Chicken Breast,3,17.27,51.81,7.77,44.04,312
+3290,City Fresh Store,2024-02-15,Frozen Foods,Milk,5,25.1,125.5,18.82,106.68,96
+5537,ValuePlus Market,2024-12-19,Meat & Seafood,Cereal,1,16.48,16.48,1.65,14.83,24
+2380,FamilyFood Express,2024-02-15,Canned Goods,Onions,1,24.88,24.88,0.0,24.88,350
+5668,ValuePlus Market,2025-04-03,Personal Care,Apples,5,11.74,58.7,11.74,46.96,357
+1439,GreenGrocer Plaza,2025-05-26,Beverages,Apples,2,21.65,43.3,4.33,38.97,37
+5942,FamilyFood Express,2024-01-13,Household Items,Bananas,1,27.73,27.73,4.16,23.57,105
+9482,FreshMart Downtown,2024-11-20,Bakery,Cereal,2,29.62,59.24,8.89,50.35,423
+9348,Corner Grocery,2023-12-31,Produce,Eggs,2,18.35,36.7,3.67,33.03,318
+7418,QuickStop Market,2024-03-23,Bakery,Pasta,4,21.01,84.04,8.4,75.64,212
+1894,QuickStop Market,2025-04-06,Bakery,Potatoes,3,18.39,55.17,3.78,51.39,320
+4921,City Fresh Store,2024-08-25,Meat & Seafood,Ground Beef,1,19.48,19.48,1.95,17.53,59
+7322,GreenGrocer Plaza,2023-11-02,Meat & Seafood,Onions,3,5.84,17.52,0.0,17.52,378
+4949,Corner Grocery,2024-08-29,Frozen Foods,Onions,3,9.25,27.75,4.04,23.71,291
+2163,,2024-09-20,Bakery,Bread,5,25.54,127.7,4.98,122.72,102
+1197,City Fresh Store,2024-05-13,Beverages,Chicken Breast,1,7.62,7.62,1.52,6.1,426
+6185,GreenGrocer Plaza,2023-11-17,Dairy,Ground Beef,4,18.83,75.32,7.53,67.79,224
+7337,FreshMart Downtown,2025-06-05,Health & Wellness,Carrots,2,23.28,46.56,3.28,43.28,371
+7895,SuperSave Central,2024-05-16,Canned Goods,Pasta,2,11.14,22.28,2.23,20.05,102
+9951,Corner Grocery,2025-01-18,Meat & Seafood,Rice,5,2.84,14.2,2.13,12.07,94
+3830,City Fresh Store,2025-03-21,Produce,Salmon,1,25.45,25.45,1.64,23.81,308
+8717,ValuePlus Market,2025-03-27,Canned Goods,Milk,1,20.85,20.85,3.88,16.97,209
+2195,MegaMart Westside,2023-08-19,Canned Goods,Milk,2,27.13,54.26,2.52,51.74,350
+2106,FreshMart Downtown,2023-08-17,Snacks & Candy,Chicken Breast,2,23.09,46.18,3.6,42.58,18
+5295,City Fresh Store,2024-01-21,Household Items,Tomatoes,3,20.87,62.61,0.0,62.61,198
+1652,FamilyFood Express,2025-07-23,Health & Wellness,Potatoes,5,8.24,41.2,4.12,37.08,325
+1990,SuperSave Central,2025-04-11,Beverages,Onions,3,7.48,22.44,2.24,20.2,146
+7520,QuickStop Market,2024-09-03,Meat & Seafood,Orange Juice,1,13.51,13.51,2.84,10.67,153
+5693,ValuePlus Market,2024-12-07,Bakery,Tomatoes,2,25.35,50.7,5.07,45.63,180
+9209,Corner Grocery,2025-03-24,Snacks & Candy,Salmon,4,13.86,55.44,8.32,47.12,198
+7806,MegaMart Westside,2024-07-01,Canned Goods,Tomatoes,2,21.97,43.94,8.79,35.15,105
+7590,FamilyFood Express,2023-10-10,Household Items,Yogurt,5,11.53,57.65,8.65,49.0,237
+9791,QuickStop Market,2024-09-27,Bakery,Tomatoes,2,14.63,29.26,4.39,24.87,277
+3501,Corner Grocery,2024-03-09,Produce,Yogurt,2,10.78,21.56,0.0,21.56,455
+2369,Corner Grocery,2024-04-03,Personal Care,Cheese,2,28.34,56.68,5.67,51.01,12
+2294,SuperSave Central,2024-09-07,Frozen Foods,Eggs,4,17.67,70.68,14.14,56.54,410
+4329,Corner Grocery,2025-04-25,Canned Goods,Salmon,2,26.16,52.32,7.85,44.47,66
+3545,ValuePlus Market,2024-09-26,Health & Wellness,Milk,1,23.81,23.81,4.68,19.13,43
+6353,FreshMart Downtown,2024-06-05,Canned Goods,Bread,3,28.01,84.03,0.0,84.03,182
+2083,SuperSave Central,2024-04-03,Bakery,Rice,1,11.52,11.52,4.62,6.9,465
+8167,City Fresh Store,2025-02-23,Beverages,Cereal,2,9.39,18.78,3.76,15.02,51
+4909,SuperSave Central,2023-09-20,Snacks & Candy,Chicken Breast,5,27.39,136.95,3.21,133.74,209
+5005,City Fresh Store,2023-10-12,Frozen Foods,Ground Beef,1,20.24,20.24,4.02,16.22,75
+8118,SuperSave Central,2023-11-05,Snacks & Candy,Potatoes,4,14.82,59.28,3.75,55.53,392
+8428,MegaMart Westside,2024-11-24,Beverages,Apples,4,26.92,107.68,0.0,107.68,496
+1901,MegaMart Westside,2024-04-03,Canned Goods,Bread,3,2.99,8.97,0.0,8.97,69
+3877,Corner Grocery,2023-11-07,Meat & Seafood,Chicken Breast,2,28.88,57.76,0.0,57.76,164
+1207,GreenGrocer Plaza,2025-02-06,Canned Goods,Potatoes,1,19.02,19.02,3.8,15.22,302
+3248,MegaMart Westside,2025-02-01,Frozen Foods,Yogurt,5,9.12,45.6,4.56,41.04,266
+1185,MegaMart Westside,2023-12-12,Meat & Seafood,Milk,2,21.3,42.6,4.26,38.34,134
+9133,MegaMart Westside,2024-05-02,Produce,Pasta,4,20.11,80.44,16.09,64.35,170
+9568,FreshMart Downtown,2024-09-11,Household Items,Bananas,3,12.03,36.09,3.61,32.48,463
+5247,Corner Grocery,2023-12-14,Produce,Pasta,4,10.72,42.88,4.29,38.59,411
+7092,MegaMart Westside,2023-11-13,Meat & Seafood,Orange Juice,3,17.01,51.03,7.65,43.38,250
+5403,GreenGrocer Plaza,2025-02-26,Beverages,Bread,3,25.97,77.91,4.24,73.67,458
+2934,GreenGrocer Plaza,2025-03-28,Bakery,Bread,2,11.82,23.64,4.45,19.19,78
+1480,FreshMart Downtown,2024-04-23,Produce,Cereal,5,3.03,15.15,0.0,15.15,298
+8034,MegaMart Westside,2024-03-05,Health & Wellness,Chicken Breast,5,4.53,22.65,4.53,18.12,360
+9582,GreenGrocer Plaza,2023-09-25,Meat & Seafood,Bread,1,1.1,1.1,0.22,0.88,405
+5308,FreshMart Downtown,2025-02-10,Dairy,Tomatoes,3,19.13,57.39,11.48,45.91,98
+2262,City Fresh Store,2024-08-26,Household Items,Apples,4,9.34,37.36,3.74,33.62,346
+8457,SuperSave Central,2024-09-06,Personal Care,Bananas,1,6.09,6.09,1.22,4.87,101
+6900,ValuePlus Market,2023-09-19,Household Items,Yogurt,1,21.37,21.37,4.27,17.1,38
+9185,MegaMart Westside,2025-06-04,Bakery,Apples,4,19.41,77.64,2.65,74.99,303
+3734,QuickStop Market,2024-05-18,Bakery,Cheese,3,24.9,74.7,1.03,73.67,376
+3577,QuickStop Market,2024-02-21,Frozen Foods,Apples,1,2.78,2.78,0.0,2.78,252
+2685,FreshMart Downtown,2025-07-01,Household Items,Cheese,1,20.54,20.54,4.91,15.63,460
+2889,GreenGrocer Plaza,2024-01-31,Canned Goods,Orange Juice,5,20.66,103.3,0.0,103.3,33
+9336,MegaMart Westside,2023-08-08,Beverages,Orange Juice,4,11.73,46.92,7.04,39.88,153
+1721,ValuePlus Market,2025-06-03,Bakery,Ground Beef,5,5.94,29.7,2.97,26.73,353
+1201,City Fresh Store,2024-02-12,Beverages,Cereal,4,14.44,57.76,5.78,51.98,460
+1753,SuperSave Central,2024-08-07,Meat & Seafood,Tomatoes,4,28.53,114.12,17.12,97.0,447
+6963,Corner Grocery,2024-05-30,Health & Wellness,Eggs,4,11.6,46.4,9.28,37.12,222
+3458,SuperSave Central,2023-12-24,Bakery,Chicken Breast,1,12.34,12.34,1.85,10.49,76
+1579,FamilyFood Express,2024-10-09,Produce,Potatoes,4,5.58,22.32,4.46,17.86,424
+7870,FamilyFood Express,2024-01-28,Beverages,Potatoes,4,13.61,54.44,5.44,49.0,436
+6272,FreshMart Downtown,2024-02-15,Canned Goods,Chicken Breast,1,28.63,28.63,2.16,26.47,361
+7819,FamilyFood Express,2025-07-18,Personal Care,Potatoes,2,13.06,26.12,0.0,26.12,6
+6241,SuperSave Central,2024-03-04,Canned Goods,Rice,5,13.43,67.15,2.13,65.02,62
+2276,MegaMart Westside,2024-10-23,Meat & Seafood,Orange Juice,5,29.13,145.65,14.57,131.08,32
+7108,MegaMart Westside,2023-11-07,Snacks & Candy,Ground Beef,2,28.38,56.76,8.51,48.25,352
+9225,City Fresh Store,2025-01-10,Frozen Foods,Onions,3,17.73,53.19,10.64,42.55,169
+1862,MegaMart Westside,2023-12-24,Health & Wellness,Ground Beef,5,18.66,93.3,9.33,83.97,416
+4656,City Fresh Store,2025-04-22,Produce,Cereal,5,26.53,132.65,2.29,130.36,196
+9450,ValuePlus Market,2023-09-11,Beverages,Salmon,5,27.1,135.5,2.8,132.7,484
+7568,FamilyFood Express,2023-09-29,Frozen Foods,Eggs,3,25.58,76.74,15.35,61.39,30
+8620,FamilyFood Express,2025-06-09,Health & Wellness,Bananas,3,11.32,33.96,1.58,32.38,317
+5625,QuickStop Market,2025-03-29,Canned Goods,Potatoes,3,18.53,55.59,0.0,55.59,274
+6090,FamilyFood Express,2024-04-17,Household Items,Chicken Breast,3,22.26,66.78,4.2,62.58,376
+2415,QuickStop Market,2024-10-09,Bakery,Tomatoes,4,21.31,85.24,12.79,72.45,436
+8483,QuickStop Market,2023-08-13,Bakery,Eggs,3,1.72,5.16,2.47,2.69,333
+7044,SuperSave Central,2024-01-09,Beverages,Tomatoes,5,5.54,27.7,4.75,22.95,227
+5777,City Fresh Store,2024-10-17,Frozen Foods,Yogurt,5,14.14,70.7,10.61,60.09,83
+5979,FreshMart Downtown,2025-03-03,Dairy,Milk,3,17.01,51.03,7.65,43.38,188
+4974,Corner Grocery,2024-08-01,Personal Care,Bananas,4,19.73,78.92,11.84,67.08,202
+7033,FreshMart Downtown,2024-11-08,Health & Wellness,Rice,3,17.39,52.17,1.22,50.95,291
+9083,SuperSave Central,2025-03-29,Beverages,Bread,1,5.05,5.05,0.0,5.05,52
+4201,FamilyFood Express,2025-02-25,Dairy,Orange Juice,3,10.8,32.4,2.97,29.43,211
+9954,ValuePlus Market,2025-03-19,Produce,Carrots,4,19.6,78.4,4.29,74.11,202
+5016,FamilyFood Express,2023-12-01,Beverages,Apples,1,23.11,23.11,4.62,18.49,444
+1104,FamilyFood Express,2025-07-31,Produce,Onions,1,2.51,2.51,0.25,2.26,431
+7718,FreshMart Downtown,2023-08-25,Produce,Ground Beef,2,28.54,57.08,2.28,54.8,488
+4817,Corner Grocery,2024-09-30,Health & Wellness,Tomatoes,1,15.79,15.79,3.68,12.11,148
+6675,Corner Grocery,2024-12-12,Personal Care,Bread,1,6.79,6.79,1.36,5.43,18
+1157,City Fresh Store,2024-04-23,Produce,Orange Juice,1,17.86,17.86,1.79,16.07,188
+1023,FamilyFood Express,2025-03-18,Meat & Seafood,Onions,1,27.53,27.53,4.13,23.4,381
+7164,ValuePlus Market,2025-05-27,Canned Goods,Carrots,4,5.63,22.52,3.38,19.14,103
+6038,FamilyFood Express,2023-10-26,Canned Goods,Pasta,4,4.45,17.8,2.78,15.02,146
+4361,ValuePlus Market,2024-09-21,Snacks & Candy,Yogurt,2,4.26,8.52,0.0,8.52,198
+4902,FamilyFood Express,2024-06-28,Bakery,Rice,2,26.7,53.4,8.01,45.39,418
+9061,City Fresh Store,2023-09-22,Produce,Ground Beef,5,26.81,134.05,26.81,107.24,431
+3332,ValuePlus Market,2025-02-09,Produce,Rice,1,7.27,7.27,1.45,5.82,92
+5584,City Fresh Store,2023-10-18,Snacks & Candy,Cereal,4,29.53,118.12,11.81,106.31,308
+1719,City Fresh Store,2025-07-22,Personal Care,Rice,2,3.24,6.48,3.48,3.0,54
+4792,FreshMart Downtown,2025-07-03,Frozen Foods,Bananas,3,13.9,41.7,1.21,40.49,373
+9515,FamilyFood Express,2024-06-22,Health & Wellness,Yogurt,4,22.5,90.0,13.5,76.5,190
+7102,Corner Grocery,2024-07-28,Health & Wellness,Bananas,3,23.33,69.99,10.5,59.49,460
+2391,SuperSave Central,2024-10-31,Frozen Foods,Salmon,2,4.48,8.96,0.9,8.06,325
+2565,SuperSave Central,2024-09-02,Produce,Chicken Breast,1,22.01,22.01,3.3,18.71,233
+3187,FreshMart Downtown,2024-12-13,Household Items,Potatoes,1,22.2,22.2,2.59,19.61,78
+7461,Corner Grocery,2023-10-04,Produce,Milk,4,13.53,54.12,10.82,43.3,238
+2020,FreshMart Downtown,2024-07-09,Household Items,Milk,1,28.81,28.81,0.0,28.81,448
+3141,QuickStop Market,2024-02-06,Beverages,Yogurt,3,1.7,5.1,1.02,4.08,139
+5778,City Fresh Store,2024-02-25,Produce,Milk,5,25.22,126.1,25.22,100.88,222
+6161,FreshMart Downtown,2025-07-26,Frozen Foods,Orange Juice,1,18.33,18.33,1.66,16.67,233
+7438,MegaMart Westside,2025-02-01,Personal Care,Onions,2,10.29,20.58,2.06,18.52,327
+6345,SuperSave Central,2024-04-10,Household Items,Tomatoes,3,14.55,43.65,8.73,34.92,177
+8417,City Fresh Store,2024-03-05,Health & Wellness,Onions,4,11.44,45.76,2.01,43.75,221
+4827,SuperSave Central,2023-10-04,Canned Goods,Orange Juice,4,14.06,56.24,2.37,53.87,276
+4321,SuperSave Central,2023-11-20,Household Items,Cereal,5,19.34,96.7,1.56,95.14,381
+2785,FamilyFood Express,2023-12-05,Snacks & Candy,Bread,4,26.53,106.12,1.42,104.7,256
+2731,FreshMart Downtown,2023-12-12,Frozen Foods,Onions,2,22.44,44.88,4.49,40.39,350
+8365,GreenGrocer Plaza,2024-08-02,Canned Goods,Orange Juice,5,28.16,140.8,28.16,112.64,267
+6145,MegaMart Westside,2024-06-17,Snacks & Candy,Chicken Breast,2,19.56,39.12,0.0,39.12,232
+2978,FamilyFood Express,2024-09-26,Produce,Carrots,1,15.35,15.35,0.0,15.35,468
+6870,QuickStop Market,2025-03-27,Bakery,Tomatoes,3,24.92,74.76,14.95,59.81,277
+4401,FreshMart Downtown,2024-07-23,Produce,Bananas,3,4.5,13.5,2.01,11.49,95
+6051,GreenGrocer Plaza,2024-07-31,Snacks & Candy,Orange Juice,4,1.3,5.2,0.78,4.42,305
+5341,Corner Grocery,2025-05-30,Canned Goods,Yogurt,3,13.42,40.26,0.0,40.26,301
+2964,FreshMart Downtown,2023-10-16,Health & Wellness,Potatoes,1,15.49,15.49,2.32,13.17,179
+3582,City Fresh Store,2025-04-25,Snacks & Candy,Onions,1,13.25,13.25,0.0,13.25,300
+5984,City Fresh Store,2025-05-09,Produce,Tomatoes,1,28.91,28.91,2.89,26.02,388
+1660,QuickStop Market,2024-01-21,Personal Care,Bread,1,8.11,8.11,0.81,7.3,425
+6370,Corner Grocery,2023-11-30,Canned Goods,Ground Beef,5,29.53,147.65,22.15,125.5,17
+2494,ValuePlus Market,2025-02-09,Beverages,Yogurt,5,12.9,64.5,4.45,60.05,5
+5066,FreshMart Downtown,2024-05-09,Personal Care,Salmon,1,15.55,15.55,0.0,15.55,237
+7492,Corner Grocery,2024-09-08,Personal Care,Milk,3,17.97,53.91,10.78,43.13,357
+1802,City Fresh Store,2025-01-13,Frozen Foods,Apples,1,9.41,9.41,3.75,5.66,169
+5896,GreenGrocer Plaza,2024-02-25,Bakery,Potatoes,4,8.21,32.84,3.28,29.56,198
+3848,FreshMart Downtown,2023-08-31,Frozen Foods,Apples,2,10.85,21.7,4.34,17.36,349
+7625,City Fresh Store,2025-05-31,Dairy,Chicken Breast,2,5.03,10.06,1.01,9.05,379
+8408,City Fresh Store,2024-10-11,Canned Goods,Cheese,1,21.53,21.53,0.0,21.53,459
+5093,ValuePlus Market,2023-10-19,Dairy,Cheese,4,1.96,7.84,1.26,6.58,223
+8570,QuickStop Market,2023-10-25,Health & Wellness,Orange Juice,4,12.63,50.52,10.1,40.42,470
+3290,GreenGrocer Plaza,2023-11-09,Produce,Apples,1,17.53,17.53,1.75,15.78,340
+1195,ValuePlus Market,2023-09-23,Canned Goods,Onions,3,14.85,44.55,2.65,41.9,497
+4641,ValuePlus Market,2023-11-16,Produce,Ground Beef,2,5.26,10.52,2.49,8.03,68
+4246,ValuePlus Market,2025-05-07,Produce,Chicken Breast,5,20.3,101.5,15.22,86.28,299
+7563,SuperSave Central,2024-05-22,Canned Goods,Ground Beef,4,24.23,96.92,9.69,87.23,96
+2376,City Fresh Store,2024-11-01,Bakery,Chicken Breast,2,12.24,24.48,4.9,19.58,324
+5240,SuperSave Central,2025-07-19,Personal Care,Eggs,1,14.84,14.84,2.97,11.87,37
+2228,Corner Grocery,2023-08-23,Health & Wellness,Orange Juice,2,25.0,50.0,5.0,45.0,208
+2056,FreshMart Downtown,2024-01-07,Canned Goods,Tomatoes,1,6.58,6.58,0.66,5.92,371
+8265,City Fresh Store,2025-04-26,Household Items,Ground Beef,2,14.89,29.78,0.0,29.78,486
+3110,SuperSave Central,2023-10-17,Bakery,Carrots,3,15.41,46.23,1.12,45.11,38
+6432,GreenGrocer Plaza,2023-11-10,Personal Care,Bread,2,23.4,46.8,7.02,39.78,20
+1699,Corner Grocery,2024-07-30,Frozen Foods,Salmon,3,9.79,29.37,4.41,24.96,274
+1829,City Fresh Store,2023-12-15,Personal Care,Potatoes,4,22.96,91.84,9.18,82.66,429
+8096,MegaMart Westside,2025-05-06,Dairy,Potatoes,3,16.44,49.32,7.4,41.92,315
+7471,QuickStop Market,2024-08-26,Frozen Foods,Rice,5,15.88,79.4,15.88,63.52,160
+1483,FamilyFood Express,2024-05-30,Canned Goods,Rice,2,24.94,49.88,7.48,42.4,265
